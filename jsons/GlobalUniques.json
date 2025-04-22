@@ -1,0 +1,55 @@
+{
+    "name": "Global uniques",
+    "uniques": [
+        "[-75]% growth [in all cities] <when between [-10] and [-1] Happiness>",
+        "Nullifies Growth [in all cities] <when below [-10] Happiness>",
+        "[-50]% [Production] [in all cities] <when below [-10] Happiness>",
+        "[-33]% Strength <for [All] units> <when below [-10] Happiness>",
+        "Cannot build [Settler] units <when below [-10] Happiness>",
+        "Rebel units may spawn <when below [-20] Happiness>",
+        "[-1] Sight <for [Embarked] units>",
+        "Enables Open Borders agreements",
+        "Enables Defensive Pacts",
+
+        // TODO: Implement the uniques below
+        // "[+20]% [Culture] [in all cities] <during a golden age>",
+        // "[+20]% [Production] [in all cities] <during a golden age>",
+
+        // "[+10]% growth [in all cities] <during We Love The King Day>",
+
+        // "Nullifies All Yield <while is in resistance>",
+
+        // "[-25]% [Science] [in pupetted cities]" -- Imo cityFilters should ideally become conditionals anyway
+        // "[-25]% [Culture] [in pupetted cities]"
+
+        // "[+20]% [Production] [in cities connected via railroad]"
+
+        // something something unit supply
+
+        // Temporary "Needs actual support" uniques
+        "[+1 Faith] from every [Quarry] <with [1] to [6] neighboring [Rock-hewn church] tiles>",
+        "[+1 Faith] from every [Quarry] <with [2] to [6] neighboring [Rock-hewn church] tiles>",
+        "[+1 Faith] from every [Quarry] <with [3] to [6] neighboring [Rock-hewn church] tiles>",
+        "[+1 Faith] from every [Quarry] <with [4] to [6] neighboring [Rock-hewn church] tiles>",
+        "[+1 Faith] from every [Quarry] <with [5] to [6] neighboring [Rock-hewn church] tiles>",
+        "[+1 Faith] from every [Quarry] <with [6] to [6] neighboring [Rock-hewn church] tiles>",
+
+        // Difficulty settings missing
+        "[+60]% Strength <for [{Major} {AI player}] units> <vs [Barbarian] units>",
+        "[+10]% Strength <for [{Major} {AI player}] units> <vs [Barbarian] units> <on [Chieftain] difficulty>", // These are additive, not multiplicative
+        "[+15]% Strength <for [{Major} {AI player}] units> <vs [Barbarian] units> <on [Settler] difficulty>",
+
+        "[This unit] gains [10] XP <for [{Major} {AI player}] units> <on [King] difficulty> <upon gaining a [all] unit> <Suppress warning [is not allowed]>",
+        "[This unit] gains [10] XP <for [{Major} {AI player}] units> <on [Emperor] difficulty> <upon gaining a [all] unit> <Suppress warning [is not allowed]>",
+        "[+25]% XP gained from combat <for [{Major} {AI player}] units> <on [Emperor] difficulty>",
+        "[This unit] gains [30] XP <for [{Major} {AI player}] units> <on [Immortal] difficulty> <upon gaining a [all] unit> <Suppress warning [is not allowed]>",
+        "[+50]% XP gained from combat <for [{Major} {AI player}] units> <on [Immortal] difficulty>",
+        "[This unit] gains [30] XP <for [{Major} {AI player}] units> <on [Deity] difficulty> <upon gaining a [all] unit> <Suppress warning [is not allowed]>",
+        "[+100]% XP gained from combat <for [{Major} {AI player}] units> <on [Deity] difficulty>",
+
+        "Can build [all] improvements at a [+20]% rate <for [{Major} {AI player}] Civilizations> <on [King] difficulty>",
+        "Can build [all] improvements at a [+50]% rate <for [{Major} {AI player}] Civilizations> <on [Emperor] difficulty>",
+        "Can build [all] improvements at a [+75]% rate <for [{Major} {AI player}] Civilizations> <on [Immortal] difficulty>",
+        "Can build [all] improvements at a [+100]% rate <for [{Major} {AI player}] Civilizations> <on [Deity] difficulty>",
+    ]
+}
