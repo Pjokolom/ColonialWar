@@ -1,7 +1,7 @@
 [
     {
         "name": "Tradition",
-        "era": "Ancient era",
+        "era": "Modern era",
         "uniques": [
             "[+3 Culture] from every [Palace]",
             "[-25]% Culture cost of natural border growth [in all cities]",
@@ -23,16 +23,6 @@
                 "name": "Legalism",
                 "uniques": [
                     "Provides the cheapest [Culture] building in your first [4] cities for free",
-                    "[+2 Culture] from every [National Epic]",
-                    "[+2 Culture] from every [National College]",
-                    "[+2 Culture] from every [Circus Maximus]",
-                    "[+2 Culture] from every [Heroic Epic]",
-                    "[+2 Culture] from every [East India Company]",
-                    "[+2 Culture] from every [Grand Temple]",
-                    "[+2 Culture] from every [Ironworks]",
-                    "[+2 Culture] from every [Oxford University]",
-                    "[+2 Culture] from every [Hermitage]",
-                    "[+2 Culture] from every [National Intelligence Agency]",
                     "Provides [1] [Policies]"
                 ],
                 "row": 1,
@@ -73,7 +63,6 @@
                 "name": "Tradition Complete",
                 "uniques": [
                     "[+15]% growth [in all cities]",
-                    "Provides a [Aqueduct] in your first [4] cities for free",
                     "May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
             }
@@ -81,7 +70,7 @@
     },
     {
         "name": "Liberty",
-        "era": "Ancient era",
+        "era": "Modern era",
         "uniques": [
             "[+1 Culture] [in all cities]",
             "Comment [Unlocks [The Pyramids]]",
@@ -111,8 +100,8 @@
             {
                 "name": "Collective Rule",
                 "uniques": [
-                    "[+50]% Production when constructing [Settler] units [in capital]",
-                    "Free [Settler] appears",
+                    "[+50]% Production when constructing [Coloniser] units [in capital]",
+                    "Free [Coloniser] appears",
                     "Provides [1] [Policies]"
                 ],
                 "requires": ["Republic"],
@@ -123,7 +112,6 @@
                 "name": "Representation",
                 "uniques": [
                     "Each city founded increases culture cost of policies [33]% less than normal",
-                    "[+1 Gold] from every [Monument]",
                     "Empire enters golden age",
                     "Provides [1] [Policies]"
                 ],
@@ -134,7 +122,6 @@
             {
                 "name": "Meritocracy",
                 "uniques": [
-                    "[+15]% [Gold] from Trade Routes",
                     "[+1 Happiness] [in all cities connected to capital]",
                     "[-5]% Unhappiness from [Population] [in all non-occupied cities]",
                     "Provides [1] [Policies]"
@@ -146,37 +133,13 @@
             {
                 "name": "Liberty Complete",
                 "uniques": [
-                    "Free Great Person",
-                    "[+33]% Production when constructing [National Epic] wonders [in all cities]",
-                    "[+33]% Production when constructing [National College] wonders [in all cities]",
-                    "[+33]% Production when constructing [Circus Maximus] wonders [in all cities]",
-                    "[+33]% Production when constructing [Heroic Epic] wonders [in all cities]",
-                    "[+33]% Production when constructing [East India Company] wonders [in all cities]",
-                    "[+33]% Production when constructing [Grand Temple] wonders [in all cities]",
-                    "[+33]% Production when constructing [Ironworks] wonders [in all cities]",
-                    "[+33]% Production when constructing [Oxford University] wonders [in all cities]",
-                    "[+33]% Production when constructing [Hermitage] wonders [in all cities]",
-                    "[+33]% Production when constructing [National Intelligence Agency] wonders [in all cities]",
-                    //"[+33]% Production when constructing [National Visitor's Center] wonders [in all cities]",
-                    
-                    "[+15]% Production when constructing [Monument] buildings [in all cities]",
-                    "[+15]% Production when constructing [Library] buildings [in all cities]",
-                    "[+15]% Production when constructing [Colosseum] buildings [in all cities]",
-                    "[+15]% Production when constructing [Barracks] buildings [in all cities]",
-                    "[+15]% Production when constructing [Market] buildings [in all cities]",
-                    "[+15]% Production when constructing [Temple] buildings [in all cities]",
-                    "[+15]% Production when constructing [Workshop] buildings [in all cities]",
-                    "[+15]% Production when constructing [University] buildings [in all cities]",
-                    "[+15]% Production when constructing [Opera House] buildings [in all cities]",
-                    "[+15]% Production when constructing [Constabulary] buildings [in all cities]",
-                    //"[+15]% Production when constructing [Hotel] buildings [in all cities]",
                 ]
             }
         ]
     },
     {
         "name": "Honor",
-        "era": "Ancient era",
+        "era": "Modern era",
         "uniques": [
             "[+33]% Strength <vs [Barbarian] units>",
             "Earn [100]% of killed [Military] unit's [Strength] as [Culture]",
@@ -187,7 +150,6 @@
             {
                 "name": "Warrior Code",
                 "uniques": [
-                    "[2] free [Warrior] units appear",
                     "Earn [100]% of killed [Military] unit's [Strength] as [Gold]",
                     "[4] units cost no maintenance",
                     "Provides [1] [Policies]"
@@ -198,12 +160,6 @@
             {
                 "name": "Professional Army",
                 "uniques": [
-                    "[+1 Production, +1 Gold, +1 Culture] from every [Military Academy]",
-                    "[+1 Production, +1 Gold, +1 Culture] from every [Armory]",
-                    "[+1 Production, +1 Gold, +1 Culture] from every [Barracks]",
-                    "[+100]% Production when constructing [Barracks] buildings [in all cities]",
-                    "[+100]% Production when constructing [Armory] buildings [in all cities]",
-                    "[+100]% Production when constructing [Military Academy] buildings [in all cities]",
                     "Provides [1] [Policies]"
                 ],
                 "row": 1,
@@ -214,7 +170,6 @@
                 "uniques": [
                     "Units in cities cost no Maintenance",
                     "[+1 Happiness, +2 Culture] [in all cities with a garrison]",
-                    "[+2 Happiness] from every [Courthouse]",
                     "Provides [1] [Policies]"
                 ],
                 "requires": ["Warrior Code"],
@@ -224,10 +179,6 @@
             {
                 "name": "Military Tradition",
                 "uniques": [
-                    //"[-20]% Gold cost of upgrading <for [Military] units>",
-                    "[+50]% Production when constructing [Courthouse] buildings [in all cities]",
-                    "[+3 Production, +3 Gold, +3 Food] from every [Courthouse]",
-                    "[+1 Food, +2 Science, +2 Culture] from every [Citadel]",
                     "Provides [1] [Policies]"
                 ],
                 "requires": ["Professional Army"],
@@ -237,8 +188,6 @@
             {
                 "name": "Discipline",
                 "uniques": [
-                    "[+100]% Production when constructing [Heroic Epic] wonders [in all cities]",
-                    "[+4 Production, +4 Gold, +4 Culture, +4 Happiness] from every [Heroic Epic]",
                     "[50]% XP gained from combat <for [non-[Air]] units>",
                     "Provides [1] [Policies]"
                 ],
@@ -251,17 +200,14 @@
                 "uniques": [
                     "[+10]% [Food] [in all cities]",
                     "Earn [100]% of killed [Military] unit's [Strength] as [Science]",
-                    "May buy [Great General] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
             }
         ]
     },
     {
         "name": "Piety",
-        "era": "Ancient era",
+        "era": "Modern era",
         "uniques": [
-            "[+100]% Production when constructing [Temple] buildings [in all cities]",
-            "[+100]% Production when constructing [Shrine] buildings [in all cities]",
             "[+1 Culture, +1 Faith] [in capital]",
             "Comment [Unlocks [Great Mosque of Djenne]]",
             "Provides [1] [Policies]"
@@ -270,7 +216,6 @@
             {
                 "name": "Mandate Of Heaven",
                 "uniques": [
-                    "[+1 Happiness] from every [Temple]",
                     "[+1 Faith] [in capital]",
                     "[Faith] cost of purchasing items in cities [-20]%",
                     "Provides [1] [Policies]"
@@ -281,8 +226,6 @@
             {
                 "name": "Organized Religion",
                 "uniques": [
-                    "[+1 Culture, +1 Faith] from every [Shrine]",
-                    "[+1 Culture, +1 Faith] from every [Temple]",
                     "Provides [1] [Policies]"
                 ],
                 "row": 1,
@@ -291,10 +234,6 @@
             {
                 "name": "Theocracy",
                 "uniques": [
-                    "[+33]% [Gold] from every [Grand Temple]",
-                    "[+1 Gold] from every [Temple]",
-                    "[+1 Gold] from every [Shrine]",
-                    "[+3 Gold] from every [Holy site]",
                     "Provides [1] [Policies]"
                 ],
                 "row": 1,
@@ -318,8 +257,6 @@
                 "name": "Religious Tolerance",
                 "uniques": [
                     "[+1 Culture, +1 Faith] [in all cities]",
-                    "[+25]% [Science] from every [Grand Temple]",
-                    "[+2 Science] from every [Temple]",
                     "Provides [1] [Policies]"
                 ],
                 "requires": ["Organized Religion"],
@@ -330,9 +267,6 @@
                 "name": "Piety Complete",
                 "uniques": [
                     "Free [Great Prophet] appears",
-                    "[+1 Food, +3 Culture] from every [Holy site]",
-                    "Provides a [Garden] in your first [4] cities for free",
-                    "May buy [Piety Complete Building] buildings for [1875] [Faith] [in capital] <(modified by game speed)> <hidden from users> <starting from the [Industrial era]>",
                     "Comment [May buy [{non-[Great Scientist]} {Great Person}] units for [1875] [Faith] [in capital] [(modified by game speed)] [once] [starting from the [Industrial era]]]"
                 ]
             }
@@ -340,11 +274,8 @@
     },
     {
         "name": "Aesthetics",
-        "era": "Classical era",
+        "era": "Modern era",
         "uniques": [
-            "[Great Artist] is earned [25]% faster",
-            "[Great Writer] is earned [25]% faster",
-            "[Great Musician] is earned [25]% faster",
             "Comment [Unlocks [Uffizi]]",
             "Provides [1] [Policies]"
         ],
@@ -352,13 +283,6 @@
             {
                 "name": "Cultural Centers",
                 "uniques": [
-                    "[+100]% Production when constructing [Amphitheater] buildings [in all cities]",
-                    "[+100]% Production when constructing [Opera House] buildings [in all cities]",
-                    "[+100]% Production when constructing [Museum] buildings [in all cities]",
-                    "[+100]% Production when constructing [Broadcast Tower] buildings [in all cities]",
-                    "[+1 Happiness] from every [Writer Guild]",
-                    "[+1 Happiness] from every [Artist Guild]",
-                    "[+1 Happiness] from every [Musician Guild]",
                     "Provides [1] [Policies]"
                 ],
                 "row": 1,
@@ -367,13 +291,6 @@
             {
                 "name": "Cultural Exchange",
                 "uniques": [
-                    "Free [Great Writer] appears",
-                    "[+1 Culture] from every [Great Improvement]",
-                    "[+1 Culture] from every [Trading post]",
-                    "[+1 Culture] from every [Brazilwood Camp]",
-                    "[+1 Culture] from every [Caer]",
-                    "[+1 Culture] from every [Moai]",
-                    "[+1 Culture] from every [Chateau]",
                     "Provides [1] [Policies]"
                 ],
                 "requires": ["Cultural Centers"],
@@ -384,12 +301,6 @@
                 "name": "Artistic Genius",
                 "uniques": [
                     "Free [Great Artist] appears",
-                    "[+1 Science] from every [Museum]",
-                    "[+1 Science] from every [Amphitheater]",
-                    "[+1 Science] from every [Opera House]",
-                    "[+1 Science] from every [Broadcast Tower]",
-                    "[+3 Science] from every [Great Work]",
-                    "[+2 Science] from every [Landmark]",
                     "Provides [1] [Policies]"
                 ],
                 "requires": ["Cultural Centers"],
@@ -399,8 +310,6 @@
             {
                 "name": "Flourishing of the Arts",
                 "uniques": [
-                    "[+1 Culture] from every [Great Work]",
-                    "[+1 Culture] from every [World Wonder]",
                     "Empire enters golden age",
                     "Provides [1] [Policies]"
                 ],
@@ -411,7 +320,6 @@
             {
                 "name": "Fine Arts",
                 "uniques": [
-                    "Gain a free [Fine Art Specialist] [in all cities]",
                     "Provides [1] [Policies]"
                 ],
                 "requires": ["Cultural Exchange","Artistic Genius"],
@@ -421,20 +329,14 @@
             {
                 "name": "Aesthetics Complete",
                 "uniques": [
-                    "[+100]% Production when constructing [Archaeologist] units [in all cities]",
-                    "[+1 Culture] from every [Great Work]",
-                    //need implement "Shows Hidden Antiquity Sites"
-                    "Free Social Policy",
-                    "May buy [Great Artist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>",
-                    "May buy [Great Writer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>",
-                    "May buy [Great Musician] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
+                    "Free Social Policy"
                 ]
             }
         ]
     },
     {
         "name": "Patronage",
-        "era": "Classical era",
+        "era": "Modern era",
         "uniques": [
             "Resting point for Influence with City-States is increased by [20]",
             "Comment [Unlocks [Forbidden Palace]]",
@@ -444,8 +346,6 @@
             {
                 "name": "Merchant Confederacy",
                 "uniques": [
-                    "[+2 Production, +2 Food] from every [Land Trade Route (Gold)]",
-                    "[+2 Production, +2 Food] from every [Sea Trade Route (Gold)]",
                     "Provides [1] [Policies]"
                 ],
                 "row": 1,
@@ -514,14 +414,11 @@
             "Comment [Unlocks [Conquistador]]",
             "Provides [1] [Policies]"
         ],
-        "era": "Medieval era",
+        "era": "Modern era",
         "policies": [
             {
                 "name": "Naval Tradition",
                 "uniques": [
-                    "[+1 Happiness, +1 Culture] from every [Lighthouse]",
-                    "[+1 Happiness, +1 Culture] from every [Harbor]",
-                    "[+1 Happiness, +1 Culture] from every [Seaport]",
                     "Provides [1] [Policies]"
                 ],
                 "row": 1,
@@ -531,9 +428,6 @@
                 "name": "Maritime Infrastructure",
                 "uniques": [
                     "[+3 Production] [in all coastal cities]",
-                    "[+50]% Production when constructing [Lighthouse] buildings [in all cities]",
-                    "[+50]% Production when constructing [Harbor] buildings [in all cities]",
-                    "[+50]% Production when constructing [Seaport] buildings [in all cities]",
                     "Provides [1] [Policies]"
                 ],
                 "row": 1,
@@ -542,9 +436,6 @@
             {
                 "name": "Colonialism",
                 "uniques": [
-                    //"[+1] population [in all cities]",
-                    //"[+1 Happiness] [in all cities]",
-                    "Gain a free [Governor's Mansion] [in this city] <upon founding a city>",
                     "Free [Worker] appears <upon founding a city>",
                     "Provides [1] [Policies]"
                 ],
@@ -591,7 +482,7 @@
             "Comment [Unlocks [Big Ben]]",
             "Provides [1] [Policies]"
         ],
-        "era": "Medieval era",
+        "era": "Modern era",
         "policies": [
             {
                 "name": "Silk Road",
@@ -668,7 +559,7 @@
     },
     {
         "name": "Rationalism",
-        "era": "Renaissance era",
+        "era": "Modern era",
         "uniques": [
             "[Great Scientist] is earned [20]% faster",
             "Comment [Unlocks [Porcelain Tower]]",
@@ -745,7 +636,7 @@
     },
     {
         "name": "Order",
-        "era": "Ancient era",
+        "era": "Modern era",
         "uniques": [
             "Free Social Policy",
             "Comment [Unlocks [Kremlin]]",
@@ -964,7 +855,7 @@
     },
     {
         "name": "Freedom",
-        "era": "Ancient era",
+        "era": "Modern era",
         "uniques": [
             "Free Social Policy",
             "Comment [Unlocks [Statue of Liberty]]",
@@ -1187,7 +1078,7 @@
     },
     {
         "name": "Autocracy",
-        "era": "Ancient era",
+        "era": "Modern era",
         "uniques": [
             "Free Social Policy",
             "Comment [Unlocks [Prora]]",

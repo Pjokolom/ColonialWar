@@ -13,18 +13,6 @@
         ]
     },
     {
-        "name": "Bison",
-        "resourceType": "Bonus",
-        "terrainsCanBeFoundOn": ["Grassland","Plains"],
-        "food": 1,
-        "improvedBy": ["Camp", "Tipi"],
-        "improvementStats": {"production": 1},
-        "uniques": [
-            "Generated on every [15] tiles <in [{Featureless} {Plains}] tiles>",
-            "Generated on every [20] tiles <in [{non-[Fresh Water]} {Featureless} {Grassland}] tiles>"
-        ]
-    },
-    {
         "name": "Sheep",
         "resourceType": "Bonus",
         "terrainsCanBeFoundOn": ["Hill"],
@@ -38,7 +26,7 @@
         "resourceType": "Bonus",
         "terrainsCanBeFoundOn": ["Forest","Tundra"],
         "food": 1,
-        "improvedBy": ["Camp", "Tipi"],
+        "improvedBy": ["Camp"],
         "improvementStats": {"production": 1},
         "uniques": [
             "Generated on every [8] tiles <in [{Featureless} {Tundra}] tiles>",
@@ -56,10 +44,11 @@
         "uniques": ["Generated on every [10] tiles <in [Jungle] tiles>"]
     },
     {
-        "name": "Wheat",
+        "name": "Cibus",
         "resourceType": "Bonus",
         "terrainsCanBeFoundOn": ["Plains","Flood plains","Desert"], // Desert only if fresh water
         "food": 1,
+        "revealedBy": "Planet Research",
         "improvement": "Farm",
         "uniques": [
             "Generated on every [30] tiles <in [{Featureless} {Plains}] tiles>",
@@ -67,7 +56,7 @@
         ]
     },
     {
-        "name": "Maize",
+        "name": "Biarka",
         "resourceType": "Bonus",
         "terrainsCanBeFoundOn": ["Plains","Grassland"],
         "food": 1,
@@ -114,30 +103,8 @@
     
     // Strategic resources
     {
-        "name": "Horses",
-        "resourceType": "Strategic",
-        "revealedBy": "Animal Husbandry",
-        "terrainsCanBeFoundOn": ["Plains","Grassland","Hill","Tundra"], // Hill only if plains or grassland
-        "production": 1,
-        "improvement": "Pasture",
-        "improvementStats": {"production": 1},
-        "uniques": [
-            "Guaranteed with Strategic Balance resource option",
-            "Generated with weight [100] <in [{Featureless} {Grassland}] tiles>",
-            "Generated with weight [100] <in [{Featureless} {Plains}] tiles>",
-            "Minor deposits generated with weight [10] <in [{Grassland} {Hill}] tiles> <in tiles without [Forest]> <in tiles without [Jungle]>",
-            "Minor deposits generated with weight [10] <in [{Plains} {Hill}] tiles> <in tiles without [Forest]> <in tiles without [Jungle]>",
-            "Minor deposits generated with weight [100] <in [{Featureless} {Grassland} {Fresh Water}] tiles>",
-            "Minor deposits generated with weight [20] <in [{Featureless} {Grassland} {non-[Fresh Water]}] tiles>",
-            "Minor deposits generated with weight [30] <in [{Featureless} {Plains}] tiles>"
-        ],
-        "majorDepositAmount": {"sparse": 2, "default": 4, "abundant": 6},
-        "minorDepositAmount": {"sparse": 1, "default": 2, "abundant": 3}
-    },
-    {
         "name": "Iron",
         "resourceType": "Strategic",
-        "revealedBy": "Mining",
         "terrainsCanBeFoundOn": ["Grassland","Plains","Desert","Tundra","Snow","Hill","Marsh"],
         "production": 1,
         "improvement": "Mine",
@@ -161,34 +128,8 @@
         "minorDepositAmount": {"sparse": 1, "default": 2, "abundant": 3}
     },
     {
-        "name": "Coal",
-        "resourceType": "Strategic",
-        "revealedBy": "Industrialization",
-        "terrainsCanBeFoundOn": ["Grassland","Plains","Hill","Jungle","Forest","Marsh"],
-        "production": 1,
-        "improvement": "Mine",
-        "improvementStats": {"production": 1},
-        "uniques": [
-            "Guaranteed with Strategic Balance resource option",
-            "Generated with weight [35] <in [Hill] tiles>",
-            "Generated with weight [30] <in [{non-[Hill]} {Jungle}] tiles>",
-            "Generated with weight [25] <in [{non-[Hill]} {Forest}] tiles>",
-            "Minor deposits generated with weight [10] <in [{non-[Hill]} {Marsh}] tiles>",
-            "Minor deposits generated with weight [10] <in [Jungle] tiles>",
-            "Minor deposits generated with weight [10] <in [Forest] tiles>",
-            "Minor deposits generated with weight [20] <in [{Grassland} {Hill}] tiles>",
-            "Minor deposits generated with weight [20] <in [{Plains} {Hill}] tiles>",
-            "Minor deposits generated with weight [30] <in [{Desert} {Hill}] tiles>",
-            "Minor deposits generated with weight [30] <in [{Tundra} {Hill}] tiles>",
-            "Minor deposits generated with weight [30] <in [{Snow} {Hill}] tiles>"
-        ],
-        "majorDepositAmount": {"sparse": 5, "default": 7, "abundant": 9},
-        "minorDepositAmount": {"sparse": 2, "default": 3, "abundant": 3}
-    },
-    {
         "name": "Oil",
         "resourceType": "Strategic",
-        "revealedBy": "Biology",
         "terrainsCanBeFoundOn": ["Desert","Coast","Tundra","Snow","Marsh","Jungle"],
         "production": 1,
         "improvedBy": ["Oil well", "Offshore Platform"],
@@ -215,7 +156,6 @@
     {
         "name": "Aluminum",
         "resourceType": "Strategic",
-        "revealedBy": "Electricity",
         "terrainsCanBeFoundOn": ["Desert","Tundra","Hill","Snow","Jungle","Plains","Forest"],
         "production": 1,
         "improvement": "Mine",
@@ -234,7 +174,6 @@
     {
         "name": "Uranium",
         "resourceType": "Strategic",
-        "revealedBy": "Atomic Theory",
         "terrainsCanBeFoundOn": ["Marsh","Jungle","Forest","Tundra","Snow","Grassland","Plains","Desert"],
         "production": 1,
         "improvement": "Mine",
@@ -254,10 +193,11 @@
     
     // Luxury resources
     {
-        "name": "Furs",
+        "name": "Shining Leather",
         "resourceType": "Luxury",
         "terrainsCanBeFoundOn": ["Tundra","Plains","Grassland","Forest","Snow","Hill"],
         "gold": 2,
+        "revealedBy": "Planet Research",
         "improvement": "Camp",
         "improvementStats": {"food": 1, "gold": 1},
         "uniques": [
@@ -312,10 +252,11 @@
         ]
     },
     {
-        "name": "Gems",
+        "name": "Ruby",
         "resourceType": "Luxury",
         "terrainsCanBeFoundOn": ["Tundra","Desert","Plains","Grassland","Hill"],
         "gold": 2,
+        "revealedBy": "Planet Research",
         "improvementStats": {"gold": 1,"production": 1},
         "improvement": "Mine",
         "uniques": [
@@ -404,22 +345,6 @@
         "uniques": [
             "Generated with weight [40] <in [Tundra] Regions>",
             "Generated with weight [10] <in [Desert] Regions>",
-            "Generated with weight [30] <in [Hill] Regions>",
-            "Generated with weight [30] <in [Hybrid] Regions>",
-            "Generated near City States with weight [5]",
-            "Doesn't generate naturally <in [non-[Hill]] tiles>"
-        ]
-    },
-    {
-        "name": "Lapis Lazuli",
-        "resourceType": "Luxury",
-        "terrainsCanBeFoundOn": ["Tundra","Desert","Plains","Grassland","Hill"],
-        "gold": 2,
-        "improvementStats": {"gold": 1,"production": 1},
-        "improvement": "Mine",
-        "uniques": [
-            "Generated with weight [10] <in [Tundra] Regions>",
-            "Generated with weight [40] <in [Desert] Regions>",
             "Generated with weight [30] <in [Hill] Regions>",
             "Generated with weight [30] <in [Hybrid] Regions>",
             "Generated near City States with weight [5]",
@@ -921,7 +846,6 @@
     {
         "name": "Antiquity Site", 
         "resourceType": "Bonus",
-        "revealedBy": "Archaeology",
         "terrainsCanBeFoundOn": ["Plains","Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains","Marsh","Snow"],
         "improvement": "Archaeological Dig",
         "uniques": ["Generated on every [150] tiles"]
@@ -950,20 +874,5 @@
         "name": "Level 2 Ideology", 
         "resourceType": "Strategic",
         "uniques": ["Not shown on world screen","Cannot be traded"]
-    },
-    {
-        "name": "Great Work of Writing", 
-        "resourceType": "Strategic",
-        "uniques": ["Stockpiled"]
-    },
-    {
-        "name": "Great Work of Art", 
-        "resourceType": "Strategic",
-        "uniques": ["Stockpiled"]
-    },
-    {
-        "name": "Great Work of Music", 
-        "resourceType": "Strategic",
-        "uniques": ["Stockpiled"]
     }
 ]
