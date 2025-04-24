@@ -80,13 +80,13 @@
                 "name": "Drones",
                 "row": 5,
                 "prerequisites": ["AI"],
-                "quote": "'Vision is the art of seeing things invisible.' - Jonathan Swift"
+                "quote": "'No comentary.' - Mod author"
             },
             {
-                "name": "Combined Arms",
-                "row": 8,
-                "prerequisites": [],
-                "quote": "'The root of the evil is not the construction of new, more dreadful weapons. It is the spirit of conquest.' - Ludwig von Mises"
+                "name": "Xenology",
+                "row": 7,
+                "prerequisites": ["Planet Research"],
+                "quote": "'We need to learn from others mistakes.' - Kalolu Baszczij"
             }
         ]
     },
