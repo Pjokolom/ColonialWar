@@ -43,6 +43,19 @@
                 "quote": "'There's a basic principle about consumer electronics: it gets more powerful all the time and it gets cheaper all the time.' - Trip Hawkins"
             },
             {
+                "name": "Basic Water Machines",
+                "row": 2,
+                "uniques": [
+                    
+                    "Enables [Embarked] units to enter ocean tiles",
+                    "Provides [1] [Trade Route]",
+                    "Enables embarkation for land units"
+
+                ],
+                "prerequisites": ["Tech Fabrics"],
+                "quote": "'There's a basic principle about consumer electronics: it gets more powerful all the time and it gets cheaper all the time.' - Trip Hawkins"
+            },
+            {
                 "name": "AI",
                 "row": 5,
                 "prerequisites": ["Tech Fabrics","PC Fabrics"],

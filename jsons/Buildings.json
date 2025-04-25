@@ -73,5 +73,19 @@
 
 		],
 		"requiredTech": "Planet Research"
-	}
+	},
+	{
+        "name": "Seaport",
+        "cost": 120,
+        "maintenance": 2,
+        "hurryCostModifier": 25,
+        "uniques": [
+            "Connects trade routes over water",
+            "Must be next to [Coast]",
+			"[+1 Production, +1 Gold] from [Water resource] tiles [in this city]",
+            "Must be next to [Coast]",
+            "[+15]% Production when constructing [Water] units [in this city]"
+        ],
+        "requiredTech": "Basic Water Machines"
+    }
 ]

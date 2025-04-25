@@ -306,5 +306,17 @@
         ],
         "promotions": ["Indirect Fire"],
         "attackSound": "artillery"
+    },
+    {
+        "name": "Work Boats",
+        "unitType": "Civilian Water",
+        "movement": 4,
+        "cost": 100,
+        "requiredTech": "Basic Water Machines",
+        "uniques": [
+            "May create improvements on water resources",
+            "Uncapturable",
+            "Automation is a primary action"
+        ]
     }
 ]
