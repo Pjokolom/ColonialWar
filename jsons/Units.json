@@ -318,5 +318,70 @@
             "Uncapturable",
             "Automation is a primary action"
         ]
+    },
+    {
+        "name": "Destroyer",
+        "unitType": "Melee Water",
+        "movement": 6,
+        "strength": 60,
+        "interceptRange": 2,
+        "cost": 300,
+        "requiredTech": "War Ships",
+        "upgradesTo": "Heavy Cruiser",
+        "uniques": [
+            "Can see invisible [Submarine] units",
+            "[100]% chance to intercept air attacks",
+            "Can move after attacking",
+            "Withdraws before melee combat <with [80]% chance>",
+            "[+100]% Strength <vs [Submarine] units>",
+            "[-50]% Damage when intercepting"
+        ],
+        "attackSound": "shipguns"
+    },
+    {
+        "name": "Cruiser",
+        "unitType": "Melee Water",
+        "movement": 5,
+        "strength": 70,
+        "interceptRange": 2,
+        "cost": 400,
+        "requiredTech": "War Ships",
+        "uniques": [
+            "Can see invisible [Submarine] units",
+            "[100]% chance to intercept air attacks",
+            "Withdraws before melee combat <with [80]% chance>",
+            "[+50]% Strength <vs [Submarine] units>",
+            "[-50]% Damage when intercepting"
+        ],
+        "attackSound": "shipguns"
+    },
+    {
+        "name": "Battleship",
+        "unitType": "Ranged Water",
+        "movement": 5,
+        "strength": 100,
+        "rangedStrength": 55,
+        "range": 3,
+        "cost": 670,
+        "requiredResource": "Oil",
+        "requiredTech": "Battleships",
+        "uniques": ["Never appears as a Barbarian unit"],
+        "promotions": ["Indirect Fire"],
+        "attackSound": "shipguns"
+    },
+    {
+        "name": "Loja BB-151",
+        "unitType": "Ranged Water",
+        "movement": 4,
+        "strength": 160,
+        "rangedStrength": 95,
+        "range": 3,
+        "cost": 900,
+        "requiredResource": "Oil",
+        "requiredTech": "Battleships",
+        "uniques": ["Never appears as a Barbarian unit"],
+        "promotions": ["Indirect Fire"],
+        "attackSound": "shipguns"
     }
+
 ]
