@@ -26,7 +26,8 @@
         "uniques": [
             "[+3 Happiness] [in all non-occupied cities]",
             "[+1 Culture] from every [Hill]",
-            "[+8]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>"
+            "[+8]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>",
+            "Earn [20]% of killed [Xenos] unit's [Cost] as [Science] <hidden from users>"
         ],
         "cities": [
             "Novy Mcensk","Novy Kyjiv","Krievsk","Vodic","Poliasek","Skvelyje Meste","Novask","Cudousk"
@@ -57,7 +58,8 @@
         "uniques": [
             "Double quantity of [Iron] produced",
             "[+1 Food] from every [Forest]",
-            "No damage penalty for wounded units <for [All] units>"
+            "No damage penalty for wounded units <for [All] units>",
+            "Earn [20]% of killed [Xenos] unit's [Cost] as [Science] <hidden from users>"
         ],
         "cities": [
             "Svietlyj Novgorod","Szachty","Ularz","Padonki","Sant Kirilburg","Kalymaga","Novosielsk","Dymnyj"
@@ -87,7 +89,8 @@
         "uniqueName": "Still Standing",
         "uniques": [
             "[+1] Sight <for [{Military} {Land}] units>", 
-            "[-50]% Gold cost of acquiring tiles [in all cities]"
+            "[-50]% Gold cost of acquiring tiles [in all cities]",
+            "Earn [20]% of killed [Xenos] unit's [Cost] as [Science] <hidden from users>"
         ],
         "cities": [
             "New York","Nox Polk","Nixon","Blueberry-town","Meanesk","New Washington","Iercerie","Mazo Ciudad"
@@ -118,7 +121,8 @@
         "uniques": [
             "[+3 Happiness] [in all non-occupied cities]",
             "[+1 Culture] from every [Hill]",
-            "[+8]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>"
+            "[+8]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>",
+            "Earn [20]% of killed [Xenos] unit's [Cost] as [Science] <hidden from users>"
         ],
         "cities": [
             "Almiama","Bagda Aljadida","Fejwa","Svetlana","Kvahal Shahar","Parlakyr","Algrad","Sobb"
@@ -149,9 +153,8 @@
         "uniques": [
             "[+2] Movement <for [Water] units>",
             "[+2] Movement <for [Embarked] units>",
-            "[+1 Happiness] from every [Police Station]",
-            "[+1 Happiness] from every [Constabulary]",
-            "Gain an extra spy <upon entering the [Modern era]>"
+            "Gain an extra spy <upon entering the [Modern era]>",
+            "Earn [20]% of killed [Xenos] unit's [Cost] as [Science] <hidden from users>"
         ],
         "cities": [
             "London","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool",
@@ -168,8 +171,8 @@
     //Barbarian
     {
         "name": "Barbarians",
-        "outerColor": [0,0,0],
-        "innerColor": [184,0,0],
+        "outerColor": [50,0,0],
+        "innerColor": [100,184,20],
         "uniques": ["Can only heal by pillaging"]
     }
 ]

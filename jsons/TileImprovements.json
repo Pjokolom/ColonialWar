@@ -114,6 +114,7 @@
         "name": "Turret",
         "terrainsCanBeBuiltOn": ["Land"],
         "turnsToBuild": 7,
+        "techRequired": "AI",
         "uniques": [
             "Gives a defensive bonus of [20]%",
             "Adjacent enemy units ending their turn take [20] damage",

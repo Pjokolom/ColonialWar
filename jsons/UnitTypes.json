@@ -8,6 +8,10 @@
         "movementType": "Land"
     },
     {
+        "name": "Xenos",
+        "movementType": "Land"
+    },
+    {
         "name": "Gunpowder",
         "movementType": "Land"
     },
