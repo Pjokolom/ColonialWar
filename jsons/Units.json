@@ -327,7 +327,6 @@
         "interceptRange": 2,
         "cost": 300,
         "requiredTech": "War Ships",
-        "upgradesTo": "Heavy Cruiser",
         "uniques": [
             "Can see invisible [Submarine] units",
             "[100]% chance to intercept air attacks",

@@ -10,6 +10,13 @@
 		"cost": 1,
 		"uniques": ["Indicates the capital city"]
 	},
+	{
+        "name": "Fortification",
+        "cityStrength": 7,
+        "cityHealth": 75,
+        "hurryCostModifier": 25,
+        "uniques": ["Destroyed when the city is captured"]
+    },
     {
 		"name": "Eastern City Core",
 		"isNationalWonder": true,
@@ -87,5 +94,13 @@
             "[+15]% Production when constructing [Water] units [in this city]"
         ],
         "requiredTech": "Basic Water Machines"
+    },
+	{
+        "name": "Fortification II",
+        "cityStrength": 15,
+        "cityHealth": 135,
+        "hurryCostModifier": 25,
+		"requiredTech": "Xenology",
+        "uniques": ["Destroyed when the city is captured"]
     }
 ]

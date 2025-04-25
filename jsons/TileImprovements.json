@@ -15,7 +15,7 @@
     },
     {
         "name": "Houses",
-        "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains","Hill"],
+        "terrainsCanBeBuiltOn": ["Plains","Grassland","Flood plains","Hill","Tundra"],
         "culture": 2,
         "gold": 1,
         "requiredTech": "Tech Fabrics",
