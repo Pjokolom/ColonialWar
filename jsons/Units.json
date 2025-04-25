@@ -92,11 +92,26 @@
         "unitType": "Xenos",
         "movement": 2,
         "uniqueTo": "Barbarians",
-        "strength": 65,
+        "strength": 12,
         "cost": 110,
         "uniques": [
             
             "[-70]% Strength <vs [Armored] units> <when attacking>"
+        
+        ],
+        "attackSound": "nonmetalhit"
+    },
+    {
+        "name": "Legendary Warrior",
+        "unitType": "Xenos",
+        "movement": 2,
+        "uniqueTo": "Barbarians",
+        "strength": 100,
+        "cost": 110,
+        "uniques": [
+            
+            "[-70]% Strength <vs [Armored] units> <when attacking>",
+            "Limited to [1] per Civilization"
         
         ],
         "attackSound": "nonmetalhit"
