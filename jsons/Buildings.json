@@ -47,9 +47,9 @@
 		"requiredTech": "Tech Fabrics"
 	},
 	{
-		"name": "PC Fabric",
-		"maintenance": 2,
-		"production": 1,
+		"name": "Network tower",
+		"maintenance": 3,
+        "happiness": 3,
 		"hurryCostModifier": 25,
 		"requiredTech": "PC Fabrics"
 	},
