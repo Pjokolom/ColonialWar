@@ -117,11 +117,12 @@
         "tradeRequest": "We need to talk.",
         "outerColor": [40, 120, 90],
         "innerColor": [255, 190, 70],
-        "uniqueName": "Still Standing",
+        "uniqueName": "Faith",
         "uniques": [
             "Double quantity of [Oil] produced",
             "[+3 Gold] from every [Oil]",
-            "Earn [10]% of killed [Xenos] unit's [Cost] as [Science] <hidden from users>"
+            "[+2 Faith] from every [Desert]",
+            "Earn [12]% of killed [Xenos] unit's [Cost] as [Science] <hidden from users>"
         ],
         "cities": [
             "Almiama","Bagda Aljadida","Fejwa","Svetlana","Kvahal Shahar","Parlakyr","Algrad","Sobb"
@@ -164,7 +165,41 @@
         "spyNames": [
             "James","Scarlett","Mycroft","Charlotte","Gwendolyn","Mr. Eks","Dr. Grey","Andrew","Scott","Anne"
         ]
+    }, 
+    {
+        "name": "Japan",
+        "leaderName": "Naoto Kouzuki",
+        "adjective": ["Japan"],
+        "startBias": ["[Coast]"],
+        "preferredVictoryType": "Domination",
+        "startIntroPart1": "...",
+        "startIntroPart2": "...",
+        "declaringWar": "War comming.",
+        "attacked": "How dare you!",
+        "defeated": "Again...",
+        "introduction": "Greetings. I am Kouzuki. How can i help you?",
+        "neutralHello": "Greetings.",
+        "hateHello": "What do you want?",
+        "tradeRequest": "We need to talk some things.",
+        "outerColor": [255, 255, 255],
+        "innerColor": [198, 0, 0],
+        "uniqueName": "Still Standing",
+        "uniques": [
+
+            "[+15]% Strength <for [{Military} {Air}] units>"
+
+        ],
+        "cities": [
+
+            "Ahikabara","Asakusa","Sumida","Ikebukuro","Ueno","Ginza","Toyosu","Roppongi"
+
+        ],
+        "spyNames": [
+            "Riye", "Saito", "Seiko", "Hikari", "Yamato", "Yuke", "Taidze", "Kavasato", "Tezuo", "Ishikava"
+        ]
     },
+
+
 
 
     //Barbarian

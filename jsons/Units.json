@@ -271,7 +271,8 @@
             
             "[-100]% maintenance costs", "Never appears as a Barbarian unit",
             "Only available <in cities with a [Weaponry Fabric]>",
-            "Only available <in cities with a [Tech Fabric]>"
+            "Only available <in cities with a [Tech Fabric]>",
+            "[+3] Sight"
         
         ],
         "attackSound": "missile"
@@ -293,7 +294,8 @@
             "Only available <in cities with a [Weaponry Fabric]>",
             "Only available <in cities with a [Tech Fabric]>",
             "[+20]% Strength <vs cities> <when attacking>",
-            "[-20]% Strength <vs [Armored] units> <when attacking>"
+            "[-20]% Strength <vs [Armored] units> <when attacking>",
+            "[+3] Sight"
 
         ],
         "attackSound": "missile"
@@ -325,7 +327,7 @@
         "name": "Charles Mk.4",
         "unitType": "Armor",
         "movement": 3,
-        "strength": 50,
+        "strength": 45,
         "uniqueTo": "British Empire",
         "replaces": "Artillery",
         "rangedStrength": 75,
