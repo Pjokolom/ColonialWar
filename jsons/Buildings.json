@@ -11,6 +11,21 @@
 		"uniques": ["Indicates the capital city"]
 	},
 	{
+        "name": "Cathedral",
+        "culture": 10,
+        "uniques": [
+            "Unbuildable","Unsellable"
+        ]
+    },
+	{
+        "name": "Protestant Church",
+        "happiness": 2,
+		"culture": 4,
+        "uniques": [
+            "Unbuildable","Unsellable"
+        ]
+    },
+	{
         "name": "Fortification",
         "cityStrength": 7,
         "cityHealth": 75,

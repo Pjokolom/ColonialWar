@@ -50,7 +50,26 @@
 			"Requires at least [2] population"],
 		"hurryCostModifier": 20
 	},
-
+    {
+        "name": "Great Prophet",
+        "unitType": "Civilian",
+        "uniques": [
+            "Can Spread Religion <for [8] movement> <[4] times> <after which this unit is consumed>",
+			"Removes other religions when spreading religion",
+            "May found a religion <by consuming this unit> <if it hasn't used other actions yet>",
+            "May enhance a religion <by consuming this unit>  <if it hasn't used other actions yet>",
+            "May enter foreign tiles without open borders",
+            "Great Person - [Faith]",
+            "Unbuildable",
+            "Uncapturable",
+            "Religious Unit",
+            "Only available <when religion is enabled>",
+            "[-1] Sight",
+            "Takes your religion over the one in their birth city"
+        ],
+        "movement": 4,
+        "religiousStrength": 1000
+    },
     {
         "name": "Sniper",
         "unitType": "Ranged Gunpowder",
@@ -245,7 +264,7 @@
         "uniqueTo": "Russia",
         "replaces": "Drone",
         "strength": 70,
-        "rangedStrength": 65,
+        "rangedStrength": 70,
         "range": 8,
         "cost": 100,
         "requiredTech": "Drones",
@@ -391,17 +410,23 @@
         "attackSound": "shipguns"
     },
     {
-        "name": "Loja BB-151",
+        "name": "Loja",
         "unitType": "Ranged Water",
         "movement": 4,
-        "strength": 160,
+        "strength": 165,
         "uniqueTo": "United States of America",
         "rangedStrength": 95,
         "range": 3,
         "cost": 900,
         "requiredResource": "Oil",
         "requiredTech": "Battleships",
-        "uniques": ["Never appears as a Barbarian unit", "Only available <in cities with a [Seaport]>"],
+        "uniques": [
+
+            "Never appears as a Barbarian unit", 
+            "Only available <in cities with a [Seaport]>",
+            "Limited to [1] per Civilization"
+        
+        ],
         "promotions": ["Indirect Fire"],
         "attackSound": "shipguns"
     }
