@@ -320,10 +320,25 @@
         ]
     },
     {
+        "name": "Submarine",
+        "unitType": "Submarine",
+        "movement": 5,
+        "strength": 35,
+        "rangedStrength": 65,
+        "cost": 360,
+        "requiredTech": "War Ships",
+        "uniques": [
+            "[+75]% Strength <when attacking>",
+            "Can only attack [Water] tiles",
+            "Never appears as a Barbarian unit"
+        ],
+        "attackSound": "torpedo"
+    },
+    {
         "name": "Destroyer",
         "unitType": "Melee Water",
         "movement": 6,
-        "strength": 60,
+        "strength": 50,
         "interceptRange": 2,
         "cost": 300,
         "requiredTech": "War Ships",
@@ -348,10 +363,10 @@
         "requiredTech": "War Ships",
         "uniques": [
             "Can see invisible [Submarine] units",
-            "[100]% chance to intercept air attacks",
+            "[60]% chance to intercept air attacks",
             "Withdraws before melee combat <with [80]% chance>",
             "[+50]% Strength <vs [Submarine] units>",
-            "[-50]% Damage when intercepting",
+            "[-25]% Damage when intercepting",
             "Only available <in cities with a [Seaport]>"
             
         ],
