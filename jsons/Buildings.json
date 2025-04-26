@@ -119,5 +119,17 @@
 			"[+2 Science] from [Forest] tiles [in this city]"
         ],
         "requiredTech": "Archivatory"
+    },
+	{
+        "name": "Entertainment company",
+        "cost": 125,
+        "percentStatBonus": {"happiness": 30},
+        "gold": 5,
+        "isNationalWonder": true,
+        "uniques": [
+            "Only available <if [Network tower] is constructed in all [non-[Puppeted]] cities>",
+            "Cost increases by [30] per owned city"
+        ],
+        "requiredTech": "Satellite communications"
     }
 ]
