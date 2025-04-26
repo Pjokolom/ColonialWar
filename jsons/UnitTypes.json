@@ -91,7 +91,7 @@
         "uniques": ["Self-destructs when attacking","Cannot be intercepted"]
     },
     {
-        "name": "Drone",
+        "name": "Drone-type",
         "movementType": "Air",
         "uniques": ["Self-destructs when attacking"]
     },

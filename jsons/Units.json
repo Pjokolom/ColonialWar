@@ -240,8 +240,27 @@
         "attackSound": "shot"
     },
     {
+        "name": "Drone Mobile Complex",
+        "unitType": "Armored",
+        "movement": 4,
+        "strength": 40,
+        "requiredResource": "Aluminum",
+        "cost": 400,
+        "requiredTech": "Drones II",
+        "uniques": [
+            
+            "Never appears as a Barbarian unit",
+            "Only available <in cities with a [Weaponry Fabric]>",
+            "Only available <in cities with a [Tech Fabric]>",
+            "Can move after attacking",
+            "Can carry [4] [Drone-type] units"
+
+        ],
+        "attackSound": "tankshot"
+    },
+    {
         "name": "Drone",
-        "unitType": "Missile",
+        "unitType": "Drone-type",
         "movement": 1,
         "strength": 70,
         "rangedStrength": 80,
@@ -259,7 +278,7 @@
     },
     {
         "name": "Zima-3",
-        "unitType": "Missile",
+        "unitType": "Drone-type",
         "movement": 1,
         "uniqueTo": "Russia",
         "replaces": "Drone",

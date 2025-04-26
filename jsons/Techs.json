@@ -136,6 +136,12 @@
                 "quote": "'i am fucking can't speak' - Fish"
             },
             {
+                "name": "Drones II",
+                "row": 2,
+                "prerequisites": ["Drones","Long Range Weapons"],
+                "quote": "'i am fucking can't speak' - Fish"
+            },
+            {
                 "name": "Archivatory",
                 "row": 6,
                 "prerequisites": ["Xenology"],
