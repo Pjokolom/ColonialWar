@@ -125,6 +125,12 @@
         "techs": [
             {
                 "name": "Xenoecology",
+                "row": 9,
+                "prerequisites": ["Xenology"],
+                "quote": "'i am fucking can't speak' - Fish"
+            },
+            {
+                "name": "Satellite communications",
                 "row": 8,
                 "prerequisites": ["Xenology"],
                 "quote": "'i am fucking can't speak' - Fish"
