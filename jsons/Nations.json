@@ -108,9 +108,9 @@
         "preferredVictoryType": "Domination",
         "startIntroPart1": "Asalamaleikum new lord of Nova, we heard that worlds Superpowers are landing on this planet to conquer, so we just couldn't resist to send you here.",
         "startIntroPart2": "Your mission is colonising Nova 1 and making our religion the main of this planet. Alakh Akbar!",
-        "declaringWar": "You are in our way.",
-        "attacked": "Another war on our heads...",
-        "defeated": "Too much work for me...",
+        "declaringWar": "Stay away.",
+        "attacked": "Oh allah...",
+        "defeated": "See you in hell.",
         "introduction": "Salamaleikum brother.",
         "neutralHello": "Salam.",
         "hateHello": "You again?",
@@ -119,10 +119,9 @@
         "innerColor": [255, 190, 70],
         "uniqueName": "Still Standing",
         "uniques": [
-            "[+3 Happiness] [in all non-occupied cities]",
-            "[+1 Culture] from every [Hill]",
-            "[+8]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>",
-            "Earn [20]% of killed [Xenos] unit's [Cost] as [Science] <hidden from users>"
+            "Double quantity of [Oil] produced",
+            "[+3 Gold] from every [Oil]",
+            "Earn [10]% of killed [Xenos] unit's [Cost] as [Science] <hidden from users>"
         ],
         "cities": [
             "Almiama","Bagda Aljadida","Fejwa","Svetlana","Kvahal Shahar","Parlakyr","Algrad","Sobb"

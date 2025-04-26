@@ -149,7 +149,8 @@
         "uniques": [
             "[+1 Production] <after discovering [Chemistry]>",
             "Can only be built to improve a resource",
-            "Pillaging this improvement yields approximately [+20 Gold]"
+            "Pillaging this improvement yields approximately [+20 Gold]",
+            "[+6 Production] <after discovering [Xenology]>"
         ],
         "shortcutKey": "Q"
     },
@@ -164,7 +165,6 @@
         ]
     },
 
-    // Special improvement
     {
         "name": "Archaeological Dig",
         "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains","Marsh","Snow"],

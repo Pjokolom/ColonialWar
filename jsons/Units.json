@@ -333,7 +333,8 @@
             "Can move after attacking",
             "Withdraws before melee combat <with [80]% chance>",
             "[+100]% Strength <vs [Submarine] units>",
-            "[-50]% Damage when intercepting"
+            "[-50]% Damage when intercepting",
+            "Only available <in cities with a [Seaport]>"
         ],
         "attackSound": "shipguns"
     },
@@ -350,7 +351,9 @@
             "[100]% chance to intercept air attacks",
             "Withdraws before melee combat <with [80]% chance>",
             "[+50]% Strength <vs [Submarine] units>",
-            "[-50]% Damage when intercepting"
+            "[-50]% Damage when intercepting",
+            "Only available <in cities with a [Seaport]>"
+            
         ],
         "attackSound": "shipguns"
     },
@@ -364,7 +367,10 @@
         "cost": 670,
         "requiredResource": "Oil",
         "requiredTech": "Battleships",
-        "uniques": ["Never appears as a Barbarian unit"],
+        "uniques": [
+            "Never appears as a Barbarian unit",
+            "Only available <in cities with a [Seaport]>"
+        ],
         "promotions": ["Indirect Fire"],
         "attackSound": "shipguns"
     },
@@ -373,14 +379,16 @@
         "unitType": "Ranged Water",
         "movement": 4,
         "strength": 160,
+        "uniqueTo": "United States of America",
         "rangedStrength": 95,
         "range": 3,
         "cost": 900,
         "requiredResource": "Oil",
         "requiredTech": "Battleships",
-        "uniques": ["Never appears as a Barbarian unit"],
+        "uniques": ["Never appears as a Barbarian unit", "Only available <in cities with a [Seaport]>"],
         "promotions": ["Indirect Fire"],
         "attackSound": "shipguns"
     }
+
 
 ]

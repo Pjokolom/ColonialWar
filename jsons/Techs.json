@@ -2,8 +2,8 @@
     {
         "columnNumber": 1,
         "era": "Modern era",
-        "techCost": 100,
-        "buildingCost": 300,
+        "techCost": 400,
+        "buildingCost": 200,
         "wonderCost": 1060,
         "techs": [
             {
@@ -31,7 +31,7 @@
     {
         "columnNumber": 2,
         "era": "Modern era",
-        "techCost": 275,
+        "techCost": 600,
         "buildingCost": 400,
         "wonderCost": 1250,
         "techs": [
@@ -79,7 +79,7 @@
     {
         "columnNumber": 3,
         "era": "Modern era",
-        "techCost": 450,
+        "techCost": 800,
         "buildingCost": 500,
         "wonderCost": 1250,
         "techs": [
@@ -119,33 +119,27 @@
     {
         "columnNumber": 4,
         "era": "Modern era",
-        "techCost": 625,
+        "techCost": 900,
         "buildingCost": 500,
         "wonderCost": 1250,
         "techs": [
             {
-                "name": "Ecology",
-                "row": 2,
-                "prerequisites": [],
-                "quote": "'Only within the moment of time represented by the present century has one species, man, acquired significant power to alter the nature of his world.' - Rachel Carson"
+                "name": "Xenoecology",
+                "row": 8,
+                "prerequisites": ["Xenology"],
+                "quote": "'i am fucking can't speak' - Fish"
+            },
+            {
+                "name": "Archivatory",
+                "row": 6,
+                "prerequisites": ["Xenology"],
+                "quote": "'A good rule for rocket experimenters to follow is this: always assume that it will explode.' - Astronautics Magazine, 1937"
             },
             {
                 "name": "Battleships",
                 "row": 4,
                 "prerequisites": ["War Ships"],
                 "quote": "'I am become Death, the destroyer of worlds.' - J. Robert Oppenheimer"
-            },
-            {
-                "name": "Rocketry",
-                "row": 6,
-                "prerequisites": [],
-                "quote": "'A good rule for rocket experimenters to follow is this: always assume that it will explode.' - Astronautics Magazine, 1937"
-            },
-            {
-                "name": "Satellite communications",
-                "row": 8,
-                "prerequisites": [],
-                "quote": "'Computers are like Old Testament gods: lots of rules and no mercy.' - Joseph Campbell"
             }
         ]
     },

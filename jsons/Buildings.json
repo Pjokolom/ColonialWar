@@ -76,8 +76,9 @@
 			"[+1 Science] from [Shining Leather] tiles [in this city]",
 			"[+1 Science] from [Ruby] tiles [in this city]",
             "Only available <in cities with a [PC Fabric]>",
-			"[+1 Science] from [Jungle] tiles [in this city]"
-			
+			"[+1 Science] from [Jungle] tiles [in this city]",
+			"[+3 Food] from [Cibus] tiles [in this city] <after discovering [Xenoecology]>",
+			"[+3 Food] from [Biarka] tiles [in this city] <after discovering [Xenoecology]>"
 
 		],
 		"requiredTech": "Planet Research"
@@ -92,7 +93,8 @@
             "Must be next to [Coast]",
 			"[+1 Production, +1 Gold] from [Water resource] tiles [in this city]",
             "Must be next to [Coast]",
-            "[+15]% Production when constructing [Water] units [in this city]"
+            "[+15]% Production when constructing [Water] units [in this city]",
+			"[+5 Food] from [Fish] tiles [in this city] <after discovering [Xenoecology]>"
         ],
         "requiredTech": "Basic Water Machines"
     },
@@ -103,5 +105,19 @@
         "hurryCostModifier": 25,
 		"requiredTech": "Xenology",
         "uniques": ["Destroyed when the city is captured"]
+    },
+	{
+        "name": "Great Archive",
+        "cost": 125,
+        "percentStatBonus": {"science": 25},
+        "culture": 3,
+        "isNationalWonder": true,
+        "uniques": [
+            "Only available <if [Laboratory] is constructed in all [non-[Puppeted]] cities>",
+            "Cost increases by [30] per owned city",
+			"[+3 Science] from [Jungle] tiles [in this city]",
+			"[+2 Science] from [Forest] tiles [in this city]"
+        ],
+        "requiredTech": "Archivatory"
     }
 ]
