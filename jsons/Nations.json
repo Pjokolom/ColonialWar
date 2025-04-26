@@ -7,7 +7,7 @@
     //nations
     {
         "name": "East Republic",
-        "leaderName": "Emperior Fate I",
+        "leaderName": "Premier Minister Fate I",
         "adjective": ["Eastern"],
         "startBias": ["Avoid [Coast]"],
         "preferredVictoryType": "Domination",
