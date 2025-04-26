@@ -111,7 +111,8 @@
         "uniques": [
             
             "[-70]% Strength <vs [Armored] units> <when attacking>",
-            "Limited to [1] per Civilization"
+            "Limited to [1] per Civilization",
+            "Will not be displayed in Civilopedia"
         
         ],
         "attackSound": "nonmetalhit"
