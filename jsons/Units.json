@@ -22,7 +22,7 @@
         "requiredResource": "Aluminum",
         "uniques": [
             "Can build [All] improvements on tiles",
-            "Can build [all] improvements at a [+40]% rate",
+            "Can build [all] improvements at a [+55]% rate",
             "Can build [Land] improvements on tiles",
             "Automation is a primary action",
             "Never appears as a Barbarian unit",
@@ -211,7 +211,7 @@
         "uniques": [
             
             "Only available <in cities with a [Weaponry Fabric]>",
-            "[+375]% Strength <vs [Armored] units> <when attacking>",
+            "[+400]% Strength <vs [Armored] units> <when attacking>",
             "Never appears as a Barbarian unit"
 
         ],
