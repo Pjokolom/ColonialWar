@@ -2,7 +2,7 @@
     {
         "name": "God-King",
         "type": "Pantheon",
-        "uniques": ["[+1 Production, +1 Food, +1 Culture, +1 Faith, +1 Science, +1 Gold, +1 Happiness] [in capital]"]
+        "uniques": ["[+5 Production, +5 Food, +5 Culture, +5 Faith, +5 Science, +5 Gold, +3 Happiness] [in capital]"]
     },
     {
         "name": "God-Machine",

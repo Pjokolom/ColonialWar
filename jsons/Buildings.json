@@ -113,6 +113,22 @@
         "requiredTech": "Basic Water Machines"
     },
 	{
+        "name": "Fabric Upgrade",
+        "cost": 120,
+        "maintenance": 2,
+		"production": 4,
+		"requiredNearbyImprovedResources": ["Ruby"],
+        "hurryCostModifier": 25,
+        "uniques": [
+
+			"[+1 Production, +1 Gold] from [Mine] tiles [in this city]",
+            "[+15]% Production when constructing [Air] units [in this city]",
+			"[+20]% Production when constructing [Armored] units [in this city]"
+
+        ],
+        "requiredTech": "Lazers"
+    },
+	{
         "name": "Fortification II",
         "cityStrength": 15,
         "cityHealth": 135,
@@ -135,10 +151,25 @@
         "requiredTech": "Archivatory"
     },
 	{
-        "name": "Entertainment company",
+        "name": "TV company",
         "cost": 125,
         "percentStatBonus": {"happiness": 30},
         "gold": 5,
+        "isNationalWonder": true,
+        "uniques": [
+            "Only available <if [Network tower] is constructed in all [non-[Puppeted]] cities>",
+            "Cost increases by [30] per owned city"
+        ],
+        "requiredTech": "Satellite communications"
+    },
+	{
+        "name": "Muachidi TV company",
+        "cost": 125,
+        "percentStatBonus": {"happiness": 25},
+        "happiness": 4,
+		"faith": 4,
+		"uniqueTo": "Muachidi",
+        "replaces": "TV company",
         "isNationalWonder": true,
         "uniques": [
             "Only available <if [Network tower] is constructed in all [non-[Puppeted]] cities>",

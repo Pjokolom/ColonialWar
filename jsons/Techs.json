@@ -167,6 +167,18 @@
                 "row": 5,
                 "prerequisites": ["Drones","Archivatory"],
                 "quote": "'Goo gooo' - Obeoben"
+            },
+            {
+                "name": "Robotechs",
+                "row": 1,
+                "prerequisites": ["Improved Mining","Drones II"],
+                "quote": "'Uee uee' - Gucochelechee"
+            },
+            {
+                "name": "Lazers",
+                "row": 1,
+                "prerequisites": ["Xenoecology","Archivatory"],
+                "quote": "'Uee uee' - Gucochelechee"
             }
         ]
     },
