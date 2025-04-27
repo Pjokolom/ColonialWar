@@ -186,7 +186,8 @@
         "uniqueName": "Old Empire",
         "uniques": [
 
-            "[+15]% Strength <for [{Military} {Air}] units>"
+            "[+15]% Strength <for [{Military} {Air}] units>",
+            "[+15]% Strength <for [Armored] units>  <when defending> <in [Houses] tiles>"
 
         ],
         "cities": [

@@ -156,6 +156,28 @@
         "attackSound": "tankshot"
     },
     {
+        "name": "Zverzi",
+        "unitType": "Armored",
+        "movement": 5,
+        "strength": 63,
+        "uniqueTo": "East Republic",
+        "replaces": "Mechanized Infantry",
+        "requiredResource": "Aluminum",
+        "cost": 330,
+        "requiredTech": "Basic War Machines",
+        "uniques": [
+            
+            "Never appears as a Barbarian unit",
+            "Only available <in cities with a [Weaponry Fabric]>",
+            "Only available <in cities with a [Tech Fabric]>",
+            "Can move after attacking",
+            "Can transform to [Trooper]",
+            "[+18]% Strength <vs [Gunpowder] units> <when attacking>"
+
+        ],
+        "attackSound": "tankshot"
+    },
+    {
         "name": "Modern Armor",
         "unitType": "Armored",
         "movement": 5,
@@ -450,7 +472,90 @@
         ],
         "promotions": ["Indirect Fire"],
         "attackSound": "shipguns"
-    }
+    },
+    {
+        "name": "Ovari",
+        "unitType": "Ranged Water",
+        "movement": 4,
+        "strength": 180,
+        "uniqueTo": "Japan",
+        "rangedStrength": 82,
+        "range": 3,
+        "cost": 900,
+        "requiredResource": "Oil",
+        "requiredTech": "Battleships",
+        "uniques": [
 
+            "Never appears as a Barbarian unit", 
+            "Only available <in cities with a [Seaport]>",
+            "Limited to [1] per Civilization"
+        
+        ],
+        "promotions": ["Indirect Fire"],
+        "attackSound": "shipguns"
+    },
+    {
+        "name": "Jet Fighter",
+        "unitType": "Fighter",
+        "movement": 1,
+        "strength": 75,
+        "rangedStrength": 75,
+        "range": 10,
+        "interceptRange": 10,
+        "cost": 540,
+        "requiredTech": "Planes",
+        "uniques": [
+            "[100]% chance to intercept air attacks",
+            "[+150]% Strength <vs [Bomber] units>",
+            "[+150]% Strength <vs [Helicopter] units>",
+            "[+4] Sight",
+            "Can see over obstacles",
+            "Only available <in cities with a [Weaponry Fabric]>",
+            "Only available <in cities with a [Tech Fabric]>"
+        ],
+        "attackSound": "jetgun"
+    },
+    {
+        "name": "Bomber",
+        "unitType": "Bomber",
+        "movement": 1,
+        "strength": 70,
+        "rangedStrength": 70,
+        "range": 10,
+        "cost": 450,
+        "requiredTech": "Planes",
+        "requiredResource": "Oil",
+        "uniques": [
+            "[+150]% Strength <vs [Water] units>",
+            "[+2] Sight",
+            "Can see over obstacles",
+            "[+180]% Strength <vs cities> <when attacking>",
+            "Only available <in cities with a [Weaponry Fabric]>",
+            "Only available <in cities with a [Tech Fabric]>"
+        ],
+        "attackSound": "bombing"
+    },
+    {
+        "name": "Esturiper",
+        "unitType": "Bomber",
+        "movement": 1,
+        "strength": 70,
+        "uniqueTo": "Japan",
+        "replaces": "Bomber",
+        "rangedStrength": 60,
+        "range": 10,
+        "cost": 400,
+        "requiredTech": "Planes",
+        "requiredResource": "Oil",
+        "uniques": [
+            "[+250]% Strength <vs [Water] units>",
+            "[+2] Sight",
+            "Can see over obstacles",
+            "[+150]% Strength <vs cities> <when attacking>",
+            "Only available <in cities with a [Weaponry Fabric]>",
+            "Only available <in cities with a [Tech Fabric]>"
+        ],
+        "attackSound": "bombing"
+    },
 
 ]

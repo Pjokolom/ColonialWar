@@ -118,7 +118,7 @@
     },
     {
         "columnNumber": 4,
-        "era": "Modern era",
+        "era": "Information era",
         "techCost": 900,
         "buildingCost": 500,
         "wonderCost": 1250,
@@ -152,6 +152,21 @@
                 "row": 4,
                 "prerequisites": ["War Ships"],
                 "quote": "'I am become Death, the destroyer of worlds.' - J. Robert Oppenheimer"
+            }
+        ]
+    },
+    {
+        "columnNumber": 5,
+        "era": "Information era",
+        "techCost": 900,
+        "buildingCost": 500,
+        "wonderCost": 1250,
+        "techs": [
+            {
+                "name": "Planes",
+                "row": 5,
+                "prerequisites": ["Drones","Archivatory"],
+                "quote": "'Goo gooo' - Obeoben"
             }
         ]
     },
