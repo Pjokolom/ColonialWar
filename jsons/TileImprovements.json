@@ -89,12 +89,12 @@
     {
         "name": "Shopping Mall",
         "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains","Marsh"],
-        "gold": 4,
+        "gold": 2,
         "techRequired": "AI",
         "turnsToBuild": 15,
         "uniques": [
             "Pillaging this improvement yields approximately [+60 Gold]",
-            "[+2 Production] <after discovering [Satellite communications]>"
+            "[+3 Gold] <after discovering [Satellite communications]>"
         ]
     },
     //TUrrEts

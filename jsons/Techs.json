@@ -176,8 +176,23 @@
             },
             {
                 "name": "Lazers",
-                "row": 1,
+                "row": 7,
                 "prerequisites": ["Xenoecology","Archivatory"],
+                "quote": "'Uee uee' - Gucochelechee"
+            }
+        ]
+    },
+    {
+        "columnNumber": 6,
+        "era": "Information era",
+        "techCost": 900,
+        "buildingCost": 500,
+        "wonderCost": 1250,
+        "techs": [
+            {
+                "name": "Robotechs II",
+                "row": 1,
+                "prerequisites": ["Robotechs"],
                 "quote": "'Uee uee' - Gucochelechee"
             }
         ]

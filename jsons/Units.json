@@ -51,7 +51,8 @@
 
             "Can build [Railroad] improvements on tiles",
             "Founds a new city", "Excess Food converted to Production when under construction",
-			"Requires at least [2] population"
+			"Requires at least [2] population",
+            "Never appears as a Barbarian unit"
         
         ],
         "promotions": ["Ignore terrain cost"],
@@ -312,7 +313,8 @@
             "[-100]% maintenance costs", "Never appears as a Barbarian unit",
             "Only available <in cities with a [Weaponry Fabric]>",
             "Only available <in cities with a [Tech Fabric]>",
-            "[+3] Sight"
+            "[+3] Sight",
+            "Destroys tile improvements when attacking"
         
         ],
         "attackSound": "missile"
@@ -335,7 +337,8 @@
             "Only available <in cities with a [Tech Fabric]>",
             "[+20]% Strength <vs cities> <when attacking>",
             "[-20]% Strength <vs [Armored] units> <when attacking>",
-            "[+3] Sight"
+            "[+3] Sight",
+            "Destroys tile improvements when attacking"
 
         ],
         "attackSound": "missile"
@@ -357,7 +360,8 @@
             "[-1] Sight",
             "Never appears as a Barbarian unit",
             "Only available <in cities with a [Weaponry Fabric]>",
-            "Only available <in cities with a [Tech Fabric]>"
+            "Only available <in cities with a [Tech Fabric]>",
+            "Destroys tile improvements when attacking"
 
         ],
         "promotions": ["Indirect Fire"],
@@ -382,7 +386,8 @@
             "[-1] Sight",
             "Never appears as a Barbarian unit",
             "Only available <in cities with a [Weaponry Fabric]>",
-            "Only available <in cities with a [Tech Fabric]>"
+            "Only available <in cities with a [Tech Fabric]>",
+            "Destroys tile improvements when attacking"
 
         ],
         "promotions": ["Indirect Fire"],
@@ -619,6 +624,46 @@
 
         ],
         "attackSound": "artillery"
+    },
+    {
+        "name": "Ganymede",
+        "unitType": "Frame",
+        "movement": 1,
+        "strength": 85,
+        "uniqueTo": "United States of America",
+        "rangedStrength": 75,
+        "range": 1,
+        "cost": 700,
+        "requiredTech": "Robotechs II",
+        "uniques": [
+
+            "[+120]% Strength <vs [Armored] units> <when attacking>",
+            "No defensive terrain bonus",
+            "Can move after attacking",
+            "Never appears as a Barbarian unit",
+            "Only available <in cities with a [Weaponry Fabric]>",
+            "Only available <in cities with a [Tech Fabric]>",
+            "[+800]% Strength <when adjacent to a [Ganymede battery] unit> <when attacking>",
+            "Withdraws before melee combat <with [50]% chance>",
+            "[+7] Movement <when adjacent to a [Ganymede battery] unit>"
+
+        ],
+        "attackSound": "artillery"
+    },
+    {
+        "name": "Ganymede battery",
+        "unitType": "Frame",
+        "movement": 7,
+        "strength": 60,
+        "uniqueTo": "United States of America",
+        "cost": 1,
+        "requiredTech": "Robotechs II",
+        "uniques": [
+
+            "[-100]% Strength <when attacking>",
+            "Only available <in cities with a [Tech Fabric]>"
+
+        ]
     }
 
 ]

@@ -46,6 +46,10 @@
         "movementType": "Land"
     },
     {
+        "name": "Frame",
+        "movementType": "Land"
+    },
+    {
         "name": "Siege",
         "movementType": "Land"
     },

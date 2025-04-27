@@ -66,6 +66,11 @@
 		"maintenance": 3,
         "happiness": 3,
 		"hurryCostModifier": 25,
+		"uniques": [
+
+			"[+2 Happiness] <after discovering [Xenoecology]>"
+
+		],
 		"requiredTech": "PC Fabrics"
 	},
 	{
