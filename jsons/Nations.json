@@ -20,8 +20,8 @@
         "neutralHello": "Greetings.",
         "hateHello": "What do you want?",
         "tradeRequest": "We need to talk some things.",
-        "outerColor": [255, 252, 240],
-        "innerColor": [220, 170, 20],
+        "outerColor": [255, 252, 243],
+        "innerColor": [179, 139, 19],
         "uniqueName": "Still Standing",
         "uniques": [
             "[+3 Happiness] [in all non-occupied cities]",
@@ -84,8 +84,8 @@
         "neutralHello": "Greetings.",
         "hateHello": "What do you want?",
         "tradeRequest": "We need to talk some things.",
-        "outerColor": [30, 30, 110],
-        "innerColor": [220, 0, 0],
+        "outerColor": [28, 28, 100],
+        "innerColor": [223, 25, 25],
         "uniqueName": "Still Standing",
         "uniques": [
             "[+1] Sight <for [{Military} {Land}] units>", 

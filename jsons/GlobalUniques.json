@@ -27,6 +27,10 @@
         // something something unit supply
 
         // Temporary "Needs actual support" uniques
+        "[-1 Gold] from every [Shopping Mall] <with [1] to [6] neighboring [Shopping Mall] tiles>",
+        "[-1 Gold] from every [Shopping Mall] <with [2] to [6] neighboring [Shopping Mall] tiles>",
+        "[-1 Gold] from every [Shopping Mall] <with [3] to [6] neighboring [Shopping Mall] tiles>",
+        "[-1 Gold] from every [Shopping Mall] <with [4] to [6] neighboring [Shopping Mall] tiles>",
         "[+1 Faith] from every [Quarry] <with [1] to [6] neighboring [Rock-hewn church] tiles>",
         "[+1 Faith] from every [Quarry] <with [2] to [6] neighboring [Rock-hewn church] tiles>",
         "[+1 Faith] from every [Quarry] <with [3] to [6] neighboring [Rock-hewn church] tiles>",

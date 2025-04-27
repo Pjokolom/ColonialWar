@@ -604,7 +604,6 @@
             "Doesn't generate naturally <in [Tundra] tiles>",
             "Doesn't generate naturally <in [Flood plains] tiles>",
             "Doesn't generate naturally <in [Desert] tiles>",
-            "[+10]% Production when constructing [All] units [in all cities] <starting from the [Industrial era]>",
             "Doesn't generate naturally <in [{Desert} {non-[Flood plains]} {non-[Hill]}] tiles>",
             "Doesn't generate naturally <in [{Tundra} {non-[Hill]}] tiles>"
         ]

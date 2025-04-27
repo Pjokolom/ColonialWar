@@ -610,18 +610,6 @@
         ]
     },
     {
-        "name": "Great Generals I", // only for Companion Cavalry, Keshik and their subsequent upgrades
-        "uniques": [
-            "[Great General] is earned [50]% faster"
-        ]
-    },
-    {
-        "name": "Great Generals II", // only for Samurai and subsequent upgrades
-        "uniques": [
-            "[Great General] is earned [100]% faster"
-        ]
-    },
-    {
         "name": "Quick Study", // only for Keshik and subsequent upgrades
         "uniques": [
             "[+50]% XP gained from combat"
@@ -849,12 +837,6 @@
         "name": "Devout",
         "uniques": [
             "Can Spread Religion <[1] additional time(s)>"
-        ]
-    },
-    {
-        "name": "Golden Age from Victories",
-        "uniques": [
-            "Earn [100]% of killed [Military] unit's [Strength] as [Golden Age points]"
         ]
     },
     {

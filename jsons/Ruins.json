@@ -11,12 +11,6 @@
         "excludedDifficulties": ["Prince", "King", "Emperor", "Immortal", "Deity"]
         },
     {
-        "name": "joinSettler",
-        "notification": "A [Settler] has joined us!",
-        "uniques": ["Free [Settler] found in the ruins"],
-        "excludedDifficulties": ["Warlord", "Prince", "King", "Emperor", "Immortal", "Deity"]
-        },
-    {
         "name": "freePop",
         "notification": "We have found survivors in the ruins! Population added to [cityName].",
         "uniques": ["[+1] population in a random city"] // This can't be easily added to cityFilter, as it is non-deterministic
@@ -26,19 +20,7 @@
         "notification": "We have found a stash of [goldAmount] Gold in the ruins!",
         "uniques": ["Gain [50]-[100] [Gold]"]
         },
-    {
-        "name": "freeAncientTech",
-        "notification": "We have discovered the lost technology of [techName] in the ruins!",
-        "uniques": ["[1] free random researchable Tech(s) from the [Ancient era]"]
-        },
-    {
-        "name": "unitUpgrade",
-        "notification": "Our unit finds advanced weaponry hidden in the ruins!",
-        "uniques": [
-            "[This Unit] upgrades for free including special upgrades",
-            "Only available <for [non-[Does not upgrade from ruins-like effects]] units>"
-        ]
-        },
+
     {
         "name": "crudelyDrawnMap",
         "notification": "We have found a crudely-drawn map in the ruins!",

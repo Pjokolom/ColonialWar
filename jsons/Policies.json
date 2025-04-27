@@ -62,8 +62,7 @@
             {
                 "name": "Tradition Complete",
                 "uniques": [
-                    "[+15]% growth [in all cities]",
-                    "May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
+                    "[+15]% growth [in all cities]"
                 ]
             }
         ]
@@ -101,7 +100,7 @@
                 "name": "Collective Rule",
                 "uniques": [
                     "[+50]% Production when constructing [Coloniser] units [in capital]",
-                    "Free [Coloniser] appears",
+                    "Free [Colonizer] appears",
                     "Provides [1] [Policies]"
                 ],
                 "requires": ["Republic"],
@@ -300,7 +299,6 @@
             {
                 "name": "Artistic Genius",
                 "uniques": [
-                    "Free [Great Artist] appears",
                     "Provides [1] [Policies]"
                 ],
                 "requires": ["Cultural Centers"],
@@ -467,10 +465,7 @@
             {
                 "name": "Exploration Complete",
                 "uniques": [
-                    "[Great Admiral] is earned [100]% faster",
-                    "Free [Great Admiral] appears",
                     "[+1] Happiness from each type of luxury resource",
-                    "May buy [Great Admiral] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
             }
         ]
@@ -478,7 +473,6 @@
     {
         "name": "Commerce",
         "uniques": [
-            "[Great Merchant] is earned [33]% faster",
             "Comment [Unlocks [Big Ben]]",
             "Provides [1] [Policies]"
         ],
@@ -548,11 +542,7 @@
             {
                 "name": "Commerce Complete",
                 "uniques": [
-                    "[2] free [Great Merchant] units appear",
-                    "[+1 Food] from every [Trading post]",
-                    "[+1 Food] from every [Caer]",
-                    "[+100]% Gold from Great Merchant trade missions",
-                    "May buy [Great Merchant] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
+
                 ]
             }
         ]
@@ -561,8 +551,6 @@
         "name": "Rationalism",
         "era": "Modern era",
         "uniques": [
-            "[Great Scientist] is earned [20]% faster",
-            "Comment [Unlocks [Porcelain Tower]]",
             "Provides [1] [Policies]"
         ],
         "policies": [
@@ -609,7 +597,6 @@
             {
                 "name": "Scientific Revolution",
                 "uniques": [
-                    "Free [Great Scientist] appears",
                     "Provides [1] [Policies]"
                 ],
                 "requires": ["Free Thought","Sovereignty"],
@@ -716,11 +703,6 @@
                 "name": "Resettlements",
                 "uniques": [
                     "[+4] population [in this city] <upon founding a city>",
-                    "Gain a free [Workshop] [in this city] <upon founding a city>",
-                    "Gain a free [Monument] [in this city] <upon founding a city>",
-                    "Gain a free [Granary] [in this city] <upon founding a city>",
-                    "Gain a free [Library] [in this city] <upon founding a city>",
-                    "Gain a free [Aqueduct] [in this city] <upon founding a city>",
                     "Provides [1] [Level 1 Ideology]",
                     "Provides [1] [Policies]"
                 ],
@@ -811,7 +793,6 @@
             {
                 "name": "Communism",
                 "uniques": [
-                    "Each city founded increases Science cost of Technologies [20]% less than normal",
                     "Provides [-1] [Level 2 Ideology]",
                     "Only available <when above [1] [Level 2 Ideology]>",
                     "Provides [1] [Policies]"
@@ -836,8 +817,6 @@
             {
                 "name": "Spaceflight Pioneers",
                 "uniques": [
-                    "Free [Great Scientist] appears",
-                    "Free [Great Engineer] appears",
                     //need implement "Spaceflight Pioneers: May finish Spaceship parts with Great Engineers"
                     "Provides [-1] [Level 2 Ideology]",
                     "Only available <when above [1] [Level 2 Ideology]>",
@@ -897,7 +876,6 @@
             {
                 "name": "Volunteer Army",
                 "uniques": [
-                    "[3] free [Foreign Legion] units appear",
                     "[3] units cost no maintenance",
                     "[Gunpowder] units gain the [Morale] promotion",
                     "All newly-trained [Gunpowder] units [in all cities] receive the [Morale] promotion",
@@ -959,12 +937,6 @@
             {
                 "name": "Free Mind",
                 "uniques": [
-                    "[Great Artist] is earned [33]% faster",
-                    "[Great Writer] is earned [33]% faster",
-                    "[Great Musician] is earned [33]% faster",
-                    "[+20]% [Gold] <in cities with a [Zoo]>",
-                    "[+20]% [Gold] <in cities with a [Museum]>",
-                    "[+20]% [Gold] <in cities with a [Broadcast Tower]>",
                     "Provides [-1] [Level 1 Ideology]",
                     "Provides [1] [Level 2 Ideology]",
                     "Only available <when above [1] [Level 1 Ideology]>",
@@ -1210,9 +1182,7 @@
             {
                 "name": "Third Alternative",
                 "uniques": [
-                    "Double quantity of [Horses] produced",
                     "Double quantity of [Iron] produced",
-                    "Double quantity of [Coal] produced",
                     "Double quantity of [Oil] produced",
                     "Double quantity of [Aluminum] produced",
                     "Double quantity of [Uranium] produced",
@@ -1229,7 +1199,6 @@
                 "name": "Total War",
                 "uniques": [
                     "[+25]% Production when constructing [Military] units [in all cities]",
-                    "New [Military] units start with [15] XP [in all cities]",
                     "Provides [-1] [Level 1 Ideology]",
                     "Provides [1] [Level 2 Ideology]",
                     "Only available <when above [1] [Level 1 Ideology]>",

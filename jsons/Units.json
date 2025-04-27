@@ -630,7 +630,7 @@
         "unitType": "Frame",
         "movement": 1,
         "strength": 85,
-        "uniqueTo": "United States of America",
+        "uniqueTo": "British Empire",
         "rangedStrength": 75,
         "range": 1,
         "cost": 700,
@@ -655,7 +655,7 @@
         "unitType": "Frame",
         "movement": 7,
         "strength": 60,
-        "uniqueTo": "United States of America",
+        "uniqueTo": "British Empire",
         "cost": 1,
         "requiredTech": "Robotechs II",
         "uniques": [
@@ -664,6 +664,22 @@
             "Only available <in cities with a [Tech Fabric]>"
 
         ]
-    }
+    },
+    {
+		"name": "Craby",
+		"unitType": "Armored",
+		"movement": 3,
+        "strength": 80,
+        "requiredResource": "Iron",
+        "requiredTech": "Robotechs II",
+		"cost": 120,
+		"uniques": [
+
+            "Never appears as a Barbarian unit"
+        
+        ],
+        "promotions": ["Ignore terrain cost"],
+		"hurryCostModifier": 20
+	}
 
 ]
