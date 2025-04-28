@@ -154,7 +154,8 @@
             "[+2] Movement <for [Water] units>",
             "[+2] Movement <for [Embarked] units>",
             "Gain an extra spy <upon entering the [Modern era]>",
-            "Earn [20]% of killed [Xenos] unit's [Cost] as [Science] <hidden from users>"
+            "Earn [20]% of killed [Xenos] unit's [Cost] as [Science] <hidden from users>",
+            "[0]% [Food] [in annexed cities] <in cities with less than [5] [Population]>"
         ],
         "cities": [
             "London","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool",
