@@ -2,7 +2,7 @@
     {
         "columnNumber": 1,
         "era": "Modern era",
-        "techCost": 400,
+        "techCost": 200,
         "buildingCost": 200,
         "wonderCost": 1060,
         "techs": [
@@ -31,7 +31,7 @@
     {
         "columnNumber": 2,
         "era": "Modern era",
-        "techCost": 600,
+        "techCost": 350,
         "buildingCost": 400,
         "wonderCost": 1250,
         "techs": [
@@ -79,7 +79,7 @@
     {
         "columnNumber": 3,
         "era": "Modern era",
-        "techCost": 800,
+        "techCost": 600,
         "buildingCost": 500,
         "wonderCost": 1250,
         "techs": [

@@ -93,7 +93,27 @@
             "Earn [20]% of killed [Xenos] unit's [Cost] as [Science] <hidden from users>"
         ],
         "cities": [
-            "New York","Nox Polk","Nixon","Blueberry-town","Meanesk","New Washington","Iercerie","Mazo Ciudad"
+            "New York",
+            "Nox Polk",
+            "Nixon",
+            "Blueberry-town",
+            "Meanesk",
+            "New Washington",
+            "Iercerie",
+            "Mazo Ciudad",
+            "New Noland",
+            "Loserk",
+            "Chicerk",
+            "Housenix",
+            "Dalelphia",
+            "Ausago",
+            "Fort Ausland",
+            "Charville",
+            "Seatas",
+            "Denego",
+            "Detego",
+            "Balttin",
+            "Tucas"
         ],
         "spyNames": [
             "Cousin", "Felix", "Dennis", "Edward", "Prof. Rex", "Eliza", "Mary", "Virginia", "Scarlett", "Barbara"
@@ -157,10 +177,31 @@
             "Earn [20]% of killed [Xenos] unit's [Cost] as [Science] <hidden from users>"
         ],
         "cities": [
-            "London","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool",
-            "Dover","Brighton","Norwich","Leeds","Reading","Birmingham","Exeter","Cambridge","Gloucester","Manchester",
-            "Bristol","Leicester","Carlisle","Ipswich","Portsmouth","Berwick","Bath","Mumbles","Southampton","Sheffield",
-            "Salisbury","Colchester","Plymouth","Lancaster","Blackpool","Winchester","Hull"
+            "Bastol",
+            "Briton",
+            "Camstol",
+            "Camans",
+            "Cantstol",
+            "Chelmsbridge",
+            "Chelmserby",
+            "Chestton",
+            "Chestisle",
+            "Hereentry",
+            "Lemingham",
+            "Liverester",
+            "Liverby",
+            "Notland",
+            "Trut",
+            "Truford",
+            "Welford",
+            "Sunbridge",
+            "Eton",
+            "Eby",
+            "Leby",
+            "Liverbury",
+            "Norland",
+            "Ripdon",
+            "Trufield"
         ],
         "spyNames": [
             "James","Scarlett","Mycroft","Charlotte","Gwendolyn","Mr. Eks","Dr. Grey","Andrew","Scott","Anne"
