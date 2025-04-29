@@ -176,6 +176,7 @@
         "resourceType": "Strategic",
         "terrainsCanBeFoundOn": ["Marsh","Jungle","Forest","Tundra","Snow","Grassland","Plains","Desert"],
         "production": 1,
+        "revealedBy": "Eureka",
         "improvement": "Mine",
         "improvementStats": {"production": 1},
         "uniques": [

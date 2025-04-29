@@ -229,6 +229,12 @@
                 "row": 8,
                 "prerequisites": ["Improved Jet Engine"],
                 "quote": "'Uee uee' - Gucochelechee"
+            },
+            {
+                "name": "Eureka",
+                "row": 3,
+                "prerequisites": ["Improved Ammunition","Robotechs II"],
+                "quote": "'Uee uee' - Gucochelechee"
             }
         ]
     },

@@ -197,7 +197,7 @@
         "attackSound": "tankshot"
     },
     {
-        "name": "Zverzi",
+        "name": "Zvera",
         "unitType": "Armored",
         "movement": 5,
         "strength": 63,
@@ -763,6 +763,26 @@
             "Never appears as a Barbarian unit"
         ],
         "attackSound": "missile"
+    },
+    {
+        "name": "G-1",
+        "unitType": "Armored",
+        "movement": 4,
+        "strength": 120,
+        "uniqueTo": "British Empire",
+        "requiredTech": "Eureka",
+        "cost": 12000,
+        "uniques": [
+
+            "[-50]% Strength <when attacking>",
+            "Never appears as a Barbarian unit",
+            "Can move after attacking",
+            "Can carry [2] [Drone-type] units",
+            "[+20]% Strength bonus for [Land] units within [3] tiles",
+            "Limited to [5] per Civilization"
+
+        ],
+        "attackSound": "shot"
     }
 
 ]

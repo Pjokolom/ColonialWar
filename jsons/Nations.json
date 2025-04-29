@@ -175,7 +175,9 @@
             "[+2] Movement <for [Embarked] units>",
             "Gain an extra spy <upon entering the [Modern era]>",
             "Earn [20]% of killed [Xenos] unit's [Cost] as [Science] <hidden from users>",
-            "[-100]% [Food] [in annexed cities] <in cities with less than [5] [Population]>"
+            "[-100]% [Food] [in annexed cities] <in cities with less than [5] [Population]>",
+            "[+60]% [Production] [in annexed cities]  <in cities with at least [6] [Population]>",
+            "[-35]% [Happiness] [in annexed cities]  <in cities with at least [6] [Population]>"
         ],
         "cities": [
             "Bastol",
@@ -234,7 +236,20 @@
         ],
         "cities": [
 
-            "Ahikabara","Asakusa","Sumida","Ikebukuro","Ueno","Ginza","Toyosu","Roppongi"
+            "Ahikabara",
+            "Sumida",
+            "Ikebukuro",
+            "Ueno",
+            "Ginza",
+            "Toyosu",
+            "Asakusa",
+            "Roppongi",
+            "Nakagyo",
+            "Gion",
+            "Toyosu",
+            "Kamishitiken",
+            "Kita",
+            "Ponto-cho"
 
         ],
         "spyNames": [
