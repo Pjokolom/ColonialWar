@@ -13,7 +13,13 @@
     },
     {
         "name": "Gunpowder",
-        "movementType": "Land"
+        "movementType": "Land",
+        "uniques":[
+
+            "[+15]% Strength <when attacking> <after discovering [Improved Ammunition]>",
+            "[+15]% Strength <after discovering [Improved Ammunition]>"
+        
+        ]
     },
     {
         "name": "Paratrooping",
@@ -26,7 +32,12 @@
     },
     {
         "name": "Ranged Gunpowder",
-        "movementType": "Land"
+        "movementType": "Land",
+        "uniques":[
+
+            "[+30]% Strength <when attacking> <after discovering [Improved Ammunition]>"
+        
+        ]
     },
     {
         "name": "Scout",

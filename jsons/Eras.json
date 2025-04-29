@@ -13,18 +13,15 @@
         "startingCulture": 500,
         "settlerPopulation": 3,
         "settlerBuildings": [],
-        "startingObsoleteWonders": [
-            
-        ],
         "baseUnitBuyCost": 600,
         "embarkDefense": 13,
-        "startPercent": 65,
+        "startPercent": 0,
         "citySound": "CitySet",
         "iconRGB": [33, 150, 243],
         "uniques": ["May not generate great prophet equivalents naturally",
             "May buy [Great Prophet] units for [200] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([100])",
             "Adopt [Ideology]",
-            "Every major Civilization gains a spy once a civilization enters this era",
+            "Every major Civilization gains a spy once a civilization enters this era"
             
         ]
     },

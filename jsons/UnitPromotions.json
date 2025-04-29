@@ -1368,6 +1368,7 @@
     {
 		"name": "Drop Pod", 
         "unitTypes": ["Gunpowder","Ranged Gunpowder"],
-		"uniques": ["May Paradrop up to [8] tiles from inside friendly territory"]
+        "prerequisites": [],
+		"uniques": ["May Paradrop up to [8] tiles from inside friendly territory", "Only available <after discovering [Tech Fabrics]>"]
 	}
 ]

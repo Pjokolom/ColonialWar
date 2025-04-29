@@ -181,5 +181,15 @@
             "Cost increases by [30] per owned city"
         ],
         "requiredTech": "Satellite communications"
+    },
+	{
+        "name": "Military Base",
+        "hurryCostModifier": 0,
+        "maintenance": 1,
+        "uniques": [
+            "New [Military] units start with [25] XP [in this city]",
+            "Destroyed when the city is captured"
+        ],
+        "requiredTech": "Drones"
     }
 ]
