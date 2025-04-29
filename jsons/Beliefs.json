@@ -20,7 +20,7 @@
     {
         "name": "Cult of work",
         "type": "Founder",
-        "uniques": ["[+2 Production] from every [1] global followers [in cities following this religion]"]
+        "uniques": ["[+1 Production] from every [1] global followers [in cities following this religion]"]
     }
 
     ///////////////////////////////////////// Follower beliefs /////////////////////////////////////////
