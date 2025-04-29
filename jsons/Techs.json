@@ -31,7 +31,7 @@
     {
         "columnNumber": 2,
         "era": "Modern era",
-        "techCost": 350,
+        "techCost": 400,
         "buildingCost": 400,
         "wonderCost": 1250,
         "techs": [
