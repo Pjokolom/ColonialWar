@@ -201,7 +201,7 @@
         "turnsToBuild": 0,
         "uniques": [
             "Can be built outside your borders",
-            "Costs [0.5] [Gold] per turn"
+            "Costs [1] [Gold] per turn"
         ],
         "shortcutKey": "R",
         "civilopediaText": [
