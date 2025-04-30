@@ -443,6 +443,23 @@
         "attackSound": "torpedo"
     },
     {
+        "name": "Halaven",
+        "unitType": "Submarine",
+        "movement": 5,
+        "strength": 40,
+        "uniqueTo": "East Republic",
+        "replaces": "Submarine",
+        "rangedStrength": 70,
+        "cost": 350,
+        "requiredTech": "War Ships",
+        "uniques": [
+            "[+75]% Strength <when attacking>",
+            "Can only attack [Water] tiles",
+            "Never appears as a Barbarian unit"
+        ],
+        "attackSound": "torpedo"
+    },
+    {
         "name": "Destroyer",
         "unitType": "Melee Water",
         "movement": 6,
@@ -788,7 +805,7 @@
         "name": "Mobile head",
         "unitType": "Armored",
         "movement": 3,
-        "strength": 125
+        "strength": 125,
         "requiredTech": "Eureka",
         "cost": 12000,
         "uniques": [
