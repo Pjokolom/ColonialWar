@@ -777,6 +777,25 @@
             "[-50]% Strength <when attacking>",
             "Never appears as a Barbarian unit",
             "Can move after attacking",
+            "Can carry [3] [Drone-type] units",
+            "[+20]% Strength bonus for [Land] units within [3] tiles",
+            "Limited to [5] per Civilization"
+
+        ],
+        "attackSound": "shot"
+    },
+    {
+        "name": "Mobile Head",
+        "unitType": "Armored",
+        "movement": 3,
+        "strength": 125
+        "requiredTech": "Eureka",
+        "cost": 12000,
+        "uniques": [
+
+            "[-50]% Strength <when attacking>",
+            "Never appears as a Barbarian unit",
+            "Can move after attacking",
             "Can carry [2] [Drone-type] units",
             "[+20]% Strength bonus for [Land] units within [3] tiles",
             "Limited to [5] per Civilization"
