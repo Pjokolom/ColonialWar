@@ -191,5 +191,13 @@
             "Destroyed when the city is captured"
         ],
         "requiredTech": "Drones"
+    },
+    {
+        "name": "Shrine",
+        "faith": 1,
+        "cost": 40,
+        "maintenance": 1,
+        "requiredTech": "PC Fabrics",
+        "uniques": ["Only available <when religion is enabled>"]
     }
 ]

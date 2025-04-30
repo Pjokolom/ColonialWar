@@ -148,6 +148,26 @@
         "attackSound": "machinegun"
     },
     {
+        "name": "Saqr",
+        "unitType": "Gunpowder",
+        "movement": 2,
+        "strength": 65,
+        "uniqueTo": "Muachidi",
+        "replaces": "Trooper",
+        "cost": 280,
+        "requiredTech": "Weaponry Fabrics",
+        "uniques": [
+            
+            "Only available <in cities with a [Weaponry Fabric]>",
+            "Never appears as a Barbarian unit",
+            "[+15]% Strength <in [Desert] tiles>",
+            "[+1] Movement <in [Desert] tiles>",
+            "[-80]% Strength <vs [Armored] units> <when attacking>"
+        
+        ],
+        "attackSound": "machinegun"
+    },
+    {
         "name": "Ikoit",
         "unitType": "Xenos",
         "movement": 2,
