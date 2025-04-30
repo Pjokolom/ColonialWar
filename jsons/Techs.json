@@ -245,6 +245,27 @@
         ]
     },
         {
+        "columnNumber": 7,
+        "era": "Information era",
+        "techCost": 1575,
+        "buildingCost": 500,
+        "wonderCost": 1250,
+        "techs": [
+            {
+                "name": "Heavy Jet Machines",
+                "row": 8,
+                "prerequisites": ["Improved Jet Engine"],
+                "quote": "'Uee uee' - Gucochelechee"
+            },
+            {
+                "name": "Eureka",
+                "row": 3,
+                "prerequisites": ["Improved Ammunition","Robotechs II"],
+                "quote": "'Uee uee' - Gucochelechee"
+            }
+        ]
+    },
+        {
         "columnNumber": 8,
         "era": "Information era",
         "techCost": 1575,
@@ -254,7 +275,30 @@
             {
                 "name": "Sakura Engine",
                 "row": 3,
-                "prerequisites": ["Eureka"],
+                "uniques":
+                [
+                    "[+15 Production] [in all cities]"
+                ],
+                "prerequisites": ["Eureka"], 
+                "quote": "'Uee uee' - Gucochelechee"
+            }
+        ]
+    },
+    {
+        "columnNumber": 9,
+        "era": "Frame era",
+        "techCost": 1575,
+        "buildingCost": 500,
+        "wonderCost": 1250,
+        "techs": [
+            {
+                "name": "Knightmare Revolution",
+                "row": 3,
+                "uniques":
+                [
+                    "[+15 Production] [in all cities]"
+                ],
+                "prerequisites": ["Sakura Engine"], 
                 "quote": "'Uee uee' - Gucochelechee"
             }
         ]

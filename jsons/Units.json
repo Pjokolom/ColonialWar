@@ -173,10 +173,27 @@
         "movement": 2,
         "uniqueTo": "Barbarians",
         "strength": 12,
-        "cost": 110,
+        "cost": 200,
         "uniques": [
             
-            "[-70]% Strength <vs [Armored] units> <when attacking>"
+            "[-70]% Strength <vs [Armored] units> <when attacking>",
+            "[-100]% Strength <vs [Helicopter] units> <when attacking>"
+        
+        ],
+        "attackSound": "nonmetalhit"
+    },
+    {
+        "name": "Wyrm",
+        "unitType": "Xenos",
+        "movement": 1,
+        "uniqueTo": "Barbarians",
+        "strength": 20,
+        "cost": 160,
+        "uniques": [
+            
+            "[-70]% Strength <vs [Armored] units> <when attacking>",
+            "[-100]% Strength <vs [Helicopter] units> <when attacking>",
+            "Can pass through impassable tiles"
         
         ],
         "attackSound": "nonmetalhit"
@@ -811,8 +828,8 @@
         "strength": 120,
         "requiredResource": "Uranium",
         "uniqueTo": "British Empire",
-        "requiredTech": "Eureka",
-        "cost": 750,
+        "requiredTech": "Sakura Engine",
+        "cost": 780,
         "uniques": [
 
             "[-50]% Strength <when attacking>",
@@ -832,8 +849,8 @@
         "movement": 3,
         "requiredResource": "Uranium",
         "strength": 125,
-        "requiredTech": "Eureka",
-        "cost": 12000,
+        "requiredTech": "Sakura Engine",
+        "cost": 750,
         "uniques": [
 
             "[-50]% Strength <when attacking>",
