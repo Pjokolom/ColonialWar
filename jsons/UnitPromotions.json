@@ -1369,6 +1369,6 @@
 		"name": "Drop Pod", 
         "unitTypes": ["Gunpowder","Ranged Gunpowder"],
         "prerequisites": [],
-		"uniques": ["May Paradrop up to [8] tiles from inside friendly territory", "Only available <after discovering [Tech Fabrics]>"]
+		"uniques": ["May Paradrop up to [8] tiles from inside friendly territory", "Only available <after discovering [Improved Jet Engine]>"]
 	}
 ]
