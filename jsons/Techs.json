@@ -238,6 +238,21 @@
             }
         ]
     },
+        {
+        "columnNumber": 8,
+        "era": "Information era",
+        "techCost": 1575,
+        "buildingCost": 500,
+        "wonderCost": 1250,
+        "techs": [
+            {
+                "name": "Sakura Engine",
+                "row": 3,
+                "prerequisites": ["Eureka"],
+                "quote": "'Uee uee' - Gucochelechee"
+            }
+        ]
+    },
     {
         "columnNumber": 12,
         "era": "Information era",
