@@ -169,6 +169,12 @@
                 "quote": "'Goo gooo' - Obeoben"
             },
             {
+                "name": "Rockets",
+                "row": 4,
+                "prerequisites": ["Battleships"],
+                "quote": "'Goo gooo' - Obeoben"
+            },
+            {
                 "name": "Robotechs",
                 "row": 1,
                 "prerequisites": ["Improved Mining","Drones II"],

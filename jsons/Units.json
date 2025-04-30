@@ -328,13 +328,14 @@
         "strength": 70,
         "rangedStrength": 80,
         "range": 8,
-        "cost": 180,
+        "cost": 175,
         "requiredTech": "Drones",
         "uniques": [
             
             "[-100]% maintenance costs", "Never appears as a Barbarian unit",
             "Only available <in cities with a [Weaponry Fabric]>",
             "Only available <in cities with a [Tech Fabric]>",
+            "[-75]% Strength <vs [Water] units>",
             "[+3] Sight",
             "Destroys tile improvements when attacking"
         
@@ -445,25 +446,12 @@
     {
         "name": "Halaven",
         "unitType": "Submarine",
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-        "movement": 5,
-        "strength": 40,
         "uniqueTo": "East Republic",
         "replaces": "Submarine",
         "rangedStrength": 70,
-        "cost": 350,
-=======
-=======
->>>>>>> Stashed changes
         "movement": 6,
         "strength": 42,
-        "rangedStrength": 65,
         "cost": 360,
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
         "requiredTech": "War Ships",
         "uniques": [
             "[+75]% Strength <when attacking>",
@@ -504,6 +492,7 @@
             "[60]% chance to intercept air attacks",
             "Withdraws before melee combat <with [80]% chance>",
             "[+50]% Strength <vs [Submarine] units>",
+            "Can carry [1] [Missile] units",
             "[-25]% Damage when intercepting",
             "Only available <in cities with a [Seaport]>"
             
@@ -810,6 +799,7 @@
             "Never appears as a Barbarian unit",
             "Can move after attacking",
             "Can carry [3] [Drone-type] units",
+            "Can carry [3] [Missile] units",
             "[+20]% Strength bonus for [Land] units within [3] tiles",
             "Limited to [5] per Civilization"
 
@@ -829,12 +819,26 @@
             "[-50]% Strength <when attacking>",
             "Never appears as a Barbarian unit",
             "Can move after attacking",
+            "Can carry [3] [Missile] units",
             "Can carry [2] [Drone-type] units",
             "[+20]% Strength bonus for [Land] units within [3] tiles",
             "Limited to [5] per Civilization"
 
         ],
         "attackSound": "shot"
-    }
+    },
+    {
+        "name": "Guided Missile",
+        "unitType": "Missile",
+        "movement": 1,
+        "strength": 125,
+        "rangedStrength": 125,
+        "range": 12,
+        "cost": 300,
+        "requiredTech": "Rockets",
+        "uniques": ["[-100]% maintenance costs"],
+        "attackSound": "missile"
+    },
+
 
 ]

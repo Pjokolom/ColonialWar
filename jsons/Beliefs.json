@@ -32,7 +32,7 @@
     {
         "name": "Protestant Churches",
         "type": "Follower",
-        "uniques": ["May buy [Cathedral] buildings for [150] [Faith] [in cities following this religion]"]
+        "uniques": ["May buy [Protestant Church] buildings for [150] [Faith] [in cities following this religion]"]
     },
 
     ////////////////////////////////////// Enhancer beliefs ///////////////////////////////////////
@@ -40,7 +40,7 @@
         "name": "Apostolic Palace",
         "type": "Enhancer",
         "uniques": [
-            "[+5 Production, +5 Gold, +5 Food, +5 Science, +5 Culture, +5 Faith] from every [Grand Temple]",
+            "[+5 Production, +5 Gold, +5 Food, +5 Science, +5 Culture, +5 Faith] from every [Fortification II]",
             "Only available <after adopting [Reformation]>"
         ]
     },
