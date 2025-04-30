@@ -660,7 +660,7 @@
         "rangedStrength": 75,
         "range": 1,
         "cost": 700,
-        "requiredTech": "Robotechs II",
+        "requiredTech": "Sakura Engine",
         "uniques": [
 
             "[+120]% Strength <vs [Armored] units> <when attacking>",
@@ -683,7 +683,7 @@
         "strength": 60,
         "uniqueTo": "British Empire",
         "cost": 1,
-        "requiredTech": "Robotechs II",
+        "requiredTech": "Sakura Engine",
         "uniques": [
 
             "[-100]% Strength <when attacking>",
