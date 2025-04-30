@@ -785,7 +785,7 @@
         "attackSound": "shot"
     },
     {
-        "name": "Mobile Head",
+        "name": "Mobile head",
         "unitType": "Armored",
         "movement": 3,
         "strength": 125
