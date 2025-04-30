@@ -771,6 +771,7 @@
         "movement": 3,
         "interceptRange": 2,
         "strength": 65,
+        "requiredResource": "Iron",
         "cost": 510,
         "requiredTech": "Support Vechicles",
         "uniques": [
@@ -786,9 +787,10 @@
         "unitType": "Armored",
         "movement": 4,
         "strength": 120,
+        "requiredResource": "Uranium",
         "uniqueTo": "British Empire",
         "requiredTech": "Eureka",
-        "cost": 12000,
+        "cost": 750,
         "uniques": [
 
             "[-50]% Strength <when attacking>",
@@ -805,6 +807,7 @@
         "name": "Mobile head",
         "unitType": "Armored",
         "movement": 3,
+        "requiredResource": "Uranium",
         "strength": 125,
         "requiredTech": "Eureka",
         "cost": 12000,
