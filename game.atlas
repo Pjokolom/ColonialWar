@@ -433,7 +433,11 @@ repeat: none
 BuildingIcons/Laboratory
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 212, 420
+=======
+  xy: 1252, 1668
+>>>>>>> Stashed changes
 =======
   xy: 1252, 1668
 >>>>>>> Stashed changes
@@ -444,7 +448,11 @@ BuildingIcons/Laboratory
 BuildingIcons/Muachidi TV company
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1668, 1668
+=======
+  xy: 1044, 1044
+>>>>>>> Stashed changes
 =======
   xy: 1044, 1044
 >>>>>>> Stashed changes
@@ -455,7 +463,11 @@ BuildingIcons/Muachidi TV company
 BuildingIcons/Network tower
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 420, 212
+=======
+  xy: 1460, 1460
+>>>>>>> Stashed changes
 =======
   xy: 1460, 1460
 >>>>>>> Stashed changes
@@ -466,7 +478,11 @@ BuildingIcons/Network tower
 BuildingIcons/PC Fabric
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1252, 1044
+=======
+  xy: 628, 420
+>>>>>>> Stashed changes
 =======
   xy: 628, 420
 >>>>>>> Stashed changes
@@ -477,7 +493,11 @@ BuildingIcons/PC Fabric
 BuildingIcons/Protestant Church
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1252, 836
+=======
+  xy: 628, 212
+>>>>>>> Stashed changes
 =======
   xy: 628, 212
 >>>>>>> Stashed changes
@@ -488,7 +508,11 @@ BuildingIcons/Protestant Church
 BuildingIcons/Research Point
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 628, 4
+=======
+  xy: 1252, 836
+>>>>>>> Stashed changes
 =======
   xy: 1252, 836
 >>>>>>> Stashed changes
@@ -499,7 +523,11 @@ BuildingIcons/Research Point
 BuildingIcons/TV company
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1668, 420
+=======
+  xy: 1460, 420
+>>>>>>> Stashed changes
 =======
   xy: 1460, 420
 >>>>>>> Stashed changes
@@ -510,7 +538,11 @@ BuildingIcons/TV company
 BuildingIcons/Tech Fabric
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1668, 212
+=======
+  xy: 1252, 4
+>>>>>>> Stashed changes
 =======
   xy: 1252, 4
 >>>>>>> Stashed changes
@@ -521,7 +553,11 @@ BuildingIcons/Tech Fabric
 ImprovementIcons/Harjis
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 212, 1044
+=======
+  xy: 628, 1668
+>>>>>>> Stashed changes
 =======
   xy: 628, 1668
 >>>>>>> Stashed changes
@@ -532,7 +568,11 @@ ImprovementIcons/Harjis
 ImprovementIcons/Houses
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 836, 1668
+=======
+  xy: 420, 1252
+>>>>>>> Stashed changes
 =======
   xy: 420, 1252
 >>>>>>> Stashed changes
@@ -543,7 +583,11 @@ ImprovementIcons/Houses
 ImprovementIcons/Muachidi Houses
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 836, 1668
+=======
+  xy: 420, 1252
+>>>>>>> Stashed changes
 =======
   xy: 420, 1252
 >>>>>>> Stashed changes
@@ -554,7 +598,11 @@ ImprovementIcons/Muachidi Houses
 ImprovementIcons/Improved Mine
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 628, 1252
+=======
+  xy: 212, 836
+>>>>>>> Stashed changes
 =======
   xy: 212, 836
 >>>>>>> Stashed changes
@@ -565,7 +613,11 @@ ImprovementIcons/Improved Mine
 ImprovementIcons/Mine
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1044, 1044
+=======
+  xy: 628, 628
+>>>>>>> Stashed changes
 =======
   xy: 628, 628
 >>>>>>> Stashed changes
@@ -576,7 +628,11 @@ ImprovementIcons/Mine
 ImprovementIcons/Rock-hewn church
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1044, 420
+=======
+  xy: 1668, 1252
+>>>>>>> Stashed changes
 =======
   xy: 1668, 1252
 >>>>>>> Stashed changes
@@ -587,7 +643,11 @@ ImprovementIcons/Rock-hewn church
 ImprovementIcons/Sacred Grove
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1668, 1044
+=======
+  xy: 1044, 420
+>>>>>>> Stashed changes
 =======
   xy: 1044, 420
 >>>>>>> Stashed changes
@@ -598,8 +658,11 @@ ImprovementIcons/Sacred Grove
 ImprovementIcons/Shopping Mall
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1460, 628
 =======
+=======
+>>>>>>> Stashed changes
   xy: 836, 4
   size: 200, 200
   orig: 200, 200
@@ -608,6 +671,9 @@ ImprovementIcons/Shopping Mall
 ImprovementIcons/Tibetan Monastery
   rotate: false
   xy: 1460, 4
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   size: 200, 200
   orig: 200, 200
@@ -623,7 +689,11 @@ NationIcons/Golden Horde
 NationIcons/Hungary
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 4, 628
+=======
+  xy: 628, 1460
+>>>>>>> Stashed changes
 =======
   xy: 628, 1460
 >>>>>>> Stashed changes
@@ -634,7 +704,11 @@ NationIcons/Hungary
 NationIcons/Ireland
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 4, 420
+=======
+  xy: 836, 1460
+>>>>>>> Stashed changes
 =======
   xy: 836, 1460
 >>>>>>> Stashed changes
@@ -645,7 +719,11 @@ NationIcons/Ireland
 NationIcons/Israel
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 420, 836
+=======
+  xy: 4, 420
+>>>>>>> Stashed changes
 =======
   xy: 4, 420
 >>>>>>> Stashed changes
@@ -656,7 +734,11 @@ NationIcons/Israel
 NationIcons/Italy
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 628, 1044
+=======
+  xy: 212, 628
+>>>>>>> Stashed changes
 =======
   xy: 212, 628
 >>>>>>> Stashed changes
@@ -667,7 +749,11 @@ NationIcons/Italy
 NationIcons/Japan
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 836, 1252
+=======
+  xy: 420, 836
+>>>>>>> Stashed changes
 =======
   xy: 420, 836
 >>>>>>> Stashed changes
@@ -678,7 +764,11 @@ NationIcons/Japan
 NationIcons/Jerusalem
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1044, 1460
+=======
+  xy: 628, 1044
+>>>>>>> Stashed changes
 =======
   xy: 628, 1044
 >>>>>>> Stashed changes
@@ -689,7 +779,11 @@ NationIcons/Jerusalem
 NationIcons/Khmer
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1252, 1668
+=======
+  xy: 836, 1252
+>>>>>>> Stashed changes
 =======
   xy: 836, 1252
 >>>>>>> Stashed changes
@@ -700,7 +794,11 @@ NationIcons/Khmer
 NationIcons/Kilwa
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 4, 212
+=======
+  xy: 1044, 1460
+>>>>>>> Stashed changes
 =======
   xy: 1044, 1460
 >>>>>>> Stashed changes
@@ -711,7 +809,11 @@ NationIcons/Kilwa
 NationIcons/Lithuania
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1460, 1668
+=======
+  xy: 1044, 1252
+>>>>>>> Stashed changes
 =======
   xy: 1044, 1252
 >>>>>>> Stashed changes
@@ -722,7 +824,11 @@ NationIcons/Lithuania
 NationIcons/Manchuria
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 628, 628
+=======
+  xy: 212, 212
+>>>>>>> Stashed changes
 =======
   xy: 212, 212
 >>>>>>> Stashed changes
@@ -733,7 +839,11 @@ NationIcons/Manchuria
 NationIcons/Maurya
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 836, 836
+=======
+  xy: 420, 420
+>>>>>>> Stashed changes
 =======
   xy: 420, 420
 >>>>>>> Stashed changes
@@ -744,7 +854,11 @@ NationIcons/Maurya
 NationIcons/Muachidi
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1460, 1460
+=======
+  xy: 836, 836
+>>>>>>> Stashed changes
 =======
   xy: 836, 836
 >>>>>>> Stashed changes
@@ -755,7 +869,11 @@ NationIcons/Muachidi
 NationIcons/Mysore
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 212, 4
+=======
+  xy: 1252, 1252
+>>>>>>> Stashed changes
 =======
   xy: 1252, 1252
 >>>>>>> Stashed changes
@@ -766,7 +884,11 @@ NationIcons/Mysore
 NationIcons/Normandy
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 628, 420
+=======
+  xy: 1668, 1668
+>>>>>>> Stashed changes
 =======
   xy: 1668, 1668
 >>>>>>> Stashed changes
@@ -777,7 +899,11 @@ NationIcons/Normandy
 NationIcons/Norway
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 836, 628
+=======
+  xy: 212, 4
+>>>>>>> Stashed changes
 =======
   xy: 212, 4
 >>>>>>> Stashed changes
@@ -788,7 +914,11 @@ NationIcons/Norway
 NationIcons/Papal State
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1668, 1460
+=======
+  xy: 1044, 836
+>>>>>>> Stashed changes
 =======
   xy: 1044, 836
 >>>>>>> Stashed changes
@@ -799,7 +929,11 @@ NationIcons/Papal State
 NationIcons/Philippines
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 628, 212
+=======
+  xy: 1460, 1252
+>>>>>>> Stashed changes
 =======
   xy: 1460, 1252
 >>>>>>> Stashed changes
@@ -810,7 +944,11 @@ NationIcons/Philippines
 NationIcons/Phoenicia
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 836, 420
+=======
+  xy: 1668, 1460
+>>>>>>> Stashed changes
 =======
   xy: 1668, 1460
 >>>>>>> Stashed changes
@@ -821,7 +959,11 @@ NationIcons/Phoenicia
 NationIcons/Prussia
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1460, 1044
+=======
+  xy: 836, 420
+>>>>>>> Stashed changes
 =======
   xy: 836, 420
 >>>>>>> Stashed changes
@@ -832,7 +974,11 @@ NationIcons/Prussia
 NationIcons/Romania
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1252, 628
+=======
+  xy: 628, 4
+>>>>>>> Stashed changes
 =======
   xy: 628, 4
 >>>>>>> Stashed changes
@@ -843,7 +989,11 @@ NationIcons/Romania
 NationIcons/Russia
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1460, 836
+=======
+  xy: 836, 212
+>>>>>>> Stashed changes
 =======
   xy: 836, 212
 >>>>>>> Stashed changes
@@ -854,7 +1004,11 @@ NationIcons/Russia
 NationIcons/Scotland
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1044, 212
+=======
+  xy: 1460, 836
+>>>>>>> Stashed changes
 =======
   xy: 1460, 836
 >>>>>>> Stashed changes
@@ -865,8 +1019,11 @@ NationIcons/Scotland
 NationIcons/Sumeria
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1460, 420
 =======
+=======
+>>>>>>> Stashed changes
   xy: 1668, 836
   size: 200, 200
   orig: 200, 200
@@ -889,6 +1046,9 @@ NationIcons/Timurids
 NationIcons/Tonga
   rotate: false
   xy: 1668, 4
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   size: 200, 200
   orig: 200, 200
@@ -918,7 +1078,11 @@ PolicyIcons/Gunboat Diplomacy
 PolicyIcons/Ideology
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 212, 836
+=======
+  xy: 836, 1668
+>>>>>>> Stashed changes
 =======
   xy: 836, 1668
 >>>>>>> Stashed changes
@@ -929,7 +1093,11 @@ PolicyIcons/Ideology
 PolicyIcons/Industrial Espionage
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1044, 1668
+=======
+  xy: 628, 1252
+>>>>>>> Stashed changes
 =======
   xy: 628, 1252
 >>>>>>> Stashed changes
@@ -940,7 +1108,11 @@ PolicyIcons/Industrial Espionage
 PolicyIcons/Iron Fist
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 212, 628
+=======
+  xy: 1044, 1668
+>>>>>>> Stashed changes
 =======
   xy: 1044, 1668
 >>>>>>> Stashed changes
@@ -951,7 +1123,11 @@ PolicyIcons/Iron Fist
 PolicyIcons/Lightning Warfare
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1252, 1460
+=======
+  xy: 836, 1044
+>>>>>>> Stashed changes
 =======
   xy: 836, 1044
 >>>>>>> Stashed changes
@@ -962,7 +1138,11 @@ PolicyIcons/Lightning Warfare
 PolicyIcons/People's Army
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 420, 4
+=======
+  xy: 1252, 1044
+>>>>>>> Stashed changes
 =======
   xy: 1252, 1044
 >>>>>>> Stashed changes
@@ -973,7 +1153,11 @@ PolicyIcons/People's Army
 PolicyIcons/Resettlements
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 836, 212
+=======
+  xy: 1460, 1044
+>>>>>>> Stashed changes
 =======
   xy: 1460, 1044
 >>>>>>> Stashed changes
@@ -984,7 +1168,11 @@ PolicyIcons/Resettlements
 PolicyIcons/Space Procurements
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1044, 4
+=======
+  xy: 1252, 420
+>>>>>>> Stashed changes
 =======
   xy: 1252, 420
 >>>>>>> Stashed changes
@@ -995,7 +1183,11 @@ PolicyIcons/Space Procurements
 PolicyIcons/Spaceflight Pioneers
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1252, 212
+=======
+  xy: 1460, 628
+>>>>>>> Stashed changes
 =======
   xy: 1460, 628
 >>>>>>> Stashed changes
@@ -1013,7 +1205,11 @@ ResourceIcons/Great Work of Music
 ResourceIcons/Level 1 Ideology
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 836, 1044
+=======
+  xy: 420, 628
+>>>>>>> Stashed changes
 =======
   xy: 420, 628
 >>>>>>> Stashed changes
@@ -1024,7 +1220,11 @@ ResourceIcons/Level 1 Ideology
 ResourceIcons/Level 2 Ideology
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1044, 1252
+=======
+  xy: 628, 836
+>>>>>>> Stashed changes
 =======
   xy: 628, 836
 >>>>>>> Stashed changes
@@ -1035,7 +1235,11 @@ ResourceIcons/Level 2 Ideology
 ResourceIcons/Policies
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1044, 628
+=======
+  xy: 420, 4
+>>>>>>> Stashed changes
 =======
   xy: 420, 4
 >>>>>>> Stashed changes
@@ -1046,7 +1250,11 @@ ResourceIcons/Policies
 ResourceIcons/Shining Leather
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1252, 420
+=======
+  xy: 1668, 1044
+>>>>>>> Stashed changes
 =======
   xy: 1668, 1044
 >>>>>>> Stashed changes
@@ -1057,7 +1265,11 @@ ResourceIcons/Shining Leather
 TechIcons/Improved Mining
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 836, 1460
+=======
+  xy: 420, 1044
+>>>>>>> Stashed changes
 =======
   xy: 420, 1044
 >>>>>>> Stashed changes
@@ -1068,7 +1280,11 @@ TechIcons/Improved Mining
 TechIcons/Lazers
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 420, 628
+=======
+  xy: 4, 212
+>>>>>>> Stashed changes
 =======
   xy: 4, 212
 >>>>>>> Stashed changes
@@ -1079,7 +1295,11 @@ TechIcons/Lazers
 TechIcons/PC Fabrics
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1460, 1252
+=======
+  xy: 836, 628
+>>>>>>> Stashed changes
 =======
   xy: 836, 628
 >>>>>>> Stashed changes
@@ -1090,7 +1310,11 @@ TechIcons/PC Fabrics
 TechIcons/Satellite communications
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 836, 4
+=======
+  xy: 1252, 628
+>>>>>>> Stashed changes
 =======
   xy: 1252, 628
 >>>>>>> Stashed changes
@@ -1101,7 +1325,11 @@ TechIcons/Satellite communications
 TechIcons/Tech Fabrics
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1668, 4
+=======
+  xy: 1460, 212
+>>>>>>> Stashed changes
 =======
   xy: 1460, 212
 >>>>>>> Stashed changes
@@ -1131,6 +1359,7 @@ UnitIcons/Ganymede
   offset: 0, 0
   index: -1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 UnitIcons/Ganymede battery
   rotate: false
   xy: 420, 1668
@@ -1153,6 +1382,11 @@ UnitIcons/Halaven
   rotate: false
   xy: 420, 1460
 >>>>>>> Stashed changes
+=======
+UnitIcons/Halaven
+  rotate: false
+  xy: 420, 1460
+>>>>>>> Stashed changes
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
@@ -1160,7 +1394,11 @@ UnitIcons/Halaven
 UnitIcons/Helicopter Drone
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 420, 1252
+=======
+  xy: 4, 836
+>>>>>>> Stashed changes
 =======
   xy: 4, 836
 >>>>>>> Stashed changes
@@ -1171,7 +1409,11 @@ UnitIcons/Helicopter Drone
 UnitIcons/Ikoit
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 420, 1044
+=======
+  xy: 4, 628
+>>>>>>> Stashed changes
 =======
   xy: 4, 628
 >>>>>>> Stashed changes
@@ -1182,7 +1424,11 @@ UnitIcons/Ikoit
 UnitIcons/Legendary Warrior
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 628, 836
+=======
+  xy: 212, 420
+>>>>>>> Stashed changes
 =======
   xy: 212, 420
 >>>>>>> Stashed changes
@@ -1193,7 +1439,11 @@ UnitIcons/Legendary Warrior
 UnitIcons/Loja
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 4, 4
+=======
+  xy: 1252, 1460
+>>>>>>> Stashed changes
 =======
   xy: 1252, 1460
 >>>>>>> Stashed changes
@@ -1204,7 +1454,11 @@ UnitIcons/Loja
 UnitIcons/Lunokhod
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 212, 212
+=======
+  xy: 1460, 1668
+>>>>>>> Stashed changes
 =======
   xy: 1460, 1668
 >>>>>>> Stashed changes
@@ -1214,6 +1468,7 @@ UnitIcons/Lunokhod
   index: -1
 UnitIcons/M-84
   rotate: false
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
   xy: 420, 420
   size: 200, 200
@@ -1226,6 +1481,9 @@ UnitIcons/Mobile head
 =======
   xy: 4, 4
 >>>>>>> Stashed changes
+=======
+  xy: 4, 4
+>>>>>>> Stashed changes
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
@@ -1233,7 +1491,11 @@ UnitIcons/Mobile head
 UnitIcons/Ovari
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1044, 836
+=======
+  xy: 420, 212
+>>>>>>> Stashed changes
 =======
   xy: 420, 212
 >>>>>>> Stashed changes
@@ -1244,7 +1506,11 @@ UnitIcons/Ovari
 UnitIcons/Raygun Exp.
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1668, 1252
+=======
+  xy: 1044, 628
+>>>>>>> Stashed changes
 =======
   xy: 1044, 628
 >>>>>>> Stashed changes
@@ -1255,7 +1521,11 @@ UnitIcons/Raygun Exp.
 UnitIcons/Sniper
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1668, 836
+=======
+  xy: 1044, 212
+>>>>>>> Stashed changes
 =======
   xy: 1044, 212
 >>>>>>> Stashed changes
@@ -1265,6 +1535,7 @@ UnitIcons/Sniper
   index: -1
 UnitIcons/Support Vehicle
   rotate: false
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
   xy: 1668, 628
   size: 200, 200
@@ -1277,6 +1548,9 @@ UnitIcons/Sutherland
 =======
   xy: 1044, 4
 >>>>>>> Stashed changes
+=======
+  xy: 1044, 4
+>>>>>>> Stashed changes
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
@@ -1284,7 +1558,11 @@ UnitIcons/Sutherland
 UnitIcons/Swarm
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1460, 212
+=======
+  xy: 1252, 212
+>>>>>>> Stashed changes
 =======
   xy: 1252, 212
 >>>>>>> Stashed changes
@@ -1295,7 +1573,11 @@ UnitIcons/Swarm
 UnitIcons/Tank destroyer
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1460, 4
+=======
+  xy: 1668, 628
+>>>>>>> Stashed changes
 =======
   xy: 1668, 628
 >>>>>>> Stashed changes
@@ -1306,7 +1588,11 @@ UnitIcons/Tank destroyer
 UnitPromotionIcons/Hetairoi
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 628, 1460
+=======
+  xy: 212, 1044
+>>>>>>> Stashed changes
 =======
   xy: 212, 1044
 >>>>>>> Stashed changes
@@ -1323,7 +1609,11 @@ repeat: none
 BuildingIcons/Weaponry Fabric
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 4, 804
+=======
+  xy: 212, 1220
+>>>>>>> Stashed changes
 =======
   xy: 212, 1220
 >>>>>>> Stashed changes
@@ -1334,7 +1624,11 @@ BuildingIcons/Weaponry Fabric
 ImprovementIcons/Archaeological Dig
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 4, 488
+=======
+  xy: 628, 1320
+>>>>>>> Stashed changes
 =======
   xy: 628, 1320
 >>>>>>> Stashed changes
@@ -1345,7 +1639,11 @@ ImprovementIcons/Archaeological Dig
 ImprovementIcons/Brazilwood Camp
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1150, 1530
+=======
+  xy: 436, 512
+>>>>>>> Stashed changes
 =======
   xy: 436, 512
 >>>>>>> Stashed changes
@@ -1356,7 +1654,11 @@ ImprovementIcons/Brazilwood Camp
 ImprovementIcons/Chateau
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 628, 1217
+=======
+  xy: 1585, 1944
+>>>>>>> Stashed changes
 =======
   xy: 1585, 1944
 >>>>>>> Stashed changes
@@ -1367,7 +1669,11 @@ ImprovementIcons/Chateau
 ImprovementIcons/Feitoria
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 320, 696
+=======
+  xy: 1800, 1836
+>>>>>>> Stashed changes
 =======
   xy: 1800, 1836
 >>>>>>> Stashed changes
@@ -1378,7 +1684,11 @@ ImprovementIcons/Feitoria
 ImprovementIcons/Kampong Ayer
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 536, 738
+=======
+  xy: 320, 904
+>>>>>>> Stashed changes
 =======
   xy: 320, 904
 >>>>>>> Stashed changes
@@ -1389,7 +1699,11 @@ ImprovementIcons/Kampong Ayer
 ImprovementIcons/Kasbah
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 636, 1001
+=======
+  xy: 528, 1112
+>>>>>>> Stashed changes
 =======
   xy: 528, 1112
 >>>>>>> Stashed changes
@@ -1400,7 +1714,11 @@ ImprovementIcons/Kasbah
 ImprovementIcons/Land Trade Route (Food)
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 744, 1001
+=======
+  xy: 994, 1733
+>>>>>>> Stashed changes
 =======
   xy: 994, 1733
 >>>>>>> Stashed changes
@@ -1411,7 +1729,11 @@ ImprovementIcons/Land Trade Route (Food)
 ImprovementIcons/Land Trade Route (Gold)
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 744, 1001
+=======
+  xy: 994, 1733
+>>>>>>> Stashed changes
 =======
   xy: 994, 1733
 >>>>>>> Stashed changes
@@ -1422,7 +1744,11 @@ ImprovementIcons/Land Trade Route (Gold)
 ImprovementIcons/Land Trade Route (Production)
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 744, 1001
+=======
+  xy: 994, 1733
+>>>>>>> Stashed changes
 =======
   xy: 994, 1733
 >>>>>>> Stashed changes
@@ -1433,7 +1759,11 @@ ImprovementIcons/Land Trade Route (Production)
 ImprovementIcons/Motte and Bailey
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 752, 677
+=======
+  xy: 994, 1625
+>>>>>>> Stashed changes
 =======
   xy: 994, 1625
 >>>>>>> Stashed changes
@@ -1444,7 +1774,11 @@ ImprovementIcons/Motte and Bailey
 ImprovementIcons/Sea Trade Route (Food)
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 968, 776
+=======
+  xy: 220, 796
+>>>>>>> Stashed changes
 =======
   xy: 220, 796
 >>>>>>> Stashed changes
@@ -1455,7 +1789,11 @@ ImprovementIcons/Sea Trade Route (Food)
 ImprovementIcons/Sea Trade Route (Gold)
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 968, 776
+=======
+  xy: 220, 796
+>>>>>>> Stashed changes
 =======
   xy: 220, 796
 >>>>>>> Stashed changes
@@ -1466,7 +1804,11 @@ ImprovementIcons/Sea Trade Route (Gold)
 ImprovementIcons/Sea Trade Route (Production)
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 968, 776
+=======
+  xy: 220, 796
+>>>>>>> Stashed changes
 =======
   xy: 220, 796
 >>>>>>> Stashed changes
@@ -1484,7 +1826,11 @@ ImprovementIcons/Tibetan Monastery
 ImprovementIcons/Tipi
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1692, 1837
+=======
+  xy: 328, 40
+>>>>>>> Stashed changes
 =======
   xy: 328, 40
 >>>>>>> Stashed changes
@@ -1495,7 +1841,11 @@ ImprovementIcons/Tipi
 ImprovementIcons/Turret
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 420, 1636
+=======
+  xy: 212, 1636
+>>>>>>> Stashed changes
 =======
   xy: 212, 1636
 >>>>>>> Stashed changes
@@ -1506,7 +1856,11 @@ ImprovementIcons/Turret
 NationIcons/Aksum
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 737, 1330
+=======
+  xy: 628, 1222
+>>>>>>> Stashed changes
 =======
   xy: 628, 1222
 >>>>>>> Stashed changes
@@ -1517,7 +1871,11 @@ NationIcons/Aksum
 NationIcons/Assyria
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 212, 696
+=======
+  xy: 4, 588
+>>>>>>> Stashed changes
 =======
   xy: 4, 588
 >>>>>>> Stashed changes
@@ -1528,7 +1886,11 @@ NationIcons/Assyria
 NationIcons/Australia
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 4, 380
+=======
+  xy: 4, 372
+>>>>>>> Stashed changes
 =======
   xy: 4, 372
 >>>>>>> Stashed changes
@@ -1539,7 +1901,11 @@ NationIcons/Australia
 NationIcons/Ayyubids
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1044, 1638
+=======
+  xy: 520, 1014
+>>>>>>> Stashed changes
 =======
   xy: 520, 1014
 >>>>>>> Stashed changes
@@ -1550,7 +1916,11 @@ NationIcons/Ayyubids
 NationIcons/Aztecs
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1468, 1944
+=======
+  xy: 4, 264
+>>>>>>> Stashed changes
 =======
   xy: 4, 264
 >>>>>>> Stashed changes
@@ -1561,7 +1931,11 @@ NationIcons/Aztecs
 NationIcons/Belgium
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1692, 1739
+=======
+  xy: 726, 1222
+>>>>>>> Stashed changes
 =======
   xy: 726, 1222
 >>>>>>> Stashed changes
@@ -1572,7 +1946,11 @@ NationIcons/Belgium
 NationIcons/Boers
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 420, 1062
+=======
+  xy: 836, 1686
+>>>>>>> Stashed changes
 =======
   xy: 836, 1686
 >>>>>>> Stashed changes
@@ -1583,7 +1961,11 @@ NationIcons/Boers
 NationIcons/Brazil
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1684, 1945
+=======
+  xy: 1153, 1945
+>>>>>>> Stashed changes
 =======
   xy: 1153, 1945
 >>>>>>> Stashed changes
@@ -1594,7 +1976,11 @@ NationIcons/Brazil
 NationIcons/Brunei
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1792, 1846
+=======
+  xy: 636, 1124
+>>>>>>> Stashed changes
 =======
   xy: 636, 1124
 >>>>>>> Stashed changes
@@ -1605,7 +1991,11 @@ NationIcons/Brunei
 NationIcons/Byzantium
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 4, 56
+=======
+  xy: 1261, 1944
+>>>>>>> Stashed changes
 =======
   xy: 1261, 1944
 >>>>>>> Stashed changes
@@ -1616,7 +2006,11 @@ NationIcons/Byzantium
 NationIcons/Carthage
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1792, 1944
+=======
+  xy: 1369, 1944
+>>>>>>> Stashed changes
 =======
   xy: 1369, 1944
 >>>>>>> Stashed changes
@@ -1627,7 +2021,11 @@ NationIcons/Carthage
 NationIcons/Celts
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1900, 1944
+=======
+  xy: 1477, 1944
+>>>>>>> Stashed changes
 =======
   xy: 1477, 1944
 >>>>>>> Stashed changes
@@ -1638,7 +2036,11 @@ NationIcons/Celts
 NationIcons/Ethiopia
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 112, 56
+=======
+  xy: 1692, 1836
+>>>>>>> Stashed changes
 =======
   xy: 1692, 1836
 >>>>>>> Stashed changes
@@ -1649,7 +2051,11 @@ NationIcons/Ethiopia
 NationIcons/Hittites
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 686, 1109
+=======
+  xy: 112, 480
+>>>>>>> Stashed changes
 =======
   xy: 112, 480
 >>>>>>> Stashed changes
@@ -1660,7 +2066,11 @@ NationIcons/Hittites
 NationIcons/Indonesia
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 528, 954
+=======
+  xy: 112, 264
+>>>>>>> Stashed changes
 =======
   xy: 112, 264
 >>>>>>> Stashed changes
@@ -1671,7 +2081,11 @@ NationIcons/Indonesia
 NationIcons/Kongo
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 794, 1109
+=======
+  xy: 736, 1320
+>>>>>>> Stashed changes
 =======
   xy: 736, 1320
 >>>>>>> Stashed changes
@@ -1682,7 +2096,11 @@ NationIcons/Kongo
 NationIcons/Macedonia
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 636, 893
+=======
+  xy: 1210, 1728
+>>>>>>> Stashed changes
 =======
   xy: 1210, 1728
 >>>>>>> Stashed changes
@@ -1693,7 +2111,11 @@ NationIcons/Macedonia
 NationIcons/Madagascar
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 312, 598
+=======
+  xy: 428, 914
+>>>>>>> Stashed changes
 =======
   xy: 428, 914
 >>>>>>> Stashed changes
@@ -1704,7 +2126,11 @@ NationIcons/Madagascar
 NationIcons/Mexico
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1142, 1638
+=======
+  xy: 734, 1124
+>>>>>>> Stashed changes
 =======
   xy: 734, 1124
 >>>>>>> Stashed changes
@@ -1715,7 +2141,11 @@ NationIcons/Mexico
 NationIcons/Morocco
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 644, 677
+=======
+  xy: 1858, 1728
+>>>>>>> Stashed changes
 =======
   xy: 1858, 1728
 >>>>>>> Stashed changes
@@ -1726,7 +2156,11 @@ NationIcons/Morocco
 NationIcons/Nubia
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1890, 1846
+=======
+  xy: 526, 916
+>>>>>>> Stashed changes
 =======
   xy: 526, 916
 >>>>>>> Stashed changes
@@ -1737,7 +2171,11 @@ NationIcons/Nubia
 NationIcons/Oman
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 212, 804
+=======
+  xy: 628, 1428
+>>>>>>> Stashed changes
 =======
   xy: 628, 1428
 >>>>>>> Stashed changes
@@ -1748,7 +2186,11 @@ NationIcons/Oman
 NationIcons/Poland
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 960, 1096
+=======
+  xy: 844, 1362
+>>>>>>> Stashed changes
 =======
   xy: 844, 1362
 >>>>>>> Stashed changes
@@ -1759,7 +2201,11 @@ NationIcons/Poland
 NationIcons/Portugal
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 960, 988
+=======
+  xy: 844, 1254
+>>>>>>> Stashed changes
 =======
   xy: 844, 1254
 >>>>>>> Stashed changes
@@ -1770,7 +2216,11 @@ NationIcons/Portugal
 NationIcons/Shoshone
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 968, 668
+=======
+  xy: 220, 688
+>>>>>>> Stashed changes
 =======
   xy: 220, 688
 >>>>>>> Stashed changes
@@ -1781,7 +2231,11 @@ NationIcons/Shoshone
 NationIcons/Sioux
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1052, 1540
+=======
+  xy: 436, 816
+>>>>>>> Stashed changes
 =======
   xy: 436, 816
 >>>>>>> Stashed changes
@@ -1792,7 +2246,11 @@ NationIcons/Sioux
 NationIcons/Switzerland
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1052, 1442
+=======
+  xy: 436, 718
+>>>>>>> Stashed changes
 =======
   xy: 436, 718
 >>>>>>> Stashed changes
@@ -1803,7 +2261,11 @@ NationIcons/Switzerland
 NationIcons/The Maya
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1076, 556
+=======
+  xy: 220, 148
+>>>>>>> Stashed changes
 =======
   xy: 220, 148
 >>>>>>> Stashed changes
@@ -1821,7 +2283,11 @@ NationIcons/The Moors
 NationIcons/Tibet
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 220, 498
+=======
+  xy: 436, 620
+>>>>>>> Stashed changes
 =======
   xy: 436, 620
 >>>>>>> Stashed changes
@@ -1846,7 +2312,11 @@ NationIcons/Tonga
 NationIcons/Turkey
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 212, 1428
+=======
+  xy: 4, 1428
+>>>>>>> Stashed changes
 =======
   xy: 4, 1428
 >>>>>>> Stashed changes
@@ -1857,7 +2327,11 @@ NationIcons/Turkey
 NationIcons/Ukraine
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 628, 1844
+=======
+  xy: 420, 1844
+>>>>>>> Stashed changes
 =======
   xy: 420, 1844
 >>>>>>> Stashed changes
@@ -1868,7 +2342,11 @@ NationIcons/Ukraine
 NationIcons/United States of America
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 4, 1012
+=======
+  xy: 4, 1220
+>>>>>>> Stashed changes
 =======
   xy: 4, 1220
 >>>>>>> Stashed changes
@@ -1879,7 +2357,11 @@ NationIcons/United States of America
 NationIcons/Venice
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1476, 1836
+=======
+  xy: 328, 580
+>>>>>>> Stashed changes
 =======
   xy: 328, 580
 >>>>>>> Stashed changes
@@ -1890,7 +2372,11 @@ NationIcons/Venice
 NationIcons/Vietnam
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 420, 1428
+=======
+  xy: 420, 1636
+>>>>>>> Stashed changes
 =======
   xy: 420, 1636
 >>>>>>> Stashed changes
@@ -1901,7 +2387,11 @@ NationIcons/Vietnam
 NationIcons/Wales
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 836, 1844
+=======
+  xy: 4, 1012
+>>>>>>> Stashed changes
 =======
   xy: 4, 1012
 >>>>>>> Stashed changes
@@ -1912,7 +2402,11 @@ NationIcons/Wales
 NationIcons/Worker Machine
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 420, 1220
+=======
+  xy: 628, 1636
+>>>>>>> Stashed changes
 =======
   xy: 628, 1636
 >>>>>>> Stashed changes
@@ -1923,7 +2417,11 @@ NationIcons/Worker Machine
 UnitIcons/Worker Machine
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 420, 1220
+=======
+  xy: 628, 1636
+>>>>>>> Stashed changes
 =======
   xy: 628, 1636
 >>>>>>> Stashed changes
@@ -1934,7 +2432,11 @@ UnitIcons/Worker Machine
 NationIcons/Yugoslavia
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 212, 596
+=======
+  xy: 420, 1012
+>>>>>>> Stashed changes
 =======
   xy: 420, 1012
 >>>>>>> Stashed changes
@@ -1945,7 +2447,11 @@ NationIcons/Yugoslavia
 NationIcons/Zimbabwe
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1044, 1844
+=======
+  xy: 212, 1012
+>>>>>>> Stashed changes
 =======
   xy: 212, 1012
 >>>>>>> Stashed changes
@@ -1956,7 +2462,11 @@ NationIcons/Zimbabwe
 NationIcons/Zulu
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1584, 1728
+=======
+  xy: 220, 40
+>>>>>>> Stashed changes
 =======
   xy: 220, 40
 >>>>>>> Stashed changes
@@ -1967,7 +2477,11 @@ NationIcons/Zulu
 PolicyIcons/Academy of Sciences
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 844, 1254
+=======
+  xy: 508, 381
+>>>>>>> Stashed changes
 =======
   xy: 508, 381
 >>>>>>> Stashed changes
@@ -1978,7 +2492,11 @@ PolicyIcons/Academy of Sciences
 PolicyIcons/Artistic Genius
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 722, 511
+=======
+  xy: 566, 212
+>>>>>>> Stashed changes
 =======
   xy: 566, 212
 >>>>>>> Stashed changes
@@ -1989,7 +2507,11 @@ PolicyIcons/Artistic Genius
 PolicyIcons/Avant Garde
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 664, 453
+=======
+  xy: 566, 154
+>>>>>>> Stashed changes
 =======
   xy: 566, 154
 >>>>>>> Stashed changes
@@ -2000,7 +2522,11 @@ PolicyIcons/Avant Garde
 PolicyIcons/Capitalism
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 722, 453
+=======
+  xy: 566, 96
+>>>>>>> Stashed changes
 =======
   xy: 566, 96
 >>>>>>> Stashed changes
@@ -2011,7 +2537,11 @@ PolicyIcons/Capitalism
 PolicyIcons/Clausewitz's Legacy
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 838, 511
+=======
+  xy: 840, 992
+>>>>>>> Stashed changes
 =======
   xy: 840, 992
 >>>>>>> Stashed changes
@@ -2022,7 +2552,11 @@ PolicyIcons/Clausewitz's Legacy
 PolicyIcons/Colonialism
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 780, 453
+=======
+  xy: 840, 934
+>>>>>>> Stashed changes
 =======
   xy: 840, 934
 >>>>>>> Stashed changes
@@ -2033,7 +2567,11 @@ PolicyIcons/Colonialism
 PolicyIcons/Communism
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 896, 511
+=======
+  xy: 898, 1004
+>>>>>>> Stashed changes
 =======
   xy: 898, 1004
 >>>>>>> Stashed changes
@@ -2044,7 +2582,11 @@ PolicyIcons/Communism
 PolicyIcons/Consulates
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 838, 453
+=======
+  xy: 898, 946
+>>>>>>> Stashed changes
 =======
   xy: 898, 946
 >>>>>>> Stashed changes
@@ -2055,7 +2597,11 @@ PolicyIcons/Consulates
 PolicyIcons/Cultural Centers
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 896, 453
+=======
+  xy: 956, 1004
+>>>>>>> Stashed changes
 =======
   xy: 956, 1004
 >>>>>>> Stashed changes
@@ -2066,7 +2612,11 @@ PolicyIcons/Cultural Centers
 PolicyIcons/Cultural Diplomacy
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 954, 502
+=======
+  xy: 956, 946
+>>>>>>> Stashed changes
 =======
   xy: 956, 946
 >>>>>>> Stashed changes
@@ -2077,7 +2627,11 @@ PolicyIcons/Cultural Diplomacy
 PolicyIcons/Cultural Exchange
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1012, 502
+=======
+  xy: 1014, 982
+>>>>>>> Stashed changes
 =======
   xy: 1014, 982
 >>>>>>> Stashed changes
@@ -2088,7 +2642,11 @@ PolicyIcons/Cultural Exchange
 PolicyIcons/Elite Forces
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 954, 444
+=======
+  xy: 1014, 924
+>>>>>>> Stashed changes
 =======
   xy: 1014, 924
 >>>>>>> Stashed changes
@@ -2099,7 +2657,11 @@ PolicyIcons/Elite Forces
 PolicyIcons/Entrepreneurship
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1012, 444
+=======
+  xy: 1072, 982
+>>>>>>> Stashed changes
 =======
   xy: 1072, 982
 >>>>>>> Stashed changes
@@ -2110,7 +2672,11 @@ PolicyIcons/Entrepreneurship
 PolicyIcons/Fine Arts
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1070, 498
+=======
+  xy: 1072, 924
+>>>>>>> Stashed changes
 =======
   xy: 1072, 924
 >>>>>>> Stashed changes
@@ -2121,7 +2687,11 @@ PolicyIcons/Fine Arts
 PolicyIcons/Five-Year Plan
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1128, 498
+=======
+  xy: 624, 330
+>>>>>>> Stashed changes
 =======
   xy: 624, 330
 >>>>>>> Stashed changes
@@ -2132,7 +2702,11 @@ PolicyIcons/Five-Year Plan
 PolicyIcons/Flourishing of the Arts
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 130, 4
+=======
+  xy: 1048, 1040
+>>>>>>> Stashed changes
 =======
   xy: 1048, 1040
 >>>>>>> Stashed changes
@@ -2143,7 +2717,11 @@ PolicyIcons/Flourishing of the Arts
 PolicyIcons/Free Healthcare
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1128, 440
+=======
+  xy: 624, 272
+>>>>>>> Stashed changes
 =======
   xy: 624, 272
 >>>>>>> Stashed changes
@@ -2154,7 +2732,11 @@ PolicyIcons/Free Healthcare
 PolicyIcons/Universal Healthcare
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1128, 440
+=======
+  xy: 624, 272
+>>>>>>> Stashed changes
 =======
   xy: 624, 272
 >>>>>>> Stashed changes
@@ -2165,7 +2747,11 @@ PolicyIcons/Universal Healthcare
 PolicyIcons/Hero of the People
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 664, 395
+=======
+  xy: 682, 272
+>>>>>>> Stashed changes
 =======
   xy: 682, 272
 >>>>>>> Stashed changes
@@ -2176,7 +2762,11 @@ PolicyIcons/Hero of the People
 PolicyIcons/Iron Curtain
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1442, 1478
+=======
+  xy: 894, 540
+>>>>>>> Stashed changes
 =======
   xy: 894, 540
 >>>>>>> Stashed changes
@@ -2187,7 +2777,11 @@ PolicyIcons/Iron Curtain
 PolicyIcons/Maritime Infrastructure
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 780, 395
+=======
+  xy: 682, 214
+>>>>>>> Stashed changes
 =======
   xy: 682, 214
 >>>>>>> Stashed changes
@@ -2198,7 +2792,11 @@ PolicyIcons/Maritime Infrastructure
 PolicyIcons/Media Culture
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 838, 395
+=======
+  xy: 624, 98
+>>>>>>> Stashed changes
 =======
   xy: 624, 98
 >>>>>>> Stashed changes
@@ -2209,7 +2807,11 @@ PolicyIcons/Media Culture
 PolicyIcons/Mercenary Army
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 896, 395
+=======
+  xy: 682, 156
+>>>>>>> Stashed changes
 =======
   xy: 682, 156
 >>>>>>> Stashed changes
@@ -2220,7 +2822,11 @@ PolicyIcons/Mercenary Army
 PolicyIcons/Merchant Confederacy
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 954, 386
+=======
+  xy: 682, 98
+>>>>>>> Stashed changes
 =======
   xy: 682, 98
 >>>>>>> Stashed changes
@@ -2231,7 +2837,11 @@ PolicyIcons/Merchant Confederacy
 PolicyIcons/Merchant Navy
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1012, 386
+=======
+  xy: 740, 328
+>>>>>>> Stashed changes
 =======
   xy: 740, 328
 >>>>>>> Stashed changes
@@ -2242,7 +2852,11 @@ PolicyIcons/Merchant Navy
 PolicyIcons/Mobilization
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1070, 382
+=======
+  xy: 740, 270
+>>>>>>> Stashed changes
 =======
   xy: 740, 270
 >>>>>>> Stashed changes
@@ -2253,7 +2867,11 @@ PolicyIcons/Mobilization
 PolicyIcons/Nationalism
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 592, 334
+=======
+  xy: 740, 154
+>>>>>>> Stashed changes
 =======
   xy: 740, 154
 >>>>>>> Stashed changes
@@ -2264,7 +2882,11 @@ PolicyIcons/Nationalism
 PolicyIcons/Naval Tradition
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 580, 276
+=======
+  xy: 740, 96
+>>>>>>> Stashed changes
 =======
   xy: 740, 96
 >>>>>>> Stashed changes
@@ -2275,7 +2897,11 @@ PolicyIcons/Naval Tradition
 PolicyIcons/Navigation School
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 580, 218
+=======
+  xy: 798, 284
+>>>>>>> Stashed changes
 =======
   xy: 798, 284
 >>>>>>> Stashed changes
@@ -2286,7 +2912,11 @@ PolicyIcons/Navigation School
 PolicyIcons/New Deal
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 580, 160
+=======
+  xy: 798, 226
+>>>>>>> Stashed changes
 =======
   xy: 798, 226
 >>>>>>> Stashed changes
@@ -2297,7 +2927,11 @@ PolicyIcons/New Deal
 PolicyIcons/Party Leadership
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 580, 102
+=======
+  xy: 798, 168
+>>>>>>> Stashed changes
 =======
   xy: 798, 168
 >>>>>>> Stashed changes
@@ -2308,7 +2942,11 @@ PolicyIcons/Party Leadership
 PolicyIcons/Patriotic War
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 580, 44
+=======
+  xy: 798, 110
+>>>>>>> Stashed changes
 =======
   xy: 798, 110
 >>>>>>> Stashed changes
@@ -2319,7 +2957,11 @@ PolicyIcons/Patriotic War
 PolicyIcons/Socialism
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 580, 44
+=======
+  xy: 798, 110
+>>>>>>> Stashed changes
 =======
   xy: 798, 110
 >>>>>>> Stashed changes
@@ -2330,7 +2972,11 @@ PolicyIcons/Socialism
 PolicyIcons/Philanthropy
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1204, 1335
+=======
+  xy: 856, 284
+>>>>>>> Stashed changes
 =======
   xy: 856, 284
 >>>>>>> Stashed changes
@@ -2341,7 +2987,11 @@ PolicyIcons/Philanthropy
 PolicyIcons/Planned Economy
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 650, 334
+=======
+  xy: 856, 226
+>>>>>>> Stashed changes
 =======
   xy: 856, 226
 >>>>>>> Stashed changes
@@ -2352,7 +3002,11 @@ PolicyIcons/Planned Economy
 PolicyIcons/Religious Tolerance
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 638, 276
+=======
+  xy: 856, 168
+>>>>>>> Stashed changes
 =======
   xy: 856, 168
 >>>>>>> Stashed changes
@@ -2363,7 +3017,11 @@ PolicyIcons/Religious Tolerance
 PolicyIcons/Scholasticism
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 638, 160
+=======
+  xy: 798, 52
+>>>>>>> Stashed changes
 =======
   xy: 798, 52
 >>>>>>> Stashed changes
@@ -2374,7 +3032,11 @@ PolicyIcons/Scholasticism
 PolicyIcons/Silk Road
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 638, 102
+=======
+  xy: 856, 52
+>>>>>>> Stashed changes
 =======
   xy: 856, 52
 >>>>>>> Stashed changes
@@ -2385,7 +3047,11 @@ PolicyIcons/Silk Road
 PolicyIcons/Skyscrapers
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 638, 44
+=======
+  xy: 898, 888
+>>>>>>> Stashed changes
 =======
   xy: 898, 888
 >>>>>>> Stashed changes
@@ -2396,7 +3062,11 @@ PolicyIcons/Skyscrapers
 PolicyIcons/Socialist Realism
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 708, 337
+=======
+  xy: 956, 888
+>>>>>>> Stashed changes
 =======
   xy: 956, 888
 >>>>>>> Stashed changes
@@ -2407,7 +3077,11 @@ PolicyIcons/Socialist Realism
 PolicyIcons/Third Alternative
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 882, 337
+=======
+  xy: 952, 830
+>>>>>>> Stashed changes
 =======
   xy: 952, 830
 >>>>>>> Stashed changes
@@ -2418,7 +3092,11 @@ PolicyIcons/Third Alternative
 PolicyIcons/Treasure Fleets
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 940, 328
+=======
+  xy: 894, 714
+>>>>>>> Stashed changes
 =======
   xy: 894, 714
 >>>>>>> Stashed changes
@@ -2429,7 +3107,11 @@ PolicyIcons/Treasure Fleets
 PolicyIcons/Treaty Organization
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 420, 1844
+=======
+  xy: 4, 1636
+>>>>>>> Stashed changes
 =======
   xy: 4, 1636
 >>>>>>> Stashed changes
@@ -2440,7 +3122,11 @@ PolicyIcons/Treaty Organization
 PolicyIcons/United Front
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 998, 328
+=======
+  xy: 952, 772
+>>>>>>> Stashed changes
 =======
   xy: 952, 772
 >>>>>>> Stashed changes
@@ -2451,7 +3137,11 @@ PolicyIcons/United Front
 PolicyIcons/Urbanization
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1056, 324
+=======
+  xy: 894, 656
+>>>>>>> Stashed changes
 =======
   xy: 894, 656
 >>>>>>> Stashed changes
@@ -2462,7 +3152,11 @@ PolicyIcons/Urbanization
 PolicyIcons/Volunteer Army
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1114, 324
+=======
+  xy: 952, 714
+>>>>>>> Stashed changes
 =======
   xy: 952, 714
 >>>>>>> Stashed changes
@@ -2473,7 +3167,11 @@ PolicyIcons/Volunteer Army
 PolicyIcons/Wagon Trains
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1172, 324
+=======
+  xy: 894, 598
+>>>>>>> Stashed changes
 =======
   xy: 894, 598
 >>>>>>> Stashed changes
@@ -2484,7 +3182,11 @@ PolicyIcons/Wagon Trains
 PolicyIcons/Workers Faculties
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 628, 1428
+=======
+  xy: 836, 1844
+>>>>>>> Stashed changes
 =======
   xy: 836, 1844
 >>>>>>> Stashed changes
@@ -2495,7 +3197,11 @@ PolicyIcons/Workers Faculties
 PolicyIcons/Young Pioneers
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1384, 1478
+=======
+  xy: 952, 656
+>>>>>>> Stashed changes
 =======
   xy: 952, 656
 >>>>>>> Stashed changes
@@ -2506,7 +3212,11 @@ PolicyIcons/Young Pioneers
 ReligionIcons/Astral Pantheon
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1360, 1944
+=======
+  xy: 4, 480
+>>>>>>> Stashed changes
 =======
   xy: 4, 480
 >>>>>>> Stashed changes
@@ -2517,7 +3227,11 @@ ReligionIcons/Astral Pantheon
 ReligionIcons/Children of Nihil
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 836, 1420
+=======
+  xy: 1693, 1944
+>>>>>>> Stashed changes
 =======
   xy: 1693, 1944
 >>>>>>> Stashed changes
@@ -2528,7 +3242,11 @@ ReligionIcons/Children of Nihil
 ReligionIcons/Cosmic Clergy
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 112, 272
+=======
+  xy: 1476, 1836
+>>>>>>> Stashed changes
 =======
   xy: 1476, 1836
 >>>>>>> Stashed changes
@@ -2539,7 +3257,11 @@ ReligionIcons/Cosmic Clergy
 ReligionIcons/Gene Purists
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 578, 1109
+=======
+  xy: 1908, 1836
+>>>>>>> Stashed changes
 =======
   xy: 1908, 1836
 >>>>>>> Stashed changes
@@ -2550,7 +3272,11 @@ ReligionIcons/Gene Purists
 ReligionIcons/Jovian Theosophy
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 428, 738
+=======
+  xy: 112, 48
+>>>>>>> Stashed changes
 =======
   xy: 112, 48
 >>>>>>> Stashed changes
@@ -2561,7 +3287,11 @@ ReligionIcons/Jovian Theosophy
 ReligionIcons/Luddism
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 852, 1001
+=======
+  xy: 1102, 1729
+>>>>>>> Stashed changes
 =======
   xy: 1102, 1729
 >>>>>>> Stashed changes
@@ -2572,7 +3302,11 @@ ReligionIcons/Luddism
 ReligionIcons/Mekhaneites
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 644, 785
+=======
+  xy: 1534, 1728
+>>>>>>> Stashed changes
 =======
   xy: 1534, 1728
 >>>>>>> Stashed changes
@@ -2583,7 +3317,11 @@ ReligionIcons/Mekhaneites
 ReligionIcons/Mormonism
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 860, 785
+=======
+  xy: 1750, 1728
+>>>>>>> Stashed changes
 =======
   xy: 1750, 1728
 >>>>>>> Stashed changes
@@ -2594,7 +3332,11 @@ ReligionIcons/Mormonism
 ReligionIcons/Neo-Monolith
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 860, 677
+=======
+  xy: 1102, 1621
+>>>>>>> Stashed changes
 =======
   xy: 1102, 1621
 >>>>>>> Stashed changes
@@ -2605,7 +3347,11 @@ ReligionIcons/Neo-Monolith
 ReligionIcons/Nomadist
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 428, 630
+=======
+  xy: 1210, 1620
+>>>>>>> Stashed changes
 =======
   xy: 1210, 1620
 >>>>>>> Stashed changes
@@ -2616,7 +3362,11 @@ ReligionIcons/Nomadist
 ReligionIcons/Posadist
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1068, 1096
+=======
+  xy: 933, 1470
+>>>>>>> Stashed changes
 =======
   xy: 933, 1470
 >>>>>>> Stashed changes
@@ -2627,7 +3377,11 @@ ReligionIcons/Posadist
 ReligionIcons/Solar Mass
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1076, 772
+=======
+  xy: 220, 472
+>>>>>>> Stashed changes
 =======
   xy: 220, 472
 >>>>>>> Stashed changes
@@ -2638,7 +3392,11 @@ ReligionIcons/Solar Mass
 ReligionIcons/Virtualism
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1260, 1728
+=======
+  xy: 328, 472
+>>>>>>> Stashed changes
 =======
   xy: 328, 472
 >>>>>>> Stashed changes
@@ -2649,7 +3407,11 @@ ReligionIcons/Virtualism
 ReligionIcons/Voidist
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1368, 1728
+=======
+  xy: 328, 364
+>>>>>>> Stashed changes
 =======
   xy: 328, 364
 >>>>>>> Stashed changes
@@ -2660,7 +3422,11 @@ ReligionIcons/Voidist
 ReligionIcons/Xenocult
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1584, 1836
+=======
+  xy: 328, 148
+>>>>>>> Stashed changes
 =======
   xy: 328, 148
 >>>>>>> Stashed changes
@@ -2671,7 +3437,11 @@ ReligionIcons/Xenocult
 ResourceIcons/Amber
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1044, 1736
+=======
+  xy: 212, 904
+>>>>>>> Stashed changes
 =======
   xy: 212, 904
 >>>>>>> Stashed changes
@@ -2682,7 +3452,11 @@ ResourceIcons/Amber
 ResourceIcons/Antiquity Site
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1252, 1944
+=======
+  xy: 420, 1112
+>>>>>>> Stashed changes
 =======
   xy: 420, 1112
 >>>>>>> Stashed changes
@@ -2693,7 +3467,11 @@ ResourceIcons/Antiquity Site
 ResourceIcons/Bison
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 4, 164
+=======
+  xy: 1044, 1841
+>>>>>>> Stashed changes
 =======
   xy: 1044, 1841
 >>>>>>> Stashed changes
@@ -2704,7 +3482,11 @@ ResourceIcons/Bison
 ResourceIcons/Cloves
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 944, 1528
+=======
+  xy: 1801, 1944
+>>>>>>> Stashed changes
 =======
   xy: 1801, 1944
 >>>>>>> Stashed changes
@@ -2715,7 +3497,11 @@ ResourceIcons/Cloves
 ResourceIcons/Cocoa
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 944, 1420
+=======
+  xy: 1909, 1944
+>>>>>>> Stashed changes
 =======
   xy: 1909, 1944
 >>>>>>> Stashed changes
@@ -2726,7 +3512,11 @@ ResourceIcons/Cocoa
 ResourceIcons/Coffee
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1152, 1736
+=======
+  xy: 1152, 1837
+>>>>>>> Stashed changes
 =======
   xy: 1152, 1837
 >>>>>>> Stashed changes
@@ -2737,7 +3527,11 @@ ResourceIcons/Coffee
 ResourceIcons/Great Work of Art
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 420, 954
+=======
+  xy: 112, 696
+>>>>>>> Stashed changes
 =======
   xy: 112, 696
 >>>>>>> Stashed changes
@@ -2748,7 +3542,11 @@ ResourceIcons/Great Work of Art
 ResourceIcons/Great Work of Writing
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 409, 846
+=======
+  xy: 112, 588
+>>>>>>> Stashed changes
 =======
   xy: 112, 588
 >>>>>>> Stashed changes
@@ -2759,7 +3557,11 @@ ResourceIcons/Great Work of Writing
 ResourceIcons/Jade
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 517, 846
+=======
+  xy: 112, 156
+>>>>>>> Stashed changes
 =======
   xy: 112, 156
 >>>>>>> Stashed changes
@@ -2770,7 +3572,11 @@ ResourceIcons/Jade
 ResourceIcons/Maize
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 744, 893
+=======
+  xy: 1318, 1728
+>>>>>>> Stashed changes
 =======
   xy: 1318, 1728
 >>>>>>> Stashed changes
@@ -2781,7 +3587,11 @@ ResourceIcons/Maize
 ResourceIcons/Nutmeg
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 644, 569
+=======
+  xy: 1426, 1620
+>>>>>>> Stashed changes
 =======
   xy: 1426, 1620
 >>>>>>> Stashed changes
@@ -2792,7 +3602,11 @@ ResourceIcons/Nutmeg
 ResourceIcons/Olives
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 752, 569
+=======
+  xy: 1534, 1620
+>>>>>>> Stashed changes
 =======
   xy: 1534, 1620
 >>>>>>> Stashed changes
@@ -2803,7 +3617,11 @@ ResourceIcons/Olives
 ResourceIcons/Pepper
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 860, 569
+=======
+  xy: 1642, 1620
+>>>>>>> Stashed changes
 =======
   xy: 1642, 1620
 >>>>>>> Stashed changes
@@ -2814,7 +3632,11 @@ ResourceIcons/Pepper
 ResourceIcons/Perfume
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 844, 1312
+=======
+  xy: 1750, 1620
+>>>>>>> Stashed changes
 =======
   xy: 1750, 1620
 >>>>>>> Stashed changes
@@ -2825,7 +3647,11 @@ ResourceIcons/Perfume
 ResourceIcons/Ruby
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 968, 884
+=======
+  xy: 952, 1258
+>>>>>>> Stashed changes
 =======
   xy: 952, 1258
 >>>>>>> Stashed changes
@@ -2836,7 +3662,11 @@ ResourceIcons/Ruby
 ResourceIcons/Tea
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 968, 560
+=======
+  xy: 220, 256
+>>>>>>> Stashed changes
 =======
   xy: 220, 256
 >>>>>>> Stashed changes
@@ -2847,7 +3677,11 @@ ResourceIcons/Tea
 ResourceIcons/Tobacco
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1260, 1836
+=======
+  xy: 328, 796
+>>>>>>> Stashed changes
 =======
   xy: 328, 796
 >>>>>>> Stashed changes
@@ -2858,7 +3692,11 @@ ResourceIcons/Tobacco
 ResourceIcons/Trade Route
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1368, 1836
+=======
+  xy: 328, 688
+>>>>>>> Stashed changes
 =======
   xy: 328, 688
 >>>>>>> Stashed changes
@@ -2869,7 +3707,11 @@ ResourceIcons/Trade Route
 ResourceIcons/Trade Route (Count)
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1368, 1836
+=======
+  xy: 328, 688
+>>>>>>> Stashed changes
 =======
   xy: 328, 688
 >>>>>>> Stashed changes
@@ -2880,7 +3722,11 @@ ResourceIcons/Trade Route (Count)
 ResourceIcons/Uranium
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 212, 1220
+=======
+  xy: 212, 1428
+>>>>>>> Stashed changes
 =======
   xy: 212, 1428
 >>>>>>> Stashed changes
@@ -2891,7 +3737,11 @@ ResourceIcons/Uranium
 TechIcons/AI
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 836, 1528
+=======
+  xy: 4, 696
+>>>>>>> Stashed changes
 =======
   xy: 4, 696
 >>>>>>> Stashed changes
@@ -2902,7 +3752,11 @@ TechIcons/AI
 TechIcons/Ballistics
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 4, 272
+=======
+  xy: 4, 156
+>>>>>>> Stashed changes
 =======
   xy: 4, 156
 >>>>>>> Stashed changes
@@ -2913,7 +3767,11 @@ TechIcons/Ballistics
 TechIcons/Basic War Machines
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1576, 1944
+=======
+  xy: 4, 48
+>>>>>>> Stashed changes
 =======
   xy: 4, 48
 >>>>>>> Stashed changes
@@ -2924,7 +3782,11 @@ TechIcons/Basic War Machines
 TechIcons/Computers
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 112, 380
+=======
+  xy: 1368, 1836
+>>>>>>> Stashed changes
 =======
   xy: 1368, 1836
 >>>>>>> Stashed changes
@@ -2935,7 +3797,11 @@ TechIcons/Computers
 TechIcons/Drama and Poetry
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 112, 164
+=======
+  xy: 1584, 1836
+>>>>>>> Stashed changes
 =======
   xy: 1584, 1836
 >>>>>>> Stashed changes
@@ -2946,7 +3812,11 @@ TechIcons/Drama and Poetry
 TechIcons/Improved Jet Engine
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 736, 1217
+=======
+  xy: 112, 372
+>>>>>>> Stashed changes
 =======
   xy: 112, 372
 >>>>>>> Stashed changes
@@ -2957,7 +3827,11 @@ TechIcons/Improved Jet Engine
 TechIcons/Nuclear Fission
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 536, 630
+=======
+  xy: 1318, 1620
+>>>>>>> Stashed changes
 =======
   xy: 1318, 1620
 >>>>>>> Stashed changes
@@ -2968,7 +3842,11 @@ TechIcons/Nuclear Fission
 TechIcons/Nuclear Fusion
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 628, 1325
+=======
+  xy: 1044, 1949
+>>>>>>> Stashed changes
 =======
   xy: 1044, 1949
 >>>>>>> Stashed changes
@@ -2979,7 +3857,11 @@ TechIcons/Nuclear Fusion
 TechIcons/Pharmaceuticals
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 952, 1312
+=======
+  xy: 1858, 1620
+>>>>>>> Stashed changes
 =======
   xy: 1858, 1620
 >>>>>>> Stashed changes
@@ -2990,7 +3872,11 @@ TechIcons/Pharmaceuticals
 TechIcons/Planes
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 902, 1204
+=======
+  xy: 836, 1578
+>>>>>>> Stashed changes
 =======
   xy: 836, 1578
 >>>>>>> Stashed changes
@@ -3001,7 +3887,11 @@ TechIcons/Planes
 TechIcons/Planet Research
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1010, 1204
+=======
+  xy: 825, 1470
+>>>>>>> Stashed changes
 =======
   xy: 825, 1470
 >>>>>>> Stashed changes
@@ -3012,7 +3902,11 @@ TechIcons/Planet Research
 TechIcons/Radar
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1068, 988
+=======
+  xy: 952, 1362
+>>>>>>> Stashed changes
 =======
   xy: 952, 1362
 >>>>>>> Stashed changes
@@ -3023,7 +3917,11 @@ TechIcons/Radar
 TechIcons/Stealth
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1076, 664
+=======
+  xy: 220, 364
+>>>>>>> Stashed changes
 =======
   xy: 220, 364
 >>>>>>> Stashed changes
@@ -3034,7 +3932,11 @@ TechIcons/Stealth
 TechIcons/Weaponry Fabrics
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 212, 1012
+=======
+  xy: 420, 1428
+>>>>>>> Stashed changes
 =======
   xy: 420, 1428
 >>>>>>> Stashed changes
@@ -3045,7 +3947,11 @@ TechIcons/Weaponry Fabrics
 TileSets/HexaRealm/Tiles/Biarka
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 318, 534
+=======
+  xy: 534, 852
+>>>>>>> Stashed changes
 =======
   xy: 534, 852
 >>>>>>> Stashed changes
@@ -3056,7 +3962,11 @@ TileSets/HexaRealm/Tiles/Biarka
 TileSets/HexaRealm/Tiles/Biarka+Farm
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 220, 41
+=======
+  xy: 534, 788
+>>>>>>> Stashed changes
 =======
   xy: 534, 788
 >>>>>>> Stashed changes
@@ -3067,7 +3977,11 @@ TileSets/HexaRealm/Tiles/Biarka+Farm
 TileSets/HexaRealm/Tiles/Camp
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1240, 1588
+=======
+  xy: 534, 712
+>>>>>>> Stashed changes
 =======
   xy: 534, 712
 >>>>>>> Stashed changes
@@ -3078,7 +3992,11 @@ TileSets/HexaRealm/Tiles/Camp
 TileSets/HexaRealm/Tiles/Cattle
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1312, 1664
+=======
+  xy: 534, 648
+>>>>>>> Stashed changes
 =======
   xy: 534, 648
 >>>>>>> Stashed changes
@@ -3089,7 +4007,11 @@ TileSets/HexaRealm/Tiles/Cattle
 TileSets/HexaRealm/Tiles/Cattle+Pasture
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1312, 1588
+=======
+  xy: 1966, 1760
+>>>>>>> Stashed changes
 =======
   xy: 1966, 1760
 >>>>>>> Stashed changes
@@ -3100,7 +4022,11 @@ TileSets/HexaRealm/Tiles/Cattle+Pasture
 TileSets/HexaRealm/Tiles/Sheep+Pasture
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1312, 1588
+=======
+  xy: 1966, 1760
+>>>>>>> Stashed changes
 =======
   xy: 1966, 1760
 >>>>>>> Stashed changes
@@ -3111,7 +4037,11 @@ TileSets/HexaRealm/Tiles/Sheep+Pasture
 TileSets/HexaRealm/Tiles/Sheep+Pasture-Industrial era
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1312, 1588
+=======
+  xy: 1966, 1760
+>>>>>>> Stashed changes
 =======
   xy: 1966, 1760
 >>>>>>> Stashed changes
@@ -3122,7 +4052,11 @@ TileSets/HexaRealm/Tiles/Sheep+Pasture-Industrial era
 TileSets/HexaRealm/Tiles/CattleG
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1384, 1664
+=======
+  xy: 1966, 1696
+>>>>>>> Stashed changes
 =======
   xy: 1966, 1696
 >>>>>>> Stashed changes
@@ -3133,7 +4067,11 @@ TileSets/HexaRealm/Tiles/CattleG
 TileSets/HexaRealm/Tiles/CattleP
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1384, 1600
+=======
+  xy: 1966, 1632
+>>>>>>> Stashed changes
 =======
   xy: 1966, 1632
 >>>>>>> Stashed changes
@@ -3144,7 +4082,11 @@ TileSets/HexaRealm/Tiles/CattleP
 TileSets/HexaRealm/Tiles/Chateau
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1456, 1600
+=======
+  xy: 428, 55
+>>>>>>> Stashed changes
 =======
   xy: 428, 55
 >>>>>>> Stashed changes
@@ -3155,7 +4097,11 @@ TileSets/HexaRealm/Tiles/Chateau
 TileSets/HexaRealm/Tiles/Cibus
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1528, 1664
+=======
+  xy: 534, 584
+>>>>>>> Stashed changes
 =======
   xy: 534, 584
 >>>>>>> Stashed changes
@@ -3166,7 +4112,11 @@ TileSets/HexaRealm/Tiles/Cibus
 TileSets/HexaRealm/Tiles/Cibus+Farm
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1528, 1600
+=======
+  xy: 526, 520
+>>>>>>> Stashed changes
 =======
   xy: 526, 520
 >>>>>>> Stashed changes
@@ -3177,7 +4127,11 @@ TileSets/HexaRealm/Tiles/Cibus+Farm
 TileSets/HexaRealm/Tiles/City center
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1600, 1652
+=======
+  xy: 832, 1178
+>>>>>>> Stashed changes
 =======
   xy: 832, 1178
 >>>>>>> Stashed changes
@@ -3188,7 +4142,11 @@ TileSets/HexaRealm/Tiles/City center
 TileSets/HexaRealm/Tiles/City center-Atomic era
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1600, 1652
+=======
+  xy: 832, 1178
+>>>>>>> Stashed changes
 =======
   xy: 832, 1178
 >>>>>>> Stashed changes
@@ -3199,7 +4157,11 @@ TileSets/HexaRealm/Tiles/City center-Atomic era
 TileSets/HexaRealm/Tiles/City center-Future era
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1600, 1652
+=======
+  xy: 832, 1178
+>>>>>>> Stashed changes
 =======
   xy: 832, 1178
 >>>>>>> Stashed changes
@@ -3210,7 +4172,11 @@ TileSets/HexaRealm/Tiles/City center-Future era
 TileSets/HexaRealm/Tiles/City center-Information era
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1600, 1652
+=======
+  xy: 832, 1178
+>>>>>>> Stashed changes
 =======
   xy: 832, 1178
 >>>>>>> Stashed changes
@@ -3221,7 +4187,11 @@ TileSets/HexaRealm/Tiles/City center-Information era
 TileSets/HexaRealm/Tiles/City center-Modern era
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1600, 1652
+=======
+  xy: 832, 1178
+>>>>>>> Stashed changes
 =======
   xy: 832, 1178
 >>>>>>> Stashed changes
@@ -3232,7 +4202,11 @@ TileSets/HexaRealm/Tiles/City center-Modern era
 TileSets/HexaRealm/Tiles/Deer+Camp
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1456, 1536
+=======
+  xy: 976, 1194
+>>>>>>> Stashed changes
 =======
   xy: 976, 1194
 >>>>>>> Stashed changes
@@ -3243,7 +4217,11 @@ TileSets/HexaRealm/Tiles/Deer+Camp
 TileSets/HexaRealm/Tiles/Farm
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1600, 1524
+=======
+  xy: 904, 1062
+>>>>>>> Stashed changes
 =======
   xy: 904, 1062
 >>>>>>> Stashed changes
@@ -3254,7 +4232,11 @@ TileSets/HexaRealm/Tiles/Farm
 TileSets/HexaRealm/Tiles/FarmD
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1600, 1524
+=======
+  xy: 904, 1062
+>>>>>>> Stashed changes
 =======
   xy: 904, 1062
 >>>>>>> Stashed changes
@@ -3265,7 +4247,11 @@ TileSets/HexaRealm/Tiles/FarmD
 TileSets/HexaRealm/Tiles/FarmDH
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1600, 1524
+=======
+  xy: 904, 1062
+>>>>>>> Stashed changes
 =======
   xy: 904, 1062
 >>>>>>> Stashed changes
@@ -3276,7 +4262,11 @@ TileSets/HexaRealm/Tiles/FarmDH
 TileSets/HexaRealm/Tiles/FarmG
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1600, 1524
+=======
+  xy: 904, 1062
+>>>>>>> Stashed changes
 =======
   xy: 904, 1062
 >>>>>>> Stashed changes
@@ -3287,7 +4277,11 @@ TileSets/HexaRealm/Tiles/FarmG
 TileSets/HexaRealm/Tiles/FarmS
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1600, 1524
+=======
+  xy: 904, 1062
+>>>>>>> Stashed changes
 =======
   xy: 904, 1062
 >>>>>>> Stashed changes
@@ -3298,7 +4292,11 @@ TileSets/HexaRealm/Tiles/FarmS
 TileSets/HexaRealm/Tiles/Fishing Boats-Industrial era
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1060, 1378
+=======
+  xy: 976, 1066
+>>>>>>> Stashed changes
 =======
   xy: 976, 1066
 >>>>>>> Stashed changes
@@ -3309,7 +4307,11 @@ TileSets/HexaRealm/Tiles/Fishing Boats-Industrial era
 TileSets/HexaRealm/Tiles/Furs+Camp
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1060, 1314
+=======
+  xy: 606, 852
+>>>>>>> Stashed changes
 =======
   xy: 606, 852
 >>>>>>> Stashed changes
@@ -3320,7 +4322,11 @@ TileSets/HexaRealm/Tiles/Furs+Camp
 TileSets/HexaRealm/Tiles/Houses
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 292, 190
+=======
+  xy: 598, 508
+>>>>>>> Stashed changes
 =======
   xy: 598, 508
 >>>>>>> Stashed changes
@@ -3331,7 +4337,11 @@ TileSets/HexaRealm/Tiles/Houses
 TileSets/HexaRealm/Tiles/Houses-Pillaged
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 292, 114
+=======
+  xy: 526, 444
+>>>>>>> Stashed changes
 =======
   xy: 526, 444
 >>>>>>> Stashed changes
@@ -3342,7 +4352,11 @@ TileSets/HexaRealm/Tiles/Houses-Pillaged
 TileSets/HexaRealm/Tiles/Improved Mine
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1150, 1393
+=======
+  xy: 780, 1050
+>>>>>>> Stashed changes
 =======
   xy: 780, 1050
 >>>>>>> Stashed changes
@@ -3353,7 +4367,11 @@ TileSets/HexaRealm/Tiles/Improved Mine
 TileSets/HexaRealm/Tiles/Kasbah
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1132, 1325
+=======
+  xy: 624, 992
+>>>>>>> Stashed changes
 =======
   xy: 624, 992
 >>>>>>> Stashed changes
@@ -3364,7 +4382,11 @@ TileSets/HexaRealm/Tiles/Kasbah
 TileSets/HexaRealm/Tiles/Land Trade Route (Food)
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 4, 5
+=======
+  xy: 428, 4
+>>>>>>> Stashed changes
 =======
   xy: 428, 4
 >>>>>>> Stashed changes
@@ -3375,7 +4397,11 @@ TileSets/HexaRealm/Tiles/Land Trade Route (Food)
 TileSets/HexaRealm/Tiles/Land Trade Route (Gold)
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 4, 5
+=======
+  xy: 428, 4
+>>>>>>> Stashed changes
 =======
   xy: 428, 4
 >>>>>>> Stashed changes
@@ -3386,7 +4412,11 @@ TileSets/HexaRealm/Tiles/Land Trade Route (Gold)
 TileSets/HexaRealm/Tiles/Land Trade Route (Production)
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 4, 5
+=======
+  xy: 428, 4
+>>>>>>> Stashed changes
 =======
   xy: 428, 4
 >>>>>>> Stashed changes
@@ -3397,7 +4427,11 @@ TileSets/HexaRealm/Tiles/Land Trade Route (Production)
 TileSets/HexaRealm/Tiles/Land Trade Route (Food)-Modern era
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1744, 1624
+=======
+  xy: 491, 4
+>>>>>>> Stashed changes
 =======
   xy: 491, 4
 >>>>>>> Stashed changes
@@ -3408,7 +4442,11 @@ TileSets/HexaRealm/Tiles/Land Trade Route (Food)-Modern era
 TileSets/HexaRealm/Tiles/Land Trade Route (Food)-Renaissance era
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 578, 1066
+=======
+  xy: 852, 1071
+>>>>>>> Stashed changes
 =======
   xy: 852, 1071
 >>>>>>> Stashed changes
@@ -3419,7 +4457,11 @@ TileSets/HexaRealm/Tiles/Land Trade Route (Food)-Renaissance era
 TileSets/HexaRealm/Tiles/Land Trade Route (Gold)-Modern era
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 67, 5
+=======
+  xy: 1048, 1143
+>>>>>>> Stashed changes
 =======
   xy: 1048, 1143
 >>>>>>> Stashed changes
@@ -3430,7 +4472,11 @@ TileSets/HexaRealm/Tiles/Land Trade Route (Gold)-Modern era
 TileSets/HexaRealm/Tiles/Land Trade Route (Gold)-Renaissance era
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1498, 1493
+=======
+  xy: 944, 1578
+>>>>>>> Stashed changes
 =======
   xy: 944, 1578
 >>>>>>> Stashed changes
@@ -3441,7 +4487,11 @@ TileSets/HexaRealm/Tiles/Land Trade Route (Gold)-Renaissance era
 TileSets/HexaRealm/Tiles/Land Trade Route (Production)-Modern era
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1744, 1573
+=======
+  xy: 1048, 1092
+>>>>>>> Stashed changes
 =======
   xy: 1048, 1092
 >>>>>>> Stashed changes
@@ -3452,7 +4502,11 @@ TileSets/HexaRealm/Tiles/Land Trade Route (Production)-Modern era
 TileSets/HexaRealm/Tiles/Land Trade Route (Production)-Renaissance era
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1378, 1435
+=======
+  xy: 4, 5
+>>>>>>> Stashed changes
 =======
   xy: 4, 5
 >>>>>>> Stashed changes
@@ -3463,7 +4517,11 @@ TileSets/HexaRealm/Tiles/Land Trade Route (Production)-Renaissance era
 TileSets/HexaRealm/Tiles/Mine
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 462, 502
+=======
+  xy: 768, 922
+>>>>>>> Stashed changes
 =======
   xy: 768, 922
 >>>>>>> Stashed changes
@@ -3474,7 +4532,11 @@ TileSets/HexaRealm/Tiles/Mine
 TileSets/HexaRealm/Tiles/MineT
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 462, 502
+=======
+  xy: 768, 922
+>>>>>>> Stashed changes
 =======
   xy: 768, 922
 >>>>>>> Stashed changes
@@ -3485,7 +4547,11 @@ TileSets/HexaRealm/Tiles/MineT
 TileSets/HexaRealm/Tiles/Quarry
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 462, 502
+=======
+  xy: 768, 922
+>>>>>>> Stashed changes
 =======
   xy: 768, 922
 >>>>>>> Stashed changes
@@ -3496,7 +4562,11 @@ TileSets/HexaRealm/Tiles/Quarry
 TileSets/HexaRealm/Tiles/Mine-Information era
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 534, 490
+=======
+  xy: 678, 848
+>>>>>>> Stashed changes
 =======
   xy: 678, 848
 >>>>>>> Stashed changes
@@ -3507,7 +4577,11 @@ TileSets/HexaRealm/Tiles/Mine-Information era
 TileSets/HexaRealm/Tiles/Missile Turret
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 390, 438
+=======
+  xy: 678, 784
+>>>>>>> Stashed changes
 =======
   xy: 678, 784
 >>>>>>> Stashed changes
@@ -3518,7 +4592,11 @@ TileSets/HexaRealm/Tiles/Missile Turret
 TileSets/HexaRealm/Tiles/Muachidi Houses
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 462, 426
+=======
+  xy: 678, 708
+>>>>>>> Stashed changes
 =======
   xy: 678, 708
 >>>>>>> Stashed changes
@@ -3529,7 +4607,11 @@ TileSets/HexaRealm/Tiles/Muachidi Houses
 TileSets/HexaRealm/Tiles/Ruby
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 364, 310
+=======
+  xy: 670, 516
+>>>>>>> Stashed changes
 =======
   xy: 670, 516
 >>>>>>> Stashed changes
@@ -3540,7 +4622,11 @@ TileSets/HexaRealm/Tiles/Ruby
 TileSets/HexaRealm/Tiles/Sea Trade Route (Food)
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 364, 246
+=======
+  xy: 670, 452
+>>>>>>> Stashed changes
 =======
   xy: 670, 452
 >>>>>>> Stashed changes
@@ -3551,7 +4637,11 @@ TileSets/HexaRealm/Tiles/Sea Trade Route (Food)
 TileSets/HexaRealm/Tiles/Sea Trade Route (Gold)
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 364, 246
+=======
+  xy: 670, 452
+>>>>>>> Stashed changes
 =======
   xy: 670, 452
 >>>>>>> Stashed changes
@@ -3562,7 +4652,11 @@ TileSets/HexaRealm/Tiles/Sea Trade Route (Gold)
 TileSets/HexaRealm/Tiles/Sea Trade Route (Production)
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 364, 246
+=======
+  xy: 670, 452
+>>>>>>> Stashed changes
 =======
   xy: 670, 452
 >>>>>>> Stashed changes
@@ -3573,7 +4667,11 @@ TileSets/HexaRealm/Tiles/Sea Trade Route (Production)
 TileSets/HexaRealm/Tiles/Sea Trade Route (Food)-Modern era
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 364, 182
+=======
+  xy: 750, 858
+>>>>>>> Stashed changes
 =======
   xy: 750, 858
 >>>>>>> Stashed changes
@@ -3584,7 +4682,11 @@ TileSets/HexaRealm/Tiles/Sea Trade Route (Food)-Modern era
 TileSets/HexaRealm/Tiles/Sea Trade Route (Gold)-Modern era
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 364, 182
+=======
+  xy: 750, 858
+>>>>>>> Stashed changes
 =======
   xy: 750, 858
 >>>>>>> Stashed changes
@@ -3595,7 +4697,11 @@ TileSets/HexaRealm/Tiles/Sea Trade Route (Gold)-Modern era
 TileSets/HexaRealm/Tiles/Sea Trade Route (Production)-Modern era
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 364, 182
+=======
+  xy: 750, 858
+>>>>>>> Stashed changes
 =======
   xy: 750, 858
 >>>>>>> Stashed changes
@@ -3606,7 +4712,11 @@ TileSets/HexaRealm/Tiles/Sea Trade Route (Production)-Modern era
 TileSets/HexaRealm/Tiles/Sea Trade Route (Food)-Renaissance era
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 364, 118
+=======
+  xy: 750, 794
+>>>>>>> Stashed changes
 =======
   xy: 750, 794
 >>>>>>> Stashed changes
@@ -3617,7 +4727,11 @@ TileSets/HexaRealm/Tiles/Sea Trade Route (Food)-Renaissance era
 TileSets/HexaRealm/Tiles/Sea Trade Route (Gold)-Renaissance era
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 364, 118
+=======
+  xy: 750, 794
+>>>>>>> Stashed changes
 =======
   xy: 750, 794
 >>>>>>> Stashed changes
@@ -3628,7 +4742,11 @@ TileSets/HexaRealm/Tiles/Sea Trade Route (Gold)-Renaissance era
 TileSets/HexaRealm/Tiles/Sea Trade Route (Production)-Renaissance era
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 364, 118
+=======
+  xy: 750, 794
+>>>>>>> Stashed changes
 =======
   xy: 750, 794
 >>>>>>> Stashed changes
@@ -3639,7 +4757,11 @@ TileSets/HexaRealm/Tiles/Sea Trade Route (Production)-Renaissance era
 TileSets/HexaRealm/Tiles/Shining Leather
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 364, 54
+=======
+  xy: 750, 730
+>>>>>>> Stashed changes
 =======
   xy: 750, 730
 >>>>>>> Stashed changes
@@ -3650,7 +4772,11 @@ TileSets/HexaRealm/Tiles/Shining Leather
 TileSets/HexaRealm/Tiles/Shining Leather+Camp
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 448, 350
+=======
+  xy: 750, 654
+>>>>>>> Stashed changes
 =======
   xy: 750, 654
 >>>>>>> Stashed changes
@@ -3661,7 +4787,11 @@ TileSets/HexaRealm/Tiles/Shining Leather+Camp
 TileSets/HexaRealm/Tiles/Shopping Mall
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 520, 350
+=======
+  xy: 750, 578
+>>>>>>> Stashed changes
 =======
   xy: 750, 578
 >>>>>>> Stashed changes
@@ -3672,7 +4802,11 @@ TileSets/HexaRealm/Tiles/Shopping Mall
 TileSets/HexaRealm/Tiles/Stone+Quarry
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 436, 222
+=======
+  xy: 742, 450
+>>>>>>> Stashed changes
 =======
   xy: 742, 450
 >>>>>>> Stashed changes
@@ -3683,7 +4817,11 @@ TileSets/HexaRealm/Tiles/Stone+Quarry
 TileSets/HexaRealm/Tiles/Stone+QuarryT
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 508, 286
+=======
+  xy: 822, 858
+>>>>>>> Stashed changes
 =======
   xy: 822, 858
 >>>>>>> Stashed changes
@@ -3694,7 +4832,11 @@ TileSets/HexaRealm/Tiles/Stone+QuarryT
 TileSets/HexaRealm/Tiles/StoneD+Quarry
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 436, 158
+=======
+  xy: 822, 794
+>>>>>>> Stashed changes
 =======
   xy: 822, 794
 >>>>>>> Stashed changes
@@ -3705,7 +4847,11 @@ TileSets/HexaRealm/Tiles/StoneD+Quarry
 TileSets/HexaRealm/Tiles/Turret
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 436, 30
+=======
+  xy: 814, 470
+>>>>>>> Stashed changes
 =======
   xy: 814, 470
 >>>>>>> Stashed changes
@@ -3716,7 +4862,11 @@ TileSets/HexaRealm/Tiles/Turret
 TileSets/HexaRealm/Tiles/Uranium
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 508, 26
+=======
+  xy: 814, 406
+>>>>>>> Stashed changes
 =======
   xy: 814, 406
 >>>>>>> Stashed changes
@@ -3727,7 +4877,11 @@ TileSets/HexaRealm/Tiles/Uranium
 TileSets/HexaRealm/Units/Alkhazar
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 220, 361
+=======
+  xy: 436, 375
+>>>>>>> Stashed changes
 =======
   xy: 436, 375
 >>>>>>> Stashed changes
@@ -3738,7 +4892,11 @@ TileSets/HexaRealm/Units/Alkhazar
 TileSets/HexaRealm/Units/Anti-Tank Rifle
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 220, 297
+=======
+  xy: 436, 311
+>>>>>>> Stashed changes
 =======
   xy: 436, 311
 >>>>>>> Stashed changes
@@ -3749,7 +4907,11 @@ TileSets/HexaRealm/Units/Anti-Tank Rifle
 TileSets/HexaRealm/Units/Anti-Tank platoon
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 220, 233
+=======
+  xy: 436, 247
+>>>>>>> Stashed changes
 =======
   xy: 436, 247
 >>>>>>> Stashed changes
@@ -3760,7 +4922,11 @@ TileSets/HexaRealm/Units/Anti-Tank platoon
 TileSets/HexaRealm/Units/Tank destroyer
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 220, 233
+=======
+  xy: 436, 247
+>>>>>>> Stashed changes
 =======
   xy: 436, 247
 >>>>>>> Stashed changes
@@ -3771,7 +4937,11 @@ TileSets/HexaRealm/Units/Tank destroyer
 TileSets/HexaRealm/Units/Artillery
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 220, 169
+=======
+  xy: 436, 183
+>>>>>>> Stashed changes
 =======
   xy: 436, 183
 >>>>>>> Stashed changes
@@ -3781,6 +4951,7 @@ TileSets/HexaRealm/Units/Artillery
   index: -1
 TileSets/HexaRealm/Units/Artillery-Atomic era
   rotate: false
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
   xy: 220, 169
   size: 64, 56
@@ -3800,6 +4971,9 @@ TileSets/HexaRealm/Units/Burai
 =======
   xy: 436, 183
 >>>>>>> Stashed changes
+=======
+  xy: 436, 183
+>>>>>>> Stashed changes
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -3807,7 +4981,11 @@ TileSets/HexaRealm/Units/Burai
 TileSets/HexaRealm/Units/Charles Mk.4
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1456, 1664
+=======
+  xy: 436, 119
+>>>>>>> Stashed changes
 =======
   xy: 436, 119
 >>>>>>> Stashed changes
@@ -3818,7 +4996,11 @@ TileSets/HexaRealm/Units/Charles Mk.4
 TileSets/HexaRealm/Units/Colonizer
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1240, 1524
+=======
+  xy: 832, 1114
+>>>>>>> Stashed changes
 =======
   xy: 832, 1114
 >>>>>>> Stashed changes
@@ -3829,7 +5011,11 @@ TileSets/HexaRealm/Units/Colonizer
 TileSets/HexaRealm/Units/Craby
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1312, 1524
+=======
+  xy: 904, 1190
+>>>>>>> Stashed changes
 =======
   xy: 904, 1190
 >>>>>>> Stashed changes
@@ -3840,7 +5026,11 @@ TileSets/HexaRealm/Units/Craby
 TileSets/HexaRealm/Units/Cruiser
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1384, 1536
+=======
+  xy: 904, 1126
+>>>>>>> Stashed changes
 =======
   xy: 904, 1126
 >>>>>>> Stashed changes
@@ -3851,7 +5041,11 @@ TileSets/HexaRealm/Units/Cruiser
 TileSets/HexaRealm/Units/Drone Mobile Complex
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1528, 1536
+=======
+  xy: 976, 1130
+>>>>>>> Stashed changes
 =======
   xy: 976, 1130
 >>>>>>> Stashed changes
@@ -3862,7 +5056,11 @@ TileSets/HexaRealm/Units/Drone Mobile Complex
 TileSets/HexaRealm/Units/EmbarkedUnit
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1600, 1588
+=======
+  xy: 1966, 1568
+>>>>>>> Stashed changes
 =======
   xy: 1966, 1568
 >>>>>>> Stashed changes
@@ -3873,7 +5071,11 @@ TileSets/HexaRealm/Units/EmbarkedUnit
 TileSets/HexaRealm/Units/EmbarkedUnit-Military-Modern era
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1600, 1588
+=======
+  xy: 1966, 1568
+>>>>>>> Stashed changes
 =======
   xy: 1966, 1568
 >>>>>>> Stashed changes
@@ -3884,7 +5086,11 @@ TileSets/HexaRealm/Units/EmbarkedUnit-Military-Modern era
 TileSets/HexaRealm/Units/EmbarkedUnit-Civilian
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1234, 1460
+=======
+  xy: 636, 1060
+>>>>>>> Stashed changes
 =======
   xy: 636, 1060
 >>>>>>> Stashed changes
@@ -3895,7 +5101,11 @@ TileSets/HexaRealm/Units/EmbarkedUnit-Civilian
 TileSets/HexaRealm/Units/EmbarkedUnit-Civilian-Modern era
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1234, 1460
+=======
+  xy: 636, 1060
+>>>>>>> Stashed changes
 =======
   xy: 636, 1060
 >>>>>>> Stashed changes
@@ -3906,7 +5116,11 @@ TileSets/HexaRealm/Units/EmbarkedUnit-Civilian-Modern era
 TileSets/HexaRealm/Units/EmbarkedUnit-Settler
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1306, 1452
+=======
+  xy: 708, 1052
+>>>>>>> Stashed changes
 =======
   xy: 708, 1052
 >>>>>>> Stashed changes
@@ -3917,7 +5131,11 @@ TileSets/HexaRealm/Units/EmbarkedUnit-Settler
 TileSets/HexaRealm/Units/EmbarkedUnit-Settler-Modern era
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1306, 1452
+=======
+  xy: 708, 1052
+>>>>>>> Stashed changes
 =======
   xy: 708, 1052
 >>>>>>> Stashed changes
@@ -3928,7 +5146,11 @@ TileSets/HexaRealm/Units/EmbarkedUnit-Settler-Modern era
 TileSets/HexaRealm/Units/G-1
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 220, 425
+=======
+  xy: 436, 439
+>>>>>>> Stashed changes
 =======
   xy: 436, 439
 >>>>>>> Stashed changes
@@ -3939,7 +5161,11 @@ TileSets/HexaRealm/Units/G-1
 TileSets/HexaRealm/Units/Ganymede
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 318, 466
+=======
+  xy: 606, 784
+>>>>>>> Stashed changes
 =======
   xy: 606, 784
 >>>>>>> Stashed changes
@@ -3950,7 +5176,11 @@ TileSets/HexaRealm/Units/Ganymede
 TileSets/HexaRealm/Units/Ganymede battery
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 304, 398
+=======
+  xy: 606, 716
+>>>>>>> Stashed changes
 =======
   xy: 606, 716
 >>>>>>> Stashed changes
@@ -3959,9 +5189,15 @@ TileSets/HexaRealm/Units/Ganymede battery
   offset: 0, 0
   index: -1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 TileSets/HexaRealm/Units/Glasgow
   rotate: false
   xy: 292, 334
+=======
+TileSets/HexaRealm/Units/Halaven
+  rotate: false
+  xy: 606, 652
+>>>>>>> Stashed changes
 =======
 TileSets/HexaRealm/Units/Halaven
   rotate: false
@@ -3974,7 +5210,11 @@ TileSets/HexaRealm/Units/Halaven
 TileSets/HexaRealm/Units/Helicopter Drone
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 292, 266
+=======
+  xy: 606, 584
+>>>>>>> Stashed changes
 =======
   xy: 606, 584
 >>>>>>> Stashed changes
@@ -3985,7 +5225,11 @@ TileSets/HexaRealm/Units/Helicopter Drone
 TileSets/HexaRealm/Units/Ikoit
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 292, 50
+=======
+  xy: 598, 444
+>>>>>>> Stashed changes
 =======
   xy: 598, 444
 >>>>>>> Stashed changes
@@ -3996,7 +5240,11 @@ TileSets/HexaRealm/Units/Ikoit
 TileSets/HexaRealm/Units/Legendary Warrior
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 410, 566
+=======
+  xy: 624, 928
+>>>>>>> Stashed changes
 =======
   xy: 624, 928
 >>>>>>> Stashed changes
@@ -4007,7 +5255,11 @@ TileSets/HexaRealm/Units/Legendary Warrior
 TileSets/HexaRealm/Units/Loja
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 482, 566
+=======
+  xy: 696, 988
+>>>>>>> Stashed changes
 =======
   xy: 696, 988
 >>>>>>> Stashed changes
@@ -4018,7 +5270,11 @@ TileSets/HexaRealm/Units/Loja
 TileSets/HexaRealm/Units/Lunokhod
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 554, 566
+=======
+  xy: 696, 924
+>>>>>>> Stashed changes
 =======
   xy: 696, 924
 >>>>>>> Stashed changes
@@ -4029,7 +5285,11 @@ TileSets/HexaRealm/Units/Lunokhod
 TileSets/HexaRealm/Units/Mechanized Infantry
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 390, 502
+=======
+  xy: 768, 986
+>>>>>>> Stashed changes
 =======
   xy: 768, 986
 >>>>>>> Stashed changes
@@ -4047,7 +5307,11 @@ TileSets/HexaRealm/Units/Mobile head
 TileSets/HexaRealm/Units/Ovari
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 534, 426
+=======
+  xy: 678, 644
+>>>>>>> Stashed changes
 =======
   xy: 678, 644
 >>>>>>> Stashed changes
@@ -4058,7 +5322,11 @@ TileSets/HexaRealm/Units/Ovari
 TileSets/HexaRealm/Units/Raygun Exp.
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 376, 374
+=======
+  xy: 678, 580
+>>>>>>> Stashed changes
 =======
   xy: 678, 580
 >>>>>>> Stashed changes
@@ -4069,7 +5337,11 @@ TileSets/HexaRealm/Units/Raygun Exp.
 TileSets/HexaRealm/Units/Sniper
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 436, 286
+=======
+  xy: 742, 514
+>>>>>>> Stashed changes
 =======
   xy: 742, 514
 >>>>>>> Stashed changes
@@ -4080,7 +5352,11 @@ TileSets/HexaRealm/Units/Sniper
 TileSets/HexaRealm/Units/Support Vehicle
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 508, 218
+=======
+  xy: 822, 726
+>>>>>>> Stashed changes
 =======
   xy: 822, 726
 >>>>>>> Stashed changes
@@ -4091,7 +5367,11 @@ TileSets/HexaRealm/Units/Support Vehicle
 TileSets/HexaRealm/Units/Swarm
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 436, 94
+=======
+  xy: 822, 662
+>>>>>>> Stashed changes
 =======
   xy: 822, 662
 >>>>>>> Stashed changes
@@ -4102,7 +5382,11 @@ TileSets/HexaRealm/Units/Swarm
 TileSets/HexaRealm/Units/Townbuilder
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 508, 154
+=======
+  xy: 822, 598
+>>>>>>> Stashed changes
 =======
   xy: 822, 598
 >>>>>>> Stashed changes
@@ -4113,7 +5397,11 @@ TileSets/HexaRealm/Units/Townbuilder
 TileSets/HexaRealm/Units/Trooper
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 508, 90
+=======
+  xy: 822, 534
+>>>>>>> Stashed changes
 =======
   xy: 822, 534
 >>>>>>> Stashed changes
@@ -4124,7 +5412,11 @@ TileSets/HexaRealm/Units/Trooper
 TileSets/HexaRealm/Units/Work Boats
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1672, 1664
+=======
+  xy: 670, 388
+>>>>>>> Stashed changes
 =======
   xy: 670, 388
 >>>>>>> Stashed changes
@@ -4135,7 +5427,11 @@ TileSets/HexaRealm/Units/Work Boats
 TileSets/HexaRealm/Units/Work Boats-Modern era
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1672, 1664
+=======
+  xy: 670, 388
+>>>>>>> Stashed changes
 =======
   xy: 670, 388
 >>>>>>> Stashed changes
@@ -4146,7 +5442,11 @@ TileSets/HexaRealm/Units/Work Boats-Modern era
 TileSets/HexaRealm/Units/Worker
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1672, 1600
+=======
+  xy: 742, 386
+>>>>>>> Stashed changes
 =======
   xy: 742, 386
 >>>>>>> Stashed changes
@@ -4157,7 +5457,11 @@ TileSets/HexaRealm/Units/Worker
 TileSets/HexaRealm/Units/Worker-Modern era
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1672, 1600
+=======
+  xy: 742, 386
+>>>>>>> Stashed changes
 =======
   xy: 742, 386
 >>>>>>> Stashed changes
@@ -4168,7 +5472,11 @@ TileSets/HexaRealm/Units/Worker-Modern era
 TileSets/HexaRealm/Units/Worker Machine
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1672, 1536
+=======
+  xy: 814, 342
+>>>>>>> Stashed changes
 =======
   xy: 814, 342
 >>>>>>> Stashed changes
@@ -4179,7 +5487,11 @@ TileSets/HexaRealm/Units/Worker Machine
 TileSets/HexaRealm/Units/Zvera
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1744, 1675
+=======
+  xy: 1048, 1194
+>>>>>>> Stashed changes
 =======
   xy: 1048, 1194
 >>>>>>> Stashed changes
@@ -4190,7 +5502,11 @@ TileSets/HexaRealm/Units/Zvera
 TileSets/HexaRealm/Units/Zverzi
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1744, 1675
+=======
+  xy: 1048, 1194
+>>>>>>> Stashed changes
 =======
   xy: 1048, 1194
 >>>>>>> Stashed changes
@@ -4201,7 +5517,11 @@ TileSets/HexaRealm/Units/Zverzi
 UnitIcons/Colonizer
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 112, 488
+=======
+  xy: 1260, 1836
+>>>>>>> Stashed changes
 =======
   xy: 1260, 1836
 >>>>>>> Stashed changes
@@ -4212,7 +5532,11 @@ UnitIcons/Colonizer
 UnitIcons/Mehal Sefari
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 852, 893
+=======
+  xy: 1426, 1728
+>>>>>>> Stashed changes
 =======
   xy: 1426, 1728
 >>>>>>> Stashed changes
@@ -4223,7 +5547,11 @@ UnitIcons/Mehal Sefari
 UnitIcons/Modern Armor
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 752, 785
+=======
+  xy: 1642, 1728
+>>>>>>> Stashed changes
 =======
   xy: 1642, 1728
 >>>>>>> Stashed changes
@@ -4234,7 +5562,11 @@ UnitIcons/Modern Armor
 UnitIcons/Townbuilder
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 212, 1636
+=======
+  xy: 4, 1844
+>>>>>>> Stashed changes
 =======
   xy: 4, 1844
 >>>>>>> Stashed changes
@@ -4245,7 +5577,11 @@ UnitIcons/Townbuilder
 UnitIcons/Trooper
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 4, 1220
+=======
+  xy: 212, 1844
+>>>>>>> Stashed changes
 =======
   xy: 212, 1844
 >>>>>>> Stashed changes
@@ -4256,7 +5592,11 @@ UnitIcons/Trooper
 UnitIcons/Voortrekker
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 628, 1636
+=======
+  xy: 628, 1844
+>>>>>>> Stashed changes
 =======
   xy: 628, 1844
 >>>>>>> Stashed changes
@@ -4267,7 +5607,11 @@ UnitIcons/Voortrekker
 UnitIcons/Zima-3
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 836, 1636
+=======
+  xy: 4, 804
+>>>>>>> Stashed changes
 =======
   xy: 4, 804
 >>>>>>> Stashed changes
@@ -4278,7 +5622,11 @@ UnitIcons/Zima-3
 UnitIcons/Zvera
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 4, 596
+=======
+  xy: 420, 1220
+>>>>>>> Stashed changes
 =======
   xy: 420, 1220
 >>>>>>> Stashed changes
@@ -4289,7 +5637,11 @@ UnitIcons/Zvera
 UnitIcons/Zverzi
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 4, 596
+=======
+  xy: 420, 1220
+>>>>>>> Stashed changes
 =======
   xy: 420, 1220
 >>>>>>> Stashed changes
@@ -4300,7 +5652,11 @@ UnitIcons/Zverzi
 UnitPromotionIcons/Altitude Training
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 902, 1146
+=======
+  xy: 508, 323
+>>>>>>> Stashed changes
 =======
   xy: 508, 323
 >>>>>>> Stashed changes
@@ -4311,7 +5667,11 @@ UnitPromotionIcons/Altitude Training
 UnitPromotionIcons/Ambition
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1744, 1515
+=======
+  xy: 508, 265
+>>>>>>> Stashed changes
 =======
   xy: 508, 265
 >>>>>>> Stashed changes
@@ -4322,7 +5682,11 @@ UnitPromotionIcons/Ambition
 UnitPromotionIcons/Ambohimanambola
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1988, 1886
+=======
+  xy: 508, 207
+>>>>>>> Stashed changes
 =======
   xy: 508, 207
 >>>>>>> Stashed changes
@@ -4333,7 +5697,11 @@ UnitPromotionIcons/Ambohimanambola
 UnitPromotionIcons/Kelimazala
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1988, 1886
+=======
+  xy: 508, 207
+>>>>>>> Stashed changes
 =======
   xy: 508, 207
 >>>>>>> Stashed changes
@@ -4344,7 +5712,11 @@ UnitPromotionIcons/Kelimazala
 UnitPromotionIcons/Lambamena
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1988, 1886
+=======
+  xy: 508, 207
+>>>>>>> Stashed changes
 =======
   xy: 508, 207
 >>>>>>> Stashed changes
@@ -4355,7 +5727,11 @@ UnitPromotionIcons/Lambamena
 UnitPromotionIcons/Manjakatsiroa
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1988, 1886
+=======
+  xy: 508, 207
+>>>>>>> Stashed changes
 =======
   xy: 508, 207
 >>>>>>> Stashed changes
@@ -4366,7 +5742,11 @@ UnitPromotionIcons/Manjakatsiroa
 UnitPromotionIcons/Mosasa
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1988, 1886
+=======
+  xy: 508, 207
+>>>>>>> Stashed changes
 =======
   xy: 508, 207
 >>>>>>> Stashed changes
@@ -4377,7 +5757,11 @@ UnitPromotionIcons/Mosasa
 UnitPromotionIcons/Mosava
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1988, 1886
+=======
+  xy: 508, 207
+>>>>>>> Stashed changes
 =======
   xy: 508, 207
 >>>>>>> Stashed changes
@@ -4388,7 +5772,11 @@ UnitPromotionIcons/Mosava
 UnitPromotionIcons/Ramahavaly
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1988, 1886
+=======
+  xy: 508, 207
+>>>>>>> Stashed changes
 =======
   xy: 508, 207
 >>>>>>> Stashed changes
@@ -4399,7 +5787,11 @@ UnitPromotionIcons/Ramahavaly
 UnitPromotionIcons/Sampy
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1988, 1886
+=======
+  xy: 508, 207
+>>>>>>> Stashed changes
 =======
   xy: 508, 207
 >>>>>>> Stashed changes
@@ -4410,7 +5802,11 @@ UnitPromotionIcons/Sampy
 UnitPromotionIcons/Sehatra
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1988, 1886
+=======
+  xy: 508, 207
+>>>>>>> Stashed changes
 =======
   xy: 508, 207
 >>>>>>> Stashed changes
@@ -4421,7 +5817,11 @@ UnitPromotionIcons/Sehatra
 UnitPromotionIcons/Ambush
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1988, 1828
+=======
+  xy: 508, 149
+>>>>>>> Stashed changes
 =======
   xy: 508, 149
 >>>>>>> Stashed changes
@@ -4432,7 +5832,11 @@ UnitPromotionIcons/Ambush
 UnitPromotionIcons/Ambush Formation
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 606, 508
+=======
+  xy: 566, 386
+>>>>>>> Stashed changes
 =======
   xy: 566, 386
 >>>>>>> Stashed changes
@@ -4443,7 +5847,11 @@ UnitPromotionIcons/Ambush Formation
 UnitPromotionIcons/Amphibious
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 606, 450
+=======
+  xy: 566, 328
+>>>>>>> Stashed changes
 =======
   xy: 566, 328
 >>>>>>> Stashed changes
@@ -4454,7 +5862,11 @@ UnitPromotionIcons/Amphibious
 UnitPromotionIcons/Anti-naval
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 664, 511
+=======
+  xy: 566, 270
+>>>>>>> Stashed changes
 =======
   xy: 566, 270
 >>>>>>> Stashed changes
@@ -4465,7 +5877,11 @@ UnitPromotionIcons/Anti-naval
 UnitPromotionIcons/Buffalo Chest
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 780, 511
+=======
+  xy: 508, 91
+>>>>>>> Stashed changes
 =======
   xy: 508, 91
 >>>>>>> Stashed changes
@@ -4476,7 +5892,11 @@ UnitPromotionIcons/Buffalo Chest
 UnitPromotionIcons/Buffalo Horns
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 780, 511
+=======
+  xy: 508, 91
+>>>>>>> Stashed changes
 =======
   xy: 508, 91
 >>>>>>> Stashed changes
@@ -4487,7 +5907,11 @@ UnitPromotionIcons/Buffalo Horns
 UnitPromotionIcons/Buffalo Loins
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 780, 511
+=======
+  xy: 508, 91
+>>>>>>> Stashed changes
 =======
   xy: 508, 91
 >>>>>>> Stashed changes
@@ -4498,7 +5922,11 @@ UnitPromotionIcons/Buffalo Loins
 UnitPromotionIcons/Formation
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1070, 440
+=======
+  xy: 682, 330
+>>>>>>> Stashed changes
 =======
   xy: 682, 330
 >>>>>>> Stashed changes
@@ -4509,7 +5937,11 @@ UnitPromotionIcons/Formation
 UnitPromotionIcons/Golden Age from Victories
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 606, 392
+=======
+  xy: 624, 214
+>>>>>>> Stashed changes
 =======
   xy: 624, 214
 >>>>>>> Stashed changes
@@ -4520,7 +5952,11 @@ UnitPromotionIcons/Golden Age from Victories
 UnitPromotionIcons/Invulnerability
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 722, 395
+=======
+  xy: 624, 156
+>>>>>>> Stashed changes
 =======
   xy: 624, 156
 >>>>>>> Stashed changes
@@ -4531,7 +5967,11 @@ UnitPromotionIcons/Invulnerability
 UnitPromotionIcons/Mystic Blade
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1128, 382
+=======
+  xy: 740, 212
+>>>>>>> Stashed changes
 =======
   xy: 740, 212
 >>>>>>> Stashed changes
@@ -4542,7 +5982,11 @@ UnitPromotionIcons/Mystic Blade
 UnitPromotionIcons/Restlessness
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 638, 218
+=======
+  xy: 856, 110
+>>>>>>> Stashed changes
 =======
   xy: 856, 110
 >>>>>>> Stashed changes
@@ -4553,7 +5997,11 @@ UnitPromotionIcons/Restlessness
 UnitPromotionIcons/Ski Infantry
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1076, 880
+=======
+  xy: 220, 580
+>>>>>>> Stashed changes
 =======
   xy: 220, 580
 >>>>>>> Stashed changes
@@ -4564,7 +6012,11 @@ UnitPromotionIcons/Ski Infantry
 UnitPromotionIcons/Spear Throw
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 766, 337
+=======
+  xy: 894, 830
+>>>>>>> Stashed changes
 =======
   xy: 894, 830
 >>>>>>> Stashed changes
@@ -4575,7 +6027,11 @@ UnitPromotionIcons/Spear Throw
 UnitPromotionIcons/Targeting I (air)
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 824, 337
+=======
+  xy: 894, 772
+>>>>>>> Stashed changes
 =======
   xy: 894, 772
 >>>>>>> Stashed changes
@@ -4586,7 +6042,11 @@ UnitPromotionIcons/Targeting I (air)
 UnitPromotionIcons/War Canoes
   rotate: false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   xy: 1476, 1728
+=======
+  xy: 328, 256
+>>>>>>> Stashed changes
 =======
   xy: 328, 256
 >>>>>>> Stashed changes

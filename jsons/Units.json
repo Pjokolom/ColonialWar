@@ -446,6 +446,7 @@
         "name": "Halaven",
         "unitType": "Submarine",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "movement": 5,
         "strength": 40,
         "uniqueTo": "East Republic",
@@ -453,10 +454,15 @@
         "rangedStrength": 70,
         "cost": 350,
 =======
+=======
+>>>>>>> Stashed changes
         "movement": 6,
         "strength": 42,
         "rangedStrength": 65,
         "cost": 360,
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         "requiredTech": "War Ships",
         "uniques": [
