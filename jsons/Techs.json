@@ -314,6 +314,21 @@
         ]
     },
     {
+        "columnNumber": 10,
+        "era": "Frame era",
+        "techCost": 2100,
+        "buildingCost": 500,
+        "wonderCost": 1250,
+        "techs": [
+            {
+                "name": "Knightmare Gen.5",
+                "row": 3,
+                "prerequisites": ["Knightmare Revolution"], 
+                "quote": "'Uee uee' - Gucochelechee"
+            }
+        ]
+    },
+    {
         "columnNumber": 12,
         "era": "Information era",
         "techCost": 10500,
