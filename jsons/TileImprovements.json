@@ -41,20 +41,20 @@
         ],
         "shortcutKey": "F"
     },
-    {
-        "name": "Modern Houses",
-        "terrainsCanBeBuiltOn": ["Plains","Grassland","Flood plains","Hill","Tundra","Desert","Snow"],
-        "culture": 4,
-        "gold": 3,
-        "food": 2,
-        "requiredTech": "Modern Buildings",
-        "turnsToBuild": 9,
-        "uniques": [
-
-            "Pillaging this improvement yields approximately [+55 Gold]"
-        ],
-        "shortcutKey": "F"
-    },
+//   {
+//        "name": "Modern Houses",
+//        "terrainsCanBeBuiltOn": ["Plains","Grassland","Flood plains","Hill","Tundra","Desert","Snow"],
+//        "culture": 4,
+//        "gold": 3,
+//        "food": 2,
+//        "requiredTech": "Modern Buildings",
+//        "turnsToBuild": 9,
+//        "uniques": [
+//
+//            "Pillaging this improvement yields approximately [+55 Gold]"
+//        ],
+//        "shortcutKey": "F"
+//    },
     {
         "name": "Lumber mill",
         "terrainsCanBeBuiltOn": ["Forest"],
