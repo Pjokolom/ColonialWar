@@ -825,6 +825,7 @@
         "name": "G-1",
         "unitType": "Armored",
         "movement": 4,
+        "replaces": "Mobile head",
         "strength": 120,
         "requiredResource": "Uranium",
         "uniqueTo": "British Empire",
@@ -876,6 +877,57 @@
         "uniques": ["[-100]% maintenance costs"],
         "attackSound": "missile"
     },
+//FRAMEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEES
 
+    {
+        "name": "Glasgow",
+        "unitType": "Frame",
+        "movement": 5,
+        "replaces": "Burai",
+        "strength": 85,
+        "uniqueTo": "British Empire",
+        "rangedStrength": 75,
+        "range": 1,
+        "cost": 700,
+        "requiredTech": "Sakura Engine",
+        "uniques": [
+
+            "[+300]% Strength <vs [Armored] units> <when attacking>",
+            "[+165]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
+            "[+200]% Strength <vs [Gunpowder] units> <when attacking>",
+            "[+165]% Strength <vs [Helicopter] units> <when attacking>",
+            "Can move after attacking",
+            "Only available <in cities with a [Weaponry Fabric]>",
+            "Only available <in cities with a [Tech Fabric]>",
+            "Withdraws before melee combat <with [50]% chance>",
+            "Never appears as a Barbarian unit"
+
+        ],
+        "attackSound": "metalhit"
+    },
+    {
+        "name": "Burai",
+        "unitType": "Frame",
+        "movement": 5,
+        "strength": 82,
+        "rangedStrength": 75,
+        "range": 1,
+        "cost": 670,
+        "requiredTech": "Sakura Engine",
+        "uniques": [
+
+            "[+300]% Strength <vs [Armored] units> <when attacking>",
+            "[+165]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
+            "[+200]% Strength <vs [Gunpowder] units> <when attacking>",
+            "[+165]% Strength <vs [Helicopter] units> <when attacking>",
+            "Can move after attacking",
+            "Only available <in cities with a [Weaponry Fabric]>",
+            "Only available <in cities with a [Tech Fabric]>",
+            "Withdraws before melee combat <with [50]% chance>",
+            "Never appears as a Barbarian unit"
+
+        ],
+        "attackSound": "metalhit"
+    }
 
 ]

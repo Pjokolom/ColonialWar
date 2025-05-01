@@ -267,7 +267,7 @@
     },
         {
         "columnNumber": 8,
-        "era": "Information era",
+        "era": "Frame era",
         "techCost": 1575,
         "buildingCost": 500,
         "wonderCost": 1250,
@@ -287,7 +287,7 @@
     {
         "columnNumber": 9,
         "era": "Frame era",
-        "techCost": 1575,
+        "techCost": 2100,
         "buildingCost": 500,
         "wonderCost": 1250,
         "techs": [
@@ -297,6 +297,16 @@
                 "uniques":
                 [
                     "[+15 Production] [in all cities]"
+                ],
+                "prerequisites": ["Sakura Engine"], 
+                "quote": "'Uee uee' - Gucochelechee"
+            },
+            {
+                "name": "Modern Buildings",
+                "row": 1,
+                "uniques":
+                [
+                    "[+2 Happiness] [in all cities]"
                 ],
                 "prerequisites": ["Sakura Engine"], 
                 "quote": "'Uee uee' - Gucochelechee"
