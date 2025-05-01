@@ -22,11 +22,12 @@
         // "[-25]% [Science] [in pupetted cities]" -- Imo cityFilters should ideally become conditionals anyway
         // "[-25]% [Culture] [in pupetted cities]"
 
-        "[+100]% [Gold] [in cities connected via railroad]"
+        "[+150]% [Gold] [in cities connected via railroad]",
 
         // something something unit supply
 
         // Temporary "Needs actual support" uniques
+
         "[-1 Gold] from every [Shopping Mall] <with [1] to [6] neighboring [Shopping Mall] tiles>",
         "[-1 Gold] from every [Shopping Mall] <with [2] to [6] neighboring [Shopping Mall] tiles>",
         "[-1 Gold] from every [Shopping Mall] <with [3] to [6] neighboring [Shopping Mall] tiles>",
