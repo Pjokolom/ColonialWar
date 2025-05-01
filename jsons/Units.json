@@ -719,6 +719,7 @@
         "requiredTech": "Sakura Engine",
         "uniques": [
 
+            "Limited to [1] per Civilization",
             "[+120]% Strength <vs [Armored] units> <when attacking>",
             "No defensive terrain bonus",
             "Can move after attacking",

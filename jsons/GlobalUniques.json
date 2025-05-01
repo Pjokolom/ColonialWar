@@ -22,7 +22,7 @@
         // "[-25]% [Science] [in pupetted cities]" -- Imo cityFilters should ideally become conditionals anyway
         // "[-25]% [Culture] [in pupetted cities]"
 
-        "[+20]% [Gold] [in cities connected via railroad]"
+        "[+100]% [Gold] [in cities connected via railroad]"
 
         // something something unit supply
 
