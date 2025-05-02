@@ -711,7 +711,7 @@
             {
                 "name": "Resettlements",
                 "uniques": [
-                    "[+4] population [in this city] <upon founding a city>",
+                    "[+1] population [in this city] <upon founding a city>",
                     "Provides [1] [Level 1 Ideology]",
                     "Provides [1] [Policies]"
                 ],
@@ -735,7 +735,7 @@
                 "uniques": [
                     "[+1 Happiness] from every [Observatory]",
                     "[+1 Happiness] from every [Public School]",
-                    "[+1 Happiness] from every [Research Lab]",
+                    "[+1 Happiness] from every [Laboratory]",
                     "Provides [-1] [Level 1 Ideology]",
                     "Provides [1] [Level 2 Ideology]",
                     "Only available <when above [1] [Level 1 Ideology]>",
