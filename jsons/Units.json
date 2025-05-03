@@ -40,7 +40,7 @@
         "movement": 3,
         "strength": 12,
         "requiredTech": "Tech Fabrics",
-        "requiredResource": "Aluminum",
+        "requiredResource": "Metall",
         "uniques": [
             "Can build [All] improvements on tiles",
             "Can build [all] improvements at a [+55]% rate",
@@ -65,7 +65,7 @@
 		"unitType": "Armored",
 		"movement": 3,
         "strength": 50,
-        "requiredResource": "Aluminum",
+        "requiredResource": "Metall",
         "requiredTech": "Robotechs",
 		"cost": 120,
 		"uniques": [
@@ -124,6 +124,8 @@
             "[-100]% Strength <vs cities> <when attacking>",
             "Never appears as a Barbarian unit",
             "[-75]% Strength <vs [Armored] units> <when attacking>",
+            "Never appears as a Barbarian unit",
+            "[+75]% Strength <vs [Gunpowder] units> <when attacking>"
             
 
         ],
@@ -219,7 +221,7 @@
         "unitType": "Armored",
         "movement": 4,
         "strength": 65,
-        "requiredResource": "Aluminum",
+        "requiredResource": "Metall",
         "cost": 330,
         "requiredTech": "Basic War Machines",
         "uniques": [
@@ -240,7 +242,7 @@
         "strength": 63,
         "uniqueTo": "East Republic",
         "replaces": "Mechanized Infantry",
-        "requiredResource": "Aluminum",
+        "requiredResource": "Metall",
         "cost": 330,
         "requiredTech": "Basic War Machines",
         "uniques": [
@@ -264,7 +266,7 @@
         "range": 1,
         "cost": 400,
         "requiredTech": "Basic War Machines",
-        "requiredResource": "Aluminum",
+        "requiredResource": "Metall",
         "uniques": [
             "Can move after attacking",
             "No defensive terrain bonus",
@@ -286,7 +288,7 @@
         "range": 1,
         "cost": 400,
         "requiredTech": "Basic War Machines",
-        "requiredResource": "Aluminum",
+        "requiredResource": "Metall",
         "uniques": [
             "Can move after attacking",
             "No defensive terrain bonus",
@@ -344,7 +346,7 @@
         "unitType": "Armored",
         "movement": 4,
         "strength": 40,
-        "requiredResource": "Aluminum",
+        "requiredResource": "Metall",
         "cost": 400,
         "requiredTech": "Drones II",
         "uniques": [
@@ -408,7 +410,7 @@
         "unitType": "Armor",
         "movement": 2,
         "strength": 40,
-        "rangedStrength": 70,
+        "rangedStrength": 60,
         "range": 5,
         "cost": 320,
         "requiredTech": "Long Range Weapons",
@@ -542,8 +544,8 @@
         "name": "Battleship",
         "unitType": "Ranged Water",
         "movement": 5,
-        "strength": 100,
-        "rangedStrength": 55,
+        "strength": 110,
+        "rangedStrength": 75,
         "range": 3,
         "cost": 670,
         "requiredResource": "Oil",
@@ -559,9 +561,9 @@
         "name": "Loja",
         "unitType": "Ranged Water",
         "movement": 4,
-        "strength": 180,
+        "strength": 190,
         "uniqueTo": "United States of America",
-        "rangedStrength": 95,
+        "rangedStrength": 100,
         "range": 3,
         "cost": 900,
         "requiredResource": "Oil",
@@ -580,9 +582,9 @@
         "name": "Ovari",
         "unitType": "Ranged Water",
         "movement": 4,
-        "strength": 200,
+        "strength": 215,
         "uniqueTo": "Japan",
-        "rangedStrength": 82,
+        "rangedStrength": 95,
         "range": 3,
         "cost": 900,
         "requiredResource": "Oil",
@@ -670,7 +672,7 @@
         "cost": 300,
         "requiredTech": "Robotechs",
         "promotions": ["Ignore terrain cost"],
-        "requiredResource": "Iron",
+        "requiredResource": "Metall",
         "uniques": [
             "Can move after attacking",
             "Unable to capture cities",
@@ -755,7 +757,7 @@
 		"unitType": "Armored",
 		"movement": 3,
         "strength": 80,
-        "requiredResource": "Iron",
+        "requiredResource": "Metall",
         "requiredTech": "Robotechs II",
 		"cost": 120,
 		"uniques": [
@@ -776,7 +778,7 @@
         "rangedStrength": 75,
         "cost": 510,
         "requiredTech": "Heavy Jet Machines",
-        "requiredResource": "Aluminum",
+        "requiredResource": "Metall",
         "uniques": [
             "[+70]% Strength <vs [Armored] units>",
             "[-15]% Strength <vs [Water] units>",
@@ -792,7 +794,7 @@
         "unitType": "Armored",
         "movement": 4,
         "strength": 40,
-        "requiredResource": "Iron",
+        "requiredResource": "Metall",
         "cost": 400,
         "requiredTech": "Support Vechicles",
         "uniques": [
@@ -813,7 +815,7 @@
         "movement": 3,
         "interceptRange": 2,
         "strength": 65,
-        "requiredResource": "Iron",
+        "requiredResource": "Metall",
         "cost": 510,
         "requiredTech": "Support Vechicles",
         "uniques": [
@@ -830,7 +832,7 @@
         "movement": 4,
         "replaces": "Mobile head",
         "strength": 120,
-        "requiredResource": "Uranium",
+        "requiredResource": "Sakuradait",
         "uniqueTo": "British Empire",
         "requiredTech": "Sakura Engine",
         "cost": 780,
@@ -851,7 +853,7 @@
         "name": "Mobile head",
         "unitType": "Armored",
         "movement": 3,
-        "requiredResource": "Uranium",
+        "requiredResource": "Sakuradait",
         "strength": 125,
         "requiredTech": "Sakura Engine",
         "cost": 750,
@@ -891,6 +893,7 @@
         "uniqueTo": "British Empire",
         "rangedStrength": 75,
         "range": 1,
+        "requiredResource": "Sakuradait",
         "cost": 700,
         "requiredTech": "Knightmare Revolution",
         "uniques": [
@@ -917,6 +920,7 @@
         "rangedStrength": 75,
         "range": 1,
         "cost": 800,
+        "requiredResource": "Sakuradait",
         "requiredTech": "Knightmare Gen.5",
         "uniques": [
 
@@ -941,6 +945,7 @@
         "strength": 82,
         "rangedStrength": 75,
         "range": 1,
+        "requiredResource": "Sakuradait",
         "cost": 670,
         "requiredTech": "Knightmare Revolution",
         "uniques": [
@@ -966,6 +971,7 @@
         "rangedStrength": 82,
         "range": 2,
         "uniqueTo": "Russia",
+        "requiredResource": "Sakuradait",
         "cost": 670,
         "requiredTech": "Knightmare Gen.5",
         "uniques": [
@@ -991,6 +997,7 @@
         "uniqueTo": "East Republic",
         "rangedStrength": 75,
         "range": 1,
+        "requiredResource": "Sakuradait",
         "cost": 800,
         "requiredTech": "Knightmare Gen.5",
         "uniques": [
@@ -1016,6 +1023,7 @@
         "strength": 80,
         "rangedStrength": 90,
         "range": 4,
+        "requiredResource": "Sakuradait",
         "uniqueTo": "Muachidi",
         "cost": 670,
         "requiredTech": "Knightmare Gen.5",
@@ -1034,6 +1042,6 @@
 
         ],
         "attackSound": "metalhit"
-    },
+    }
 
 ]
