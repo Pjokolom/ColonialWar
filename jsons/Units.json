@@ -915,7 +915,7 @@
         "name": "Sutherland",
         "unitType": "Frame",
         "movement": 5,
-        "strength": 90,
+        "strength": 100,
         "uniqueTo": "British Empire",
         "rangedStrength": 75,
         "range": 1,
@@ -942,7 +942,7 @@
         "name": "Burai",
         "unitType": "Frame",
         "movement": 5,
-        "strength": 82,
+        "strength": 100,
         "rangedStrength": 75,
         "range": 1,
         "requiredResource": "Sakuradait",
@@ -967,12 +967,12 @@
         "name": "Otila",
         "unitType": "Frame",
         "movement": 3,
-        "strength": 95,
+        "strength": 120,
         "rangedStrength": 82,
         "range": 2,
         "uniqueTo": "Russia",
         "requiredResource": "Sakuradait",
-        "cost": 670,
+        "cost": 800,
         "requiredTech": "Knightmare Gen.5",
         "uniques": [
 
@@ -993,7 +993,7 @@
         "name": "Tanecznik",
         "unitType": "Frame",
         "movement": 6,
-        "strength": 75,
+        "strength": 110,
         "uniqueTo": "East Republic",
         "rangedStrength": 75,
         "range": 1,
@@ -1020,12 +1020,12 @@
         "name": "Bamid",
         "unitType": "Frame",
         "movement": 1,
-        "strength": 80,
+        "strength": 130,
         "rangedStrength": 90,
         "range": 4,
         "requiredResource": "Sakuradait",
         "uniqueTo": "Muachidi",
-        "cost": 670,
+        "cost": 850,
         "requiredTech": "Knightmare Gen.5",
         "uniques": [
 
@@ -1039,6 +1039,34 @@
             "Withdraws before melee combat <with [25]% chance>",
             "Never appears as a Barbarian unit",
             "[+150]% Strength <vs cities> <when attacking>"
+
+        ],
+        "attackSound": "metalhit"
+    },
+    {
+        "name": "Gun-Ru",
+        "unitType": "Frame",
+        "movement": 3,
+        "strength": 120,
+        "rangedStrength": 90,
+        "range": 2,
+        "requiredResource": "Sakuradait",
+        "uniqueTo": "Chinese Federation",
+        "cost": 700,
+        "requiredTech": "Knightmare Gen.5",
+        "uniques": [
+
+            "[+280]% Strength <vs [Armored] units> <when attacking>",
+            "[+160]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
+            "[+140]% Strength <vs [Gunpowder] units> <when attacking>",
+            "[+280]% Strength <vs [Helicopter] units> <when attacking>",
+            "[+110]% Strength <vs [Frame] units> <when attacking>",
+            "Only available <in cities with a [Weaponry Fabric]>",
+            "Only available <in cities with a [Tech Fabric]>",
+            "Withdraws before melee combat <with [10]% chance>",
+            "Never appears as a Barbarian unit",
+            "Can carry [2] [Missile] units",
+            "[+120]% Strength <vs cities> <when attacking>"
 
         ],
         "attackSound": "metalhit"

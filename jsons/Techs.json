@@ -15,7 +15,6 @@
                 "name": "Tech Fabrics",
                 "row": 4,
                 "uniques": [
-                    "Provides [1] [Trade Route]",
                     "Roads connect tiles across rivers"
                 ],
 
@@ -53,7 +52,6 @@
                 "uniques": [
                     
                     "Enables [Embarked] units to enter ocean tiles",
-                    "Provides [1] [Trade Route]",
                     "Enables embarkation for land units"
 
                 ],
@@ -87,8 +85,7 @@
                 "name": "Long Range Weapons",
                 "row": 3,
                 "prerequisites": ["Explosive Minerals","Basic War Machines"],
-                "quote": "'This will not affect the gameplay.' - Wargaming",
-                "uniques": ["Provides [1] [Trade Route]"]
+                "quote": "'This will not affect the gameplay.' - Wargaming"
             },
             {
                 "name": "War Ships",

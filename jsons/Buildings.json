@@ -45,7 +45,7 @@
 		"cityStrength": 2,
 		"cost": 1,
 		"uniques": ["Indicates the capital city",
-		"Provides [1] [Aluminum]", "Provides [1] [Aluminum]"]
+		"Provides [2] [Metall]"]
 	},
 	{
 		"name": "Weaponry Fabric",

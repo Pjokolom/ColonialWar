@@ -22,7 +22,9 @@
         "turnsToBuild": 9,
         "uniques": [
 
+            "Consumes [1] [Stone]",
             "Pillaging this improvement yields approximately [+35 Gold]"
+
         ],
         "shortcutKey": "F"
     },
@@ -37,31 +39,20 @@
         "turnsToBuild": 7,
         "uniques": [
 
+            "Consumes [1] [Stone]",
             "Pillaging this improvement yields approximately [+35 Gold]"
         ],
         "shortcutKey": "F"
     },
-//   {
-//        "name": "Modern Houses",
-//        "terrainsCanBeBuiltOn": ["Plains","Grassland","Flood plains","Hill","Tundra","Desert","Snow"],
-//        "culture": 4,
-//        "gold": 3,
-//        "food": 2,
-//        "requiredTech": "Modern Buildings",
-//        "turnsToBuild": 9,
-//        "uniques": [
-//
-//            "Pillaging this improvement yields approximately [+55 Gold]"
-//        ],
-//        "shortcutKey": "F"
-//    },
+
     {
         "name": "Lumber mill",
         "terrainsCanBeBuiltOn": ["Forest"],
         "production": 1,
+        "science": 3,
         "turnsToBuild": 7,
         "uniques": [
-            "[+1 Production] <after discovering [Xenology]>",
+            "[+4 Production] <after discovering [Xenology]>",
             "Can only be built to improve a resource <in [resource] tiles>",
             "Pillaging this improvement yields approximately [+10 Gold]"
         ],
@@ -122,7 +113,7 @@
             "Gives a defensive bonus of [20]%",
             "Adjacent enemy units ending their turn take [20] damage",
             "Removes removable features when built",
-            "Consumes [1] [Iron]"
+            "Consumes [1] [Metall]"
         ]
     },
     // Resource-specific
@@ -269,54 +260,7 @@
         ],
         "shortcutKey": "X"
     },
-    {
-        "name": "Remove Land Trade Route (Production)",
-        "terrainsCanBeBuiltOn": ["Land","Forest","Jungle","Marsh","Oasis"],
-        "uniques": [
-            "Excluded from map editor"
-        ],
-        "turnsToBuild": 0
-    },
-    {
-        "name": "Remove Land Trade Route (Food)",
-        "terrainsCanBeBuiltOn": ["Land","Forest","Jungle","Marsh","Oasis"],
-        "uniques": [
-            "Excluded from map editor"
-        ],
-        "turnsToBuild": 0
-    },
-    {
-        "name": "Remove Land Trade Route (Gold)",
-        "terrainsCanBeBuiltOn": ["Land","Forest","Jungle","Marsh","Oasis"],
-        "uniques": [
-            "Excluded from map editor"
-        ],
-        "turnsToBuild": 0
-    },
-    {
-        "name": "Remove Sea Trade Route (Production)",
-        "terrainsCanBeBuiltOn": ["Coast","Ocean","Atoll"],
-        "uniques": [
-            "Excluded from map editor"
-        ],
-        "turnsToBuild": 0
-    },
-    {
-        "name": "Remove Sea Trade Route (Food)",
-        "terrainsCanBeBuiltOn": ["Coast","Ocean","Atoll"],
-        "uniques": [
-            "Excluded from map editor"
-        ],
-        "turnsToBuild": 0
-    },
-    {
-        "name": "Remove Sea Trade Route (Gold)",
-        "terrainsCanBeBuiltOn": ["Coast","Ocean","Atoll"],
-        "uniques": [
-            "Excluded from map editor"
-        ],
-        "turnsToBuild": 0
-    },
+
 
     // These are unique and have unique in-game checks related to them
     {

@@ -231,7 +231,8 @@
         "uniques": [
 
             "[+15]% Strength <for [{Military} {Air}] units>",
-            "[+15]% Strength <for [Armored] units>  <when defending> <in [Houses] tiles>"
+            "[+15]% Strength <for [Armored] units>  <when defending> <in [Houses] tiles>",
+            "Earn [20]% of killed [Xenos] unit's [Cost] as [Science] <hidden from users>"
 
         ],
         "cities": [
@@ -302,6 +303,50 @@
             "James","Scarlett","Mycroft","Charlotte","Gwendolyn","Mr. Eks","Dr. Grey","Andrew","Scott","Anne"
         ]
     }, 
+    {
+        "name": "Chinese Federation",
+        "leaderName": "Xingke Li",
+        "adjective": ["Chinese"],
+        "startBias": ["[Coast]"],
+        "preferredVictoryType": "Domination",
+        "startIntroPart1": "...",
+        "startIntroPart2": "...",
+        "declaringWar": "By order of the council...",
+        "attacked": "How dare you!",
+        "defeated": "Agh!?",
+        "introduction": "Greetings. Xingke Li. How can i help you?",
+        "neutralHello": "Greetings.",
+        "hateHello": "What do you want?",
+        "tradeRequest": "We need to talk some things.",
+        "outerColor": [6, 118, 98],
+        "innerColor": [255, 255, 255],
+        "uniqueName": "Fast Workers",
+        "uniques": [
+
+            "Can build [Houses] improvements at a [+50]% rate",
+            "Earn [20]% of killed [Xenos] unit's [Cost] as [Science] <hidden from users>"
+
+        ],
+        "cities": [
+
+            "Bingbao",
+            "Toufa",
+            "Weifeng",
+            "Tong luo er",
+            "Fangzi",
+            "Yewan",
+            "Landong",
+            "Chuanchang",
+            "Lubi",
+            "Youwalun",
+            "Toyosu",
+            "Xingqi"
+
+        ],
+        "spyNames": [
+            "Riye", "Saito", "Seiko", "Hikari", "Yamato", "Yuke", "Taidze", "Kavasato", "Tezuo", "Ishikava"
+        ]
+    },
 
 
 
