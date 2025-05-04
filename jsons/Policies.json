@@ -651,6 +651,20 @@
                 "column": 5
             },
             {
+                "name": "Project Tempus",
+                "uniques": [
+                    "[-15]% Strength <for [All] units> <for [50] turns>",
+                    "[-60]% [Production] [in all cities]",
+                    "[+100]% [Science] [in all cities]",
+                    "Provides [-1] [Level 2 Ideology]",
+                    "Only available <when above [1] [Level 2 Ideology]>",
+                    "Provides [1] [Policies]",
+                    "Triggers the following global alert: [[Nation name] consumed Project Tempus]"
+                ],
+                "row": 3,
+                "column": 9
+            },
+            {
                 "name": "Order Complete",
                 "uniques": [
                 ]
@@ -844,6 +858,7 @@
                 "row": 3,
                 "column": 5
             },
+
             {
                 "name": "Freedom Complete",
                 "uniques": [
@@ -1031,7 +1046,7 @@
                 "uniques": [
                     "[+25]% Strength <for [All] units> <for [50] turns>",
                     "[+100]% [Production] [in all cities]",
-                    "[+75]% [Science] [in all cities]",
+                    "[-75]% [Science] [in all cities]",
                     "Provides [-1] [Level 2 Ideology]",
                     "Only available <when above [1] [Level 2 Ideology]>",
                     "Provides [1] [Policies]",
