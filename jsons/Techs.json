@@ -223,6 +223,13 @@
                 "prerequisites": ["Lazers"],
                 "uniques": ["Comment [[+15]% Strength for [Gunpowder]]"],
                 "quote": "'Uee uee' - Gucochelechee"
+            },
+            {
+                "name": "Geological breakthrough",
+                "row": 9,
+                "prerequisites": ["Support Vechicles"],
+                "uniques": [],
+                "quote": "'Uee uee' - Gucochelechee"
             }
         ]
     },
@@ -235,7 +242,7 @@
         "techs": [
             {
                 "name": "Heavy Jet Machines",
-                "row": 8,
+                "row": 7,
                 "prerequisites": ["Improved Jet Engine"],
                 "quote": "'Uee uee' - Gucochelechee"
             },
@@ -243,6 +250,12 @@
                 "name": "Eureka",
                 "row": 3,
                 "prerequisites": ["Improved Ammunition","Robotechs II"],
+                "quote": "'Uee uee' - Gucochelechee"
+            },
+            {
+                "name": "Xenogeology",
+                "row": 9,
+                "prerequisites": ["Geological breakthrough"],
                 "quote": "'Uee uee' - Gucochelechee"
             }
         ]
@@ -263,7 +276,14 @@
                 ],
                 "prerequisites": ["Eureka"], 
                 "quote": "'Uee uee' - Gucochelechee"
+            },
+            {
+                "name": "LHC",
+                "row": 9,
+                "prerequisites": ["Geological breakthrough"],
+                "quote": "'Uee uee' - Gucochelechee"
             }
+
         ]
     },
     {

@@ -858,7 +858,22 @@
                 "row": 3,
                 "column": 5
             },
-
+            {
+                "name": "Project Libera",
+                "uniques": [
+                    "[-20]% Strength <for [All] units> <for [50] turns>",
+                    "[-20]% [Production] [in all cities]",
+                    "[-20]% [Science] [in all cities]",
+                    "[+100]% [Food] [in all cities]",
+                    "[+100]% [Happiness] [in all cities]",
+                    "Provides [-1] [Level 2 Ideology]",
+                    "Only available <when above [1] [Level 2 Ideology]>",
+                    "Provides [1] [Policies]",
+                    "Triggers the following global alert: [[Nation name] consumed Project Tempus]"
+                ],
+                "row": 3,
+                "column": 9
+            },
             {
                 "name": "Freedom Complete",
                 "uniques": [

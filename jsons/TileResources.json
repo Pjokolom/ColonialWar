@@ -794,6 +794,11 @@
         "resourceType": "Luxury"
     },
     {
+        "name": "Ale", 
+        "gold": 2,
+        "resourceType": "Luxury"
+    },
+    {
         "name": "Jewelry",
         "resourceType": "Luxury",
         "gold": 2,
