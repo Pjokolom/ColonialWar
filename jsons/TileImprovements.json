@@ -150,7 +150,7 @@
         "shortcutKey": "P"
     },
     {
-        "name": "Quarry",
+        "name": "Career",
         "turnsToBuild": 8,
         "uniques": [
             "[+3 Production] <after discovering [Improved Mining]>",

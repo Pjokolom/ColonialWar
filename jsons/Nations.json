@@ -56,7 +56,7 @@
         "innerColor": [255, 255, 0],
         "uniqueName": "Survivability",
         "uniques": [
-            "Double quantity of [Iron] produced",
+            "Double quantity of [Stone] produced",
             "[+1 Food] from every [Forest]",
             "No damage penalty for wounded units <for [All] units>",
             "Earn [20]% of killed [Xenos] unit's [Cost] as [Science] <hidden from users>"
@@ -279,7 +279,8 @@
 
             "Earn [30]% of killed [Xenos] unit's [Cost] as [Science] <hidden from users>",
             "[-15]% Production when constructing [Millitary] units [in all cities]",
-            "[+50]% Production when constructing [All] buildings [in all cities]"
+            "[+50]% Production when constructing [All] buildings [in all cities]",
+            "[3] free [Panzer] units appear"
 
 
         ],

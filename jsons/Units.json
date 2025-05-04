@@ -111,6 +111,18 @@
         "religiousStrength": 1000
     },
     {
+        "name": "Great Engineer",
+        "unitType": "Civilian",
+        "uniques": [
+            "Can speed up construction of a building",
+            "Is part of Great Person group [Engineer]",
+            "Great Person - [Production]",
+            "Unbuildable",
+            "Uncapturable"
+        ],
+        "movement": 4
+    },
+    {
         "name": "Sniper",
         "unitType": "Ranged Gunpowder",
         "movement": 1,
@@ -150,6 +162,23 @@
         "attackSound": "machinegun"
     },
     {
+        "name": "Mercenary",
+        "unitType": "Gunpowder",
+        "movement": 2,
+        "strength": 60,
+        "cost": 280,
+        "requiredTech": "Basic War Machines",
+        "promotions": ["Ambush Formation I","Ambush Formation II"],
+        "uniques": [
+            "[+20]% Strength <when fighting in [Foreign Land] tiles>",
+            "Can be purchased with [Gold] [in all cities]",
+            "Only available <after adopting [Mercenary Army]>",
+            "Mercenary", 
+            "Unbuildable"
+        ],
+        "attackSound": "shot"
+    },
+    {
         "name": "Saqr",
         "unitType": "Gunpowder",
         "movement": 2,
@@ -179,7 +208,8 @@
         "uniques": [
             
             "[-70]% Strength <vs [Armored] units> <when attacking>",
-            "[-100]% Strength <vs [Helicopter] units> <when attacking>"
+            "[-100]% Strength <vs [Helicopter] units> <when attacking>",
+            "[-3] Movement <in [Water] tiles>"
         
         ],
         "attackSound": "nonmetalhit"
@@ -195,7 +225,8 @@
             
             "[-70]% Strength <vs [Armored] units> <when attacking>",
             "[-100]% Strength <vs [Helicopter] units> <when attacking>",
-            "Can pass through impassable tiles"
+            "Can pass through impassable tiles",
+            "[-3] Movement <in [Water] tiles>"
         
         ],
         "attackSound": "nonmetalhit"
@@ -258,10 +289,27 @@
         "attackSound": "tankshot"
     },
     {
+        "name": "Panzer",
+        "unitType": "Armored",
+        "uniqueTo": "Swiss Union",
+        "movement": 6,
+        "strength": 75,
+        "rangedStrength": 45,
+        "cost": 450,
+        "upgradesTo": "Modern Armor",
+        "uniques": [
+            "Can move after attacking",
+            "No defensive terrain bonus",
+            "[+50]% Strength <vs [Land] units>",
+            "Unbuildable"
+        ],
+        "attackSound": "tankshot"
+    },
+    {
         "name": "Modern Armor",
         "unitType": "Armored",
         "movement": 5,
-        "strength": 75,
+        "strength": 80,
         "rangedStrength": 50,
         "range": 1,
         "cost": 400,
@@ -544,7 +592,7 @@
         "name": "Battleship",
         "unitType": "Ranged Water",
         "movement": 5,
-        "strength": 110,
+        "strength": 145,
         "rangedStrength": 75,
         "range": 3,
         "cost": 670,
@@ -556,6 +604,20 @@
         ],
         "promotions": ["Indirect Fire"],
         "attackSound": "shipguns"
+    },
+    {
+        "name": "Carrier",
+        "unitType": "Aircraft Carrier",
+        "movement": 5,
+        "requiredResource": "Oil",
+        "strength": 175,
+        "cost": 680,
+        "requiredTech": "Battleships",
+        "uniques": [
+            "Cannot attack",
+            "Can carry [3] [Aircraft] units",
+            "[+2] Sight"
+        ]
     },
     {
         "name": "Loja",
@@ -964,6 +1026,32 @@
         "attackSound": "metalhit"
     },
     {
+        "name": "Burai Kai",
+        "unitType": "Frame",
+        "movement": 5,
+        "strength": 100,
+        "uniqueTo": "Japan",
+        "range": 1,
+        "requiredResource": "Sakuradait",
+        "cost": 670,
+        "requiredTech": "Knightmare Gen.5",
+        "uniques": [
+
+            "[+200]% Strength <vs [Armored] units> <when attacking>",
+            "[+200]% Strength <vs [Frame] units> <when attacking>",
+            "[+165]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
+            "[+200]% Strength <vs [Gunpowder] units> <when attacking>",
+            "Can move after attacking",
+            "Only available <in cities with a [Weaponry Fabric]>",
+            "Only available <in cities with a [Tech Fabric]>",
+            "Withdraws before melee combat <with [50]% chance>",
+            "Never appears as a Barbarian unit",
+            "Limited to [5] per Civilization"
+
+        ],
+        "attackSound": "metalhit"
+    },
+    {
         "name": "Otila",
         "unitType": "Frame",
         "movement": 3,
@@ -981,6 +1069,32 @@
             "[+140]% Strength <vs [Gunpowder] units> <when attacking>",
             "[+300]% Strength <vs [Helicopter] units> <when attacking>",
             "[+45]% Strength <vs [Frame] units> <when attacking>",
+            "Only available <in cities with a [Weaponry Fabric]>",
+            "Only available <in cities with a [Tech Fabric]>",
+            "Withdraws before melee combat <with [50]% chance>",
+            "Never appears as a Barbarian unit"
+
+        ],
+        "attackSound": "metalhit"
+    },
+    {
+        "name": "Panzerhummel",
+        "unitType": "Frame",
+        "movement": 3,
+        "strength": 120,
+        "rangedStrength": 82,
+        "range": 2,
+        "uniqueTo": "Swiss Union",
+        "requiredResource": "Sakuradait",
+        "cost": 800,
+        "requiredTech": "Knightmare Gen.5",
+        "uniques": [
+
+            "[+320]% Strength <vs [Armored] units> <when attacking>",
+            "[+140]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
+            "[+140]% Strength <vs [Gunpowder] units> <when attacking>",
+            "[+260]% Strength <vs [Helicopter] units> <when attacking>",
+            "[+70]% Strength <vs [Frame] units> <when attacking>",
             "Only available <in cities with a [Weaponry Fabric]>",
             "Only available <in cities with a [Tech Fabric]>",
             "Withdraws before melee combat <with [50]% chance>",

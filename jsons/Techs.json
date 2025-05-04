@@ -184,6 +184,12 @@
                 "quote": "'Uee uee' - Gucochelechee"
             },
             {
+                "name": "Pharmaceuticals",
+                "row": 8,
+                "prerequisites": ["Satellite communications"],
+                "quote": "'Uee uee' - Gucochelechee"
+            },
+            {
                 "name": "Support Vechicles",
                 "row": 9,
                 "prerequisites": ["Satellite communications"],
@@ -216,27 +222,6 @@
                 "row": 7,
                 "prerequisites": ["Lazers"],
                 "uniques": ["Comment [[+15]% Strength for [Gunpowder]]"],
-                "quote": "'Uee uee' - Gucochelechee"
-            }
-        ]
-    },
-    {
-        "columnNumber": 7,
-        "era": "Information era",
-        "techCost": 1575,
-        "buildingCost": 500,
-        "wonderCost": 1250,
-        "techs": [
-            {
-                "name": "Heavy Jet Machines",
-                "row": 8,
-                "prerequisites": ["Improved Jet Engine"],
-                "quote": "'Uee uee' - Gucochelechee"
-            },
-            {
-                "name": "Eureka",
-                "row": 3,
-                "prerequisites": ["Improved Ammunition","Robotechs II"],
                 "quote": "'Uee uee' - Gucochelechee"
             }
         ]
@@ -327,7 +312,7 @@
     },
     {
         "columnNumber": 12,
-        "era": "Information era",
+        "era": "Frame era",
         "techCost": 10500,
         "buildingCost": 750,
         "wonderCost": 1250,
@@ -335,7 +320,7 @@
             {
                 "name": "Future Tech",
                 "row": 5,
-                "prerequisites": [],
+                "prerequisites": ["Knightmare Gen.5"],
                 "uniques": ["Comment [Who knows what the future holds?]","Can be continually researched"],
                 "quote": "'I think we agree, the past is over.' - George W. Bush"
             }
