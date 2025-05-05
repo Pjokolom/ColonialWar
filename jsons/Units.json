@@ -252,6 +252,7 @@
         "name": "Uuu",
         "unitType": "Xenos",
         "movement": 3,
+        "uniqueTo": "Barbarians",
         "strength": 65,
         "rangedStrength": 30,
         "range": 1,
