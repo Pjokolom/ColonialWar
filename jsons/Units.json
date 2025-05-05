@@ -237,15 +237,37 @@
         "movement": 2,
         "uniqueTo": "Barbarians",
         "strength": 100,
-        "cost": 110,
+        "cost": 200,
         "uniques": [
             
             "[-70]% Strength <vs [Armored] units> <when attacking>",
             "Limited to [1] per Civilization",
-            "Will not be displayed in Civilopedia"
+            "Will not be displayed in Civilopedia",
+            "[-3] Movement <in [Water] tiles>"
         
         ],
         "attackSound": "nonmetalhit"
+    },
+    {
+        "name": "Uuu",
+        "unitType": "Xenos",
+        "movement": 3,
+        "strength": 65,
+        "rangedStrength": 30,
+        "range": 1,
+        "cost": 200,
+        "promotions": ["Ignore terrain cost"],
+        "requiredResource": "Metall",
+        "uniques": [
+            "Can move after attacking",
+            "Unable to capture cities",
+            "Limited to [1] per Civilization",
+            "No defensive terrain bonus",
+            "[2] additional attacks per turn",
+            "[-3] Movement <in [Water] tiles>",
+            "Will not be displayed in Civilopedia"
+        ],
+        "attackSound": "shot"
     },
     {
         "name": "Mechanized Infantry",
@@ -977,6 +999,7 @@
         "name": "Sutherland",
         "unitType": "Frame",
         "movement": 5,
+        "replaces": "Panzerhummel",
         "strength": 100,
         "uniqueTo": "British Empire",
         "rangedStrength": 75,
@@ -1031,6 +1054,7 @@
         "movement": 5,
         "strength": 100,
         "uniqueTo": "Japan",
+        "replaces": "Panzerhummel",
         "range": 1,
         "requiredResource": "Sakuradait",
         "cost": 670,
@@ -1059,6 +1083,7 @@
         "rangedStrength": 82,
         "range": 2,
         "uniqueTo": "Russia",
+        "replaces": "Panzerhummel",
         "requiredResource": "Sakuradait",
         "cost": 800,
         "requiredTech": "Knightmare Gen.5",
@@ -1084,7 +1109,6 @@
         "strength": 120,
         "rangedStrength": 82,
         "range": 2,
-        "uniqueTo": "Swiss Union",
         "requiredResource": "Sakuradait",
         "cost": 800,
         "requiredTech": "Knightmare Gen.5",
@@ -1109,6 +1133,7 @@
         "movement": 6,
         "strength": 110,
         "uniqueTo": "East Republic",
+        "replaces": "Panzerhummel",
         "rangedStrength": 75,
         "range": 1,
         "requiredResource": "Sakuradait",
@@ -1139,6 +1164,7 @@
         "range": 4,
         "requiredResource": "Sakuradait",
         "uniqueTo": "Muachidi",
+        "replaces": "Panzerhummel",
         "cost": 850,
         "requiredTech": "Knightmare Gen.5",
         "uniques": [
@@ -1166,6 +1192,7 @@
         "range": 2,
         "requiredResource": "Sakuradait",
         "uniqueTo": "Chinese Federation",
+        "replaces": "Panzerhummel",
         "cost": 700,
         "requiredTech": "Knightmare Gen.5",
         "uniques": [

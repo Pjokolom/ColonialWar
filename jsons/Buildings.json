@@ -154,6 +154,48 @@
 		],
 		"requiredTech": "Xenoecology"
 	},
+    {
+		"name": "Russian Brevery",
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+        "uniqueTo": "Russia",
+        "replaces": "Brewery",
+        "happiness": 6,
+        "requiredNearbyImprovedResources": [
+                "Cibus",
+                "Biarka"
+        ],
+		"uniques": [
+            
+            "Provides [1] [Vodka]",
+            "[+1 Food] from [Cibus] tiles [in this city]",
+			"[+1 Food] from [Biarka] tiles [in this city]",
+            "[-7]% [Science] [in this city]"
+
+		],
+		"requiredTech": "Xenoecology"
+	},
+    {
+		"name": "American Brevery",
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+        "uniqueTo": "Russia",
+        "replaces": "Brewery",
+        "happiness": 6,
+        "requiredNearbyImprovedResources": [
+                "Cibus",
+                "Biarka"
+        ],
+		"uniques": [
+            
+            "Provides [1] [Wiskey]",
+            "[+1 Food] from [Cibus] tiles [in this city]",
+			"[+1 Food] from [Biarka] tiles [in this city]",
+            "[-7]% [Science] [in this city]"
+
+		],
+		"requiredTech": "Xenoecology"
+	},
 	{
         "name": "Seaport",
         "cost": 120,

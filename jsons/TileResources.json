@@ -799,6 +799,16 @@
         "resourceType": "Luxury"
     },
     {
+        "name": "Vodka", 
+        "gold": 2,
+        "resourceType": "Luxury"
+    },
+    {
+        "name": "Wiskey", 
+        "happiness": 1,
+        "resourceType": "Luxury"
+    },
+    {
         "name": "Jewelry",
         "resourceType": "Luxury",
         "gold": 2,

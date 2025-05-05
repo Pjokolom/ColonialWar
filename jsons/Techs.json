@@ -331,6 +331,22 @@
         ]
     },
     {
+        "columnNumber": 11,
+        "era": "Frame era",
+        "techCost": 2100,
+        "buildingCost": 500,
+        "wonderCost": 1250,
+        "techs": [
+            {
+                "name": "Energy Shields",
+                "row": 3,
+                "prerequisites": ["Knightmare Gen.5"], 
+                "uniques": ["Comment [Unlocks [Energy Shield] promotion for [Frame]]"],
+                "quote": "'Uee uee' - Gucochelechee"
+            }
+        ]
+    },
+    {
         "columnNumber": 12,
         "era": "Frame era",
         "techCost": 10500,
@@ -340,7 +356,7 @@
             {
                 "name": "Future Tech",
                 "row": 5,
-                "prerequisites": ["Knightmare Gen.5"],
+                "prerequisites": ["Energy Shields"],
                 "uniques": ["Comment [Who knows what the future holds?]","Can be continually researched"],
                 "quote": "'I think we agree, the past is over.' - George W. Bush"
             }
