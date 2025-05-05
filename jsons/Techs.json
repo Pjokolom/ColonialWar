@@ -280,7 +280,7 @@
             {
                 "name": "LHC",
                 "row": 9,
-                "prerequisites": ["Geological breakthrough"],
+                "prerequisites": ["Xenogeology"],
                 "quote": "'Uee uee' - Gucochelechee"
             }
 
@@ -308,7 +308,7 @@
                 "row": 1,
                 "uniques":
                 [
-                    "[+2 Happiness] [in all cities]"
+                    "[+6 Happiness] [in all cities]"
                 ],
                 "prerequisites": ["Sakura Engine"], 
                 "quote": "'Uee uee' - Gucochelechee"

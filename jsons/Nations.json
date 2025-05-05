@@ -84,8 +84,8 @@
         "neutralHello": "Greetings.",
         "hateHello": "What do you want?",
         "tradeRequest": "We need to talk some things.",
-        "outerColor": [28, 28, 100],
-        "innerColor": [223, 25, 25],
+        "outerColor": [40, 40, 70],
+        "innerColor": [255, 255, 255],
         "uniqueName": "Still Standing",
         "uniques": [
             "[+1] Sight <for [{Military} {Land}] units>", 
