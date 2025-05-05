@@ -257,7 +257,6 @@
         "range": 1,
         "cost": 200,
         "promotions": ["Ignore terrain cost"],
-        "requiredResource": "Metall",
         "uniques": [
             "Can move after attacking",
             "Unable to capture cities",
