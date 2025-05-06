@@ -179,7 +179,7 @@
 		"name": "American Brevery",
 		"maintenance": 1,
 		"hurryCostModifier": 25,
-        "uniqueTo": "Russia",
+        "uniqueTo": "United States of America",
         "replaces": "Brewery",
         "happiness": 6,
         "requiredNearbyImprovedResources": [

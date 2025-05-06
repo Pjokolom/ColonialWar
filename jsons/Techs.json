@@ -318,7 +318,7 @@
     {
         "columnNumber": 10,
         "era": "Frame era",
-        "techCost": 2100,
+        "techCost": 2670,
         "buildingCost": 500,
         "wonderCost": 1250,
         "techs": [
@@ -327,13 +327,19 @@
                 "row": 3,
                 "prerequisites": ["Knightmare Revolution"], 
                 "quote": "'Uee uee' - Gucochelechee"
+            },
+            {
+                "name": "Lazerguns",
+                "row": 9,
+                "prerequisites": ["LHC"], 
+                "quote": "'Uee uee' - Gucochelechee"
             }
         ]
     },
     {
         "columnNumber": 11,
         "era": "Frame era",
-        "techCost": 2100,
+        "techCost": 3200,
         "buildingCost": 500,
         "wonderCost": 1250,
         "techs": [

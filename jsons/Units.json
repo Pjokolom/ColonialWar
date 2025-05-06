@@ -116,6 +116,7 @@
         "uniques": [
             "Can speed up construction of a building",
             "Is part of Great Person group [Engineer]",
+            "Can instantly construct a [Production Center] improvement <by consuming this unit>",
             "Great Person - [Production]",
             "Unbuildable",
             "Uncapturable"
@@ -335,6 +336,7 @@
         "rangedStrength": 50,
         "range": 1,
         "cost": 400,
+        "obsoleteTech": "Lazerguns",
         "requiredTech": "Basic War Machines",
         "requiredResource": "Metall",
         "uniques": [
@@ -796,6 +798,30 @@
         "attackSound": "artillery"
     },
     {
+        "name": "Laztank",
+        "unitType": "Armored",
+        "movement": 5,
+        "strength": 80,
+        "rangedStrength": 75,
+        "range": 1,
+        "interceptRange": 1,
+        "cost": 400,
+        "requiredTech": "Lazerguns",
+        "requiredResource": "Metall",
+        "uniques": [
+            "[80]% chance to intercept air attacks",
+            "Can move after attacking",
+            "No defensive terrain bonus",
+            "Only available <in cities with a [Weaponry Fabric]>",
+            "Only available <in cities with a [Tech Fabric]>",
+            "[+50]% Strength <vs [Land] units>",
+            "[+50]% Strength <vs [Armored] units>",
+            "[+50]% Strength <vs [Helicopter] units>",
+            "Never appears as a Barbarian unit"
+        ],
+        "attackSound": "tankshot"
+    },
+    {
         "name": "Ganymede",
         "unitType": "Frame",
         "movement": 1,
@@ -905,6 +931,8 @@
         "uniques": [
             "[100]% chance to intercept air attacks",
             "[+150]% Strength <vs [Air] units>",
+            "[-70]% Strength <vs [Armored] units>",
+            "[-70]% Strength <vs [Gunpowder] units>",
             "[+150]% Strength <vs [Helicopter] units>",
             "Never appears as a Barbarian unit"
         ],
