@@ -359,4 +359,14 @@
 			"Can only be built <in [in annexed cities] cities>"],
 		"requiredTech": "PC Fabrics"
 	},
+    {
+        "name": "Time Machine",
+        "isWonder": true,
+        "uniques": [
+
+            "Only available <after adopting [Project Tempus]>"
+        ],
+        "requiredTech": "Armagedon",
+        "quote": "New time is comming"
+    },
 ]

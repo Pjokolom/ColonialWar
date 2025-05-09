@@ -16,5 +16,14 @@
         ],
         "victoryString": "The world has been convulsed by war. Many great and powerful civilizations have fallen, but you have survived - and emerged victorious! The world will long remember your glorious triumph!",
         "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
+    },
+    {
+        "name": "Project Tempus",
+        "victoryScreenHeader": "Adopt Project Tempus and\nbuild the Time Machine to win!",
+        "milestones": [
+            "Build [Time Machine]"
+        ],
+        "victoryString": "It's been a long ten years, but for everyone it's been a matter of weeks. We've erased all our enemies from our timeline, and we've achieved the future we dreamed of.",
+        "defeatString": "From now on, we are in a complete dystopia. Our government says they have achieved the 'highest good' by creating the world's only time machine. But for us, this is how life was from the beginning."
     }
 ]
