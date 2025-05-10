@@ -202,6 +202,7 @@
         "name": "Seaport",
         "cost": 120,
         "maintenance": 4,
+        "specialistSlots": {"Engineer": 1},
         "hurryCostModifier": 25,
         "uniques": [
             "Connects trade routes over water",
@@ -217,6 +218,7 @@
         "name": "Fabric Upgrade",
         "cost": 120,
         "maintenance": 2,
+        "specialistSlots": {"Engineer": 3},
 		"production": 4,
 		"requiredNearbyImprovedResources": ["Ruby"],
         "hurryCostModifier": 25,
