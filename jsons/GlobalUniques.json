@@ -10,6 +10,7 @@
         "[-1] Sight <for [Embarked] units>",
         "Enables Open Borders agreements",
         "Enables Defensive Pacts",
+        "Enables Research agreements"
 
         // TODO: Implement the uniques below
         // "[+20]% [Culture] [in all cities] <during a golden age>",
@@ -31,6 +32,10 @@
         "[-1 Gold] from every [Shopping Mall] <with [1] to [6] neighboring [Shopping Mall] tiles>",
         "[-2 Gold] from every [Shopping Mall] <with [2] to [6] neighboring [Shopping Mall] tiles>",
         "[+1 Culture] from every [Houses] <with [1] to [6] neighboring [Houses] tiles>",
+        "[+1 Production] from every [All] <with [1] to [6] neighboring [Production Center] tiles>",
+        "[-2 Production] from every [Production Center] <with [1] to [6] neighboring [Production Center] tiles>",
+        "[-2 Production] from every [Production Center] <with [2] to [6] neighboring [Production Center] tiles>",
+        "[-2 Production] from every [Production Center] <with [3] to [6] neighboring [Production Center] tiles>",
         "[+2 Gold] from every [Houses] <with [1] to [6] neighboring [City center] tiles>",
         "[+1 Science] from every [Houses] <with [1] to [6] neighboring [City center] tiles>",
         "[+1 Gold] from every [Houses] <with [1] to [6] neighboring [Shopping Mall] tiles>",

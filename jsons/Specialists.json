@@ -28,6 +28,7 @@
     {
         "name": "Engineer",
         "production": 2,
+        "greatPersonPoints": { "Great Engineer": 15 },
         "color": [139,69,19]
     }
 ]

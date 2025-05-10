@@ -64,6 +64,7 @@
 		"name": "Weaponry Fabric",
 		"maintenance": 5,
 		"production": 1,
+        "specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
 		"requiredTech": "Weaponry Fabrics"
 	},
@@ -71,6 +72,7 @@
 		"name": "Tech Fabric",
 		"maintenance": 5,
 		"production": 1,
+        "specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
 		"requiredTech": "Tech Fabrics"
 	},
