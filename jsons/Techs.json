@@ -120,6 +120,13 @@
         "buildingCost": 500,
         "wonderCost": 1250,
         "techs": [
+
+            {
+                "name": "Pipelines",
+                "row": 7,
+                "prerequisites": ["Xenology"],
+                "quote": "'i am fucking can't speak' - Fish"
+            },
             {
                 "name": "Xenoecology",
                 "row": 9,
