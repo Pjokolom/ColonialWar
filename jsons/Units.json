@@ -51,6 +51,24 @@
         ],
         "cost": 106
     },
+        {
+        "name": "Thor",
+        "unitType": "Helicopter",
+        "movement": 5,
+        "uniqueTo": "United States of America",
+        "requiredTech": "Improved Jet Engine",
+        "promotions": ["Ignore terrain cost"],
+        "requiredResource": "Metall",
+        "uniques": [
+            "Can build [All] improvements on tiles",
+            "Can build [all] improvements at a [+140]% rate",
+            "Can build [Land] improvements on tiles",
+            "Automation is a primary action",
+            "Never appears as a Barbarian unit",
+            "Only available <in cities with a [Tech Fabric]>"
+        ],
+        "cost": 100
+    },
     {
 		"name": "Colonizer",
 		"unitType": "Civilian",
@@ -348,7 +366,7 @@
             "No defensive terrain bonus",
             "Only available <in cities with a [Weaponry Fabric]>",
             "Only available <in cities with a [Tech Fabric]>",
-            "[+50]% Strength <vs [Land] units>",
+            "[+75]% Strength <vs [Land] units>",
             "Never appears as a Barbarian unit"
         ],
         "attackSound": "tankshot"
@@ -790,6 +808,7 @@
         "requiredTech": "Lazers",
         "uniques": [
 
+            "Limited to [1] per Civilization",
             "[+120]% Strength <vs [Armored] units> <when attacking>",
             "No defensive terrain bonus",
             "Must set up to ranged attack",
@@ -818,9 +837,9 @@
             "No defensive terrain bonus",
             "Only available <in cities with a [Weaponry Fabric]>",
             "Only available <in cities with a [Tech Fabric]>",
-            "[+50]% Strength <vs [Land] units>",
-            "[+50]% Strength <vs [Armored] units>",
-            "[+50]% Strength <vs [Helicopter] units>",
+            "[+80]% Strength <vs [Land] units>",
+            "[+65]% Strength <vs [Armored] units>",
+            "[+75]% Strength <vs [Helicopter] units>",
             "Never appears as a Barbarian unit"
         ],
         "attackSound": "tankshot"
