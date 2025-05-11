@@ -171,20 +171,6 @@
         ]
     },
 
-    {
-        "name": "Archaeological Dig",
-        "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains","Marsh","Snow"],
-        "culture": 6,
-        "gold": 2,
-        "science": 2,
-        "uniques": [
-            "Can be built outside your borders",
-            "Can only be built to improve a resource",
-            "Removes removable features when built",
-            "Pillaging this improvement yields approximately [+20 Gold]",
-            "Excluded from map editor"
-        ]
-    },
 
     // Military improvement
     {

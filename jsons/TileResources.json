@@ -827,14 +827,7 @@
         "uniques": ["Can only be created by Mercantile City-States"]
     },
 
-    // Ingame Mechanics
-    {
-        "name": "Antiquity Site", 
-        "resourceType": "Bonus",
-        "terrainsCanBeFoundOn": ["Plains","Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains","Marsh","Snow"],
-        "improvement": "Archaeological Dig",
-        "uniques": ["Generated on every [150] tiles"]
-    },
+
     {
         "name": "Factories", 
         "resourceType": "Strategic",

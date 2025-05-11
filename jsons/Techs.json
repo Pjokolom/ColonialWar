@@ -243,7 +243,7 @@
         {
         "columnNumber": 7,
         "era": "Information era",
-        "techCost": 1575,
+        "techCost": 1700,
         "buildingCost": 500,
         "wonderCost": 1250,
         "techs": [
@@ -270,7 +270,7 @@
         {
         "columnNumber": 8,
         "era": "Frame era",
-        "techCost": 1575,
+        "techCost": 2000,
         "buildingCost": 500,
         "wonderCost": 1250,
         "techs": [
@@ -296,7 +296,7 @@
     {
         "columnNumber": 9,
         "era": "Frame era",
-        "techCost": 2100,
+        "techCost": 2460,
         "buildingCost": 500,
         "wonderCost": 1250,
         "techs": [
@@ -325,7 +325,7 @@
     {
         "columnNumber": 10,
         "era": "Frame era",
-        "techCost": 2670,
+        "techCost": 3200,
         "buildingCost": 500,
         "wonderCost": 1250,
         "techs": [
@@ -346,7 +346,7 @@
     {
         "columnNumber": 11,
         "era": "Frame era",
-        "techCost": 3200,
+        "techCost": 4800,
         "buildingCost": 500,
         "wonderCost": 1250,
         "techs": [
@@ -362,7 +362,7 @@
     {
         "columnNumber": 12,
         "era": "Frame era",
-        "techCost": 10500,
+        "techCost": 8000,
         "buildingCost": 750,
         "wonderCost": 1250,
         "techs": [
