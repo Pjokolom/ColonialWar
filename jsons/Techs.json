@@ -193,7 +193,7 @@
             {
                 "name": "Pharmaceuticals",
                 "row": 8,
-                "prerequisites": ["Satellite communications"],
+                "prerequisites": ["Satellite communications","Pipelines"],
                 "quote": "'Uee uee' - Gucochelechee"
             },
             {
