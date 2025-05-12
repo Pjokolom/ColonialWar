@@ -369,7 +369,7 @@
             {
                 "name": "Armagedon",
                 "row": 5,
-                "prerequisites": ["Energy Shields","Pipelines"],
+                "prerequisites": ["Energy Shields"],
                 "uniques": ["Comment [Who knows what the future holds?]","Can be continually researched"],
                 "quote": "'I think we agree, the past is over.' - George W. Bush"
             }
