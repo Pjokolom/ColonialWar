@@ -173,6 +173,12 @@
                 "quote": "'Goo gooo' - Obeoben"
             },
             {
+                "name": "Resort Centers",
+                "row": 6,
+                "prerequisites": ["Pipelines"],
+                "quote": "'Goo gooo' - Obeoben"
+            },
+            {
                 "name": "Rockets",
                 "row": 4,
                 "prerequisites": ["Battleships"],

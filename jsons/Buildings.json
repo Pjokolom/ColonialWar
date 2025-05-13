@@ -66,6 +66,14 @@
 		"production": 1,
         "specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
+        "uniques": 
+
+            [
+
+            "Unbuildable <if [Resort Center] is constructed> [in this city]"
+
+            ],
+
 		"requiredTech": "Weaponry Fabrics"
 	},
 	{
@@ -74,6 +82,13 @@
 		"production": 1,
         "specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
+                "uniques": 
+        
+            [
+
+            "Unbuildable <if [Resort Center] is constructed> [in this city]"
+
+            ],
 		"requiredTech": "Tech Fabrics"
 	},
 	{
@@ -278,7 +293,7 @@
         "requiredBuilding": "Secret Laboratory",
         "hurryCostModifier": 25,
         "uniques": [
-            "Will not be displayed in Civilopedia",
+            "Will not be displayed in Civilopedia"
         ],
         "requiredTech": "Robotechs"
     },
@@ -326,6 +341,22 @@
             "Cost increases by [30] per owned city"
         ],
         "requiredTech": "Satellite communications"
+    },
+    	{
+        "name": "Resort Center",
+        "cost": 450,
+        "percentStatBonus": {"happiness": 15},
+        "uniques": [
+
+                "Must be next to [Coast]",
+                "[+2 Gold, +1 Happiness] from [Coast] tiles [in this city]",
+                "[+2 Culture, +1 Happiness] from [Mountain] tiles [in this city]",
+                "[+1 Culture, +1 Gold, +1 Happiness] from [Lake] tiles [in this city]",
+                "[-120]% Production when constructing [All] units [in this city]"
+                
+
+        ],
+        "requiredTech": "Resort Centers"
     },
 	{
         "name": "Muachidi TV company",
