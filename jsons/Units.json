@@ -412,8 +412,37 @@
             "Only available <in cities with a [Tech Fabric]>",
             "Only available <in cities with a [Monster Tank Blueprint]>",
             "[+50]% Strength <vs [Land] units>",
+            "[+50]% Strength <vs [Land] units> <when defending>",
             "Never appears as a Barbarian unit",
             "[3] additional attacks per turn",
+            "Will not be displayed in Civilopedia",
+            "Limited to [2] per Civilization"
+        ],
+        "attackSound": "tankshot"
+    },
+            {
+        "name": "Monster Spider",
+        "unitType": "Armored",
+        "movement": 3,
+        "interceptRange": 2,
+        "strength": 140,
+        "rangedStrength": 75,
+        "range": 2,
+        "cost": 1100,
+        "promotions": ["Ignore terrain cost"],
+        "requiredResource": "Metall",
+        "uniques": [
+            
+            "[100]% chance to intercept air attacks",            
+            "Consumes [1] [Metall]",
+            "Can move after attacking",
+            "Only available <in cities with a [Weaponry Fabric]>",
+            "Only available <in cities with a [Tech Fabric]>",
+            "Only available <in cities with a [Monster Spider Blueprint]>",
+            "[+45]% Strength <vs [Land] units>",
+            "[+65]% Strength <vs [Land] units> <when defending>",
+            "Never appears as a Barbarian unit",
+            "[1] additional attacks per turn",
             "Will not be displayed in Civilopedia",
             "Limited to [2] per Civilization"
         ],

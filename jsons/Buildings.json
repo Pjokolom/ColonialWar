@@ -233,7 +233,7 @@
     },
     	{
         "name": "Secret Laboratory",
-        "cost": 120,
+        "cost": 800,
         "maintenance": 2,
         "isNationalWonder": true,
         "specialistSlots": {"Scientist": 3},
@@ -254,7 +254,18 @@
         "requiredBuilding": "Secret Laboratory",
         "hurryCostModifier": 25,
         "uniques": [
-
+            "Will not be displayed in Civilopedia",
+        ],
+        "requiredTech": "Robotechs"
+    },
+    {
+        "name": "Monster Spider Blueprint",
+        "cost": 1200,
+        "maintenance": 2,
+        "requiredBuilding": "Secret Laboratory",
+        "hurryCostModifier": 25,
+        "uniques": [
+            "Will not be displayed in Civilopedia",
         ],
         "requiredTech": "Robotechs"
     },
