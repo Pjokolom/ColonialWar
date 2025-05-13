@@ -433,6 +433,8 @@
         "requiredResource": "Metall",
         "uniques": [
             
+            "Cannot enter ocean tiles",
+            "May travel on Water tiles without embarking",
             "[100]% chance to intercept air attacks",            
             "Consumes [1] [Metall]",
             "Can move after attacking",

@@ -783,11 +783,7 @@
         "gold": 2,
         "resourceType": "Luxury"
     },
-    {
-        "name": "Cloves", 
-        "gold": 2,
-        "resourceType": "Luxury"
-    },
+
     {
         "name": "Pepper", 
         "gold": 2,
