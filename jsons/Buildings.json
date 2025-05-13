@@ -247,6 +247,30 @@
         ],
         "requiredTech": "Robotechs"
     },
+        {
+        "name": "Augmentation Center",
+        "uniques": [
+
+            "Unbuildable",
+            "Unsellable",
+            "All newly-trained [Gunpowder] units [in this city] receive the [Augmentations] promotion"
+
+        ],
+        "requiredTech": "Iron Working"
+    },
+            {
+        "name": "Cloning Machine",
+        "uniques": [
+
+            "Unbuildable",
+            "Unsellable",
+            "[+50]% Production when constructing [Gunpowder] units [in this city]",
+            "[+50]% Production when constructing [Ranged Gunpowder] units [in this city]"
+
+
+        ],
+        "requiredTech": "Iron Working"
+    },
         	{
         "name": "Monster Tank Blueprint",
         "cost": 1200,

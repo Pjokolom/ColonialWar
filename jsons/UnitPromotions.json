@@ -1381,5 +1381,15 @@
             "[+50]% Strength <when defending>",
             "[+100]% Strength <when defending> <vs [Ranged] units> <with [40]% chance>"
     ]
+	},
+        {
+		"name": "Augmentations", 
+        "prerequisites": [],
+		"uniques": [
+            
+            "[+20]% Strength <when defending>",
+            "[+10]% Strength <when attacking>",
+            "[+1] Movement"
+    ]
 	}
 ]

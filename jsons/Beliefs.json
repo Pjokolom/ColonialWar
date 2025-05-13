@@ -47,17 +47,27 @@
     {
         "name": "Cathedrals",
         "type": "Follower",
-        "uniques": ["May buy [Cathedral] buildings for [150] [Faith] [in cities following this religion]"]
+        "uniques": ["May buy [Cathedral] buildings for [500] [Faith] [in cities following this religion]"]
     },
     {
         "name": "Protestant Churches",
         "type": "Follower",
-        "uniques": ["May buy [Protestant Church] buildings for [150] [Faith] [in cities following this religion]"]
+        "uniques": ["May buy [Protestant Church] buildings for [500] [Faith] [in cities following this religion]"]
     },
     {
         "name": "Wisdom",
         "type": "Follower",
         "uniques": ["[+2 Gold] from every [Hill]"]
+    },
+        {
+        "name": "Sacred Augmentations",
+        "type": "Follower",
+        "uniques": ["May buy [Augmentation Center] buildings for [500] [Faith] [in cities following this religion]"]
+    },
+            {
+        "name": "Army of Clones",
+        "type": "Follower",
+        "uniques": ["May buy [Cloning Machine] buildings for [500] [Faith] [in cities following this religion]"]
     },
 
     ////////////////////////////////////// Enhancer beliefs ///////////////////////////////////////
@@ -65,7 +75,7 @@
         "name": "Apostolic Palace",
         "type": "Enhancer",
         "uniques": [
-            "[+5 Production, +5 Gold, +5 Food, +5 Science, +5 Culture, +5 Faith] from every [Fortification II]",
+            "[+5 Production, +2 Gold, +5 Food, +5 Science, +2 Culture, +5 Faith] from every [Fortification II]",
             "Only available <after adopting [Reformation]>"
         ]
     },
@@ -82,5 +92,15 @@
         "uniques": [
             "May buy [{Military} {Land} {non-[Mercenary]}] units with [Faith] for [2] times their normal Production cost <in this city>"
         ]
-    }
+    },
+    	{
+		"name": "Effective Propaganda",
+		"type": "Enhancer",
+		"uniques": [
+            
+            "Religion naturally spreads to cities [+3] tiles away",
+            "[+30]% Natural religion spread [in all cities]"
+        
+        ]
+	}
 ]
