@@ -256,7 +256,7 @@
             "All newly-trained [Gunpowder] units [in this city] receive the [Augmentations] promotion"
 
         ],
-        "requiredTech": "Iron Working"
+        "requiredTech": "Lazers"
     },
             {
         "name": "Cloning Machine",
@@ -269,7 +269,7 @@
 
 
         ],
-        "requiredTech": "Iron Working"
+        "requiredTech": "Lazers"
     },
         	{
         "name": "Monster Tank Blueprint",
