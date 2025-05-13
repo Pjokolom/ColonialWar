@@ -231,6 +231,33 @@
         ],
         "requiredTech": "Lazers"
     },
+    	{
+        "name": "Secret Laboratory",
+        "cost": 120,
+        "maintenance": 2,
+        "isNationalWonder": true,
+        "specialistSlots": {"Scientist": 3},
+		"production": 4,
+        "requiredBuilding": "Laboratory",
+        "hurryCostModifier": 25,
+        "uniques": [
+
+			"[+5]% Production when constructing [Armored] units [in this city]"
+
+        ],
+        "requiredTech": "Robotechs"
+    },
+        	{
+        "name": "Monster Tank Blueprint",
+        "cost": 1200,
+        "maintenance": 2,
+        "requiredBuilding": "Secret Laboratory",
+        "hurryCostModifier": 25,
+        "uniques": [
+
+        ],
+        "requiredTech": "Robotechs"
+    },
 	{
         "name": "Fortification II",
         "cityStrength": 15,
