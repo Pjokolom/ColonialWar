@@ -178,6 +178,7 @@
         "uniqueTo": "Russia",
         "replaces": "Brewery",
         "happiness": 6,
+	"culture": 5,
         "requiredNearbyImprovedResources": [
                 "Cibus",
                 "Biarka"
