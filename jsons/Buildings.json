@@ -351,8 +351,8 @@
 
                 "Must be next to [Coast]",
                 "[+2 Gold, +1 Happiness] from [Coast] tiles [in this city]",
-                "[+2 Culture, +1 Happiness] from [Mountain] tiles [in this city]",
-                "[+1 Culture, +1 Gold, +1 Happiness] from [Lake] tiles [in this city]",
+                "[+1 Happiness] from [Mountain] tiles [in this city]",
+                "[+1 Gold, +1 Happiness] from [Lake] tiles [in this city]",
                 "[-120]% Production when constructing [All] units [in this city]"
                 
 
