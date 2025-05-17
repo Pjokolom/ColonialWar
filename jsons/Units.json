@@ -1194,7 +1194,6 @@
         "name": "Estrella",
         "unitType": "Frame",
         "movement": 4,
-        "replaces": "Panzerhummel",
         "strength": 100,
         "rangedStrength": 80,
         "range": 1,
@@ -1238,6 +1237,36 @@
             "Only available <in cities with a [Tech Fabric]>",
             "Withdraws before melee combat <with [50]% chance>",
             "Never appears as a Barbarian unit"
+
+        ],
+        "attackSound": "metalhit"
+    },
+        {
+        "name": "Portman",
+        "unitType": "Frame",
+        "movement": 3,
+        "strength": 90,
+        "rangedStrength": 60,
+        "range": 1,
+        "requiredResource": "Sakuradait",
+        "cost": 670,
+        "requiredTech": "Portman I",
+        "uniques": [
+
+            "[+150]% Strength <vs [Armored] units> <when attacking>",
+            "[+150]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
+            "[+150]% Strength <vs [Gunpowder] units> <when attacking>",
+            "[+120]% Strength <vs [Helicopter] units> <when attacking>",
+            "[+80]% Strength <vs [Water] units> <when attacking>",
+            "Can move after attacking",
+            "Only available <in cities with a [Weaponry Fabric]>",
+            "Only available <in cities with a [Tech Fabric]>",
+            "Only available <in cities with a [Port]>",
+            "Withdraws before melee combat <with [50]% chance>",
+            "[+80]% Strength <vs [Water] units> <when defending> <with [60]% chance>",
+            "Never appears as a Barbarian unit",
+            "Can see invisible [Submarine] units",
+            "May travel on Water tiles without embarking"
 
         ],
         "attackSound": "metalhit"

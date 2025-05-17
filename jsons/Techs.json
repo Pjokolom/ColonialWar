@@ -350,6 +350,12 @@
                 "prerequisites": ["Knightmare Revolution"], 
                 "quote": "'Uee uee' - Gucochelechee"
             },
+                        {
+                "name": "Portman I",
+                "row": 4,
+                "prerequisites": ["Knightmare Revolution"], 
+                "quote": "'Uee uee' - Gucochelechee"
+            },
             {
                 "name": "Lazerguns",
                 "row": 9,
