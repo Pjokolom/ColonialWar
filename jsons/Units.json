@@ -1,7 +1,5 @@
 [
-    // Info according to Civilization Wiki and https://www.civfanatics.com/civ5/info/units/gods-and-kings/
 
-    /* Ancient Era */
     {
         "name": "Worker",
         "unitType": "Civilian",
@@ -469,7 +467,8 @@
             "Only available <in cities with a [Weaponry Fabric]>",
             "[+300]% Strength <vs [Armored] units> <when attacking>",
             "Never appears as a Barbarian unit",
-            "[+35]% Strength <vs cities> <when attacking>"
+            "[+35]% Strength <vs cities> <when attacking>",
+            "[+150]% Strength <vs [Frame] units> <when attacking>",
 
         ],
 
@@ -490,6 +489,7 @@
             
             "Only available <in cities with a [Weaponry Fabric]>",
             "[+400]% Strength <vs [Armored] units> <when attacking>",
+            "[+200]% Strength <vs [Frame] units> <when attacking>",
             "Never appears as a Barbarian unit"
 
         ],
@@ -1166,7 +1166,7 @@
         "name": "Sutherland",
         "unitType": "Frame",
         "movement": 5,
-        "replaces": "Panzerhummel",
+        "replaces": "Estrella",
         "strength": 100,
         "uniqueTo": "British Empire",
         "rangedStrength": 75,
@@ -1177,6 +1177,33 @@
         "uniques": [
 
             "[+200]% Strength <vs [Armored] units> <when attacking>",
+            "[+120]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
+            "[+200]% Strength <vs [Gunpowder] units> <when attacking>",
+            "[+200]% Strength <vs [Helicopter] units> <when attacking>",
+            "[+120]% Strength <vs [Frame] units> <when attacking>",
+            "Can move after attacking",
+            "Only available <in cities with a [Weaponry Fabric]>",
+            "Only available <in cities with a [Tech Fabric]>",
+            "Withdraws before melee combat <with [50]% chance>",
+            "Never appears as a Barbarian unit"
+
+        ],
+        "attackSound": "metalhit"
+    },
+        {
+        "name": "Estrella",
+        "unitType": "Frame",
+        "movement": 4,
+        "replaces": "Panzerhummel",
+        "strength": 100,
+        "rangedStrength": 80,
+        "range": 1,
+        "cost": 800,
+        "requiredResource": "Sakuradait",
+        "requiredTech": "Knightmare Gen.5",
+        "uniques": [
+
+            "[+270]% Strength <vs [Armored] units> <when attacking>",
             "[+120]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+200]% Strength <vs [Gunpowder] units> <when attacking>",
             "[+200]% Strength <vs [Helicopter] units> <when attacking>",
@@ -1216,12 +1243,66 @@
         "attackSound": "metalhit"
     },
     {
+        "name": "Panzerhummel",
+        "unitType": "Frame",
+        "movement": 3,
+        "strength": 100,
+        "rangedStrength": 90,
+        "range": 2,
+        "requiredResource": "Sakuradait",
+        "cost": 670,
+        "replaces": "Burai",
+        "uniqueTo": "Swiss Union",
+        "requiredTech": "Knightmare Revolution",
+        "uniques": [
+
+            "[+300]% Strength <vs [Armored] units> <when attacking>",
+            "[+165]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
+            "[+300]% Strength <vs [Gunpowder] units> <when attacking>",
+            "[+165]% Strength <vs [Helicopter] units> <when attacking>",
+            "[+80]% Strength <vs [Water] units> <when attacking>",
+            "Can move after attacking",
+            "Only available <in cities with a [Weaponry Fabric]>",
+            "Only available <in cities with a [Tech Fabric]>",
+            "Withdraws before melee combat <with [50]% chance>",
+            "Never appears as a Barbarian unit"
+
+        ],
+        "attackSound": "metalhit"
+    },
+        {
+        "name": "Gardmare",
+        "unitType": "Frame",
+        "movement": 3,
+        "uniqueTo": "United States of America",
+        "strength": 70,
+        "rangedStrength": 70,
+        "range": 2,
+        "requiredResource": "Sakuradait",
+        "cost": 500,
+        "requiredTech": "Knightmare Revolution",
+        "uniques": [
+
+            "[+300]% Strength <vs [Armored] units> <when attacking>",
+            "[+165]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
+            "[+80]% Strength <vs [Frame] units> <when attacking>",
+            "[+165]% Strength <vs [Helicopter] units> <when attacking>",
+            "Can move after attacking",
+            "Only available <in cities with a [Weaponry Fabric]>",
+            "Only available <in cities with a [Tech Fabric]>",
+            "Withdraws before melee combat <with [50]% chance>",
+            "Never appears as a Barbarian unit"
+
+        ],
+        "attackSound": "metalhit"
+    },
+    {
         "name": "Burai Kai",
         "unitType": "Frame",
         "movement": 5,
         "strength": 100,
         "uniqueTo": "Japan",
-        "replaces": "Panzerhummel",
+        "replaces": "Estrella",
         "range": 1,
         "requiredResource": "Sakuradait",
         "cost": 670,
@@ -1250,7 +1331,7 @@
         "rangedStrength": 82,
         "range": 2,
         "uniqueTo": "Russia",
-        "replaces": "Panzerhummel",
+        "replaces": "Estrella",
         "requiredResource": "Sakuradait",
         "cost": 800,
         "requiredTech": "Knightmare Gen.5",
@@ -1270,37 +1351,12 @@
         "attackSound": "metalhit"
     },
     {
-        "name": "Panzerhummel",
-        "unitType": "Frame",
-        "movement": 3,
-        "strength": 120,
-        "rangedStrength": 82,
-        "range": 2,
-        "requiredResource": "Sakuradait",
-        "cost": 800,
-        "requiredTech": "Knightmare Gen.5",
-        "uniques": [
-
-            "[+320]% Strength <vs [Armored] units> <when attacking>",
-            "[+140]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
-            "[+140]% Strength <vs [Gunpowder] units> <when attacking>",
-            "[+260]% Strength <vs [Helicopter] units> <when attacking>",
-            "[+70]% Strength <vs [Frame] units> <when attacking>",
-            "Only available <in cities with a [Weaponry Fabric]>",
-            "Only available <in cities with a [Tech Fabric]>",
-            "Withdraws before melee combat <with [50]% chance>",
-            "Never appears as a Barbarian unit"
-
-        ],
-        "attackSound": "metalhit"
-    },
-    {
         "name": "Tanecznik",
         "unitType": "Frame",
         "movement": 6,
         "strength": 110,
         "uniqueTo": "East Republic",
-        "replaces": "Panzerhummel",
+        "replaces": "Estrella",
         "rangedStrength": 75,
         "range": 1,
         "requiredResource": "Sakuradait",
@@ -1331,7 +1387,7 @@
         "range": 4,
         "requiredResource": "Sakuradait",
         "uniqueTo": "Muachidi",
-        "replaces": "Panzerhummel",
+        "replaces": "Estrella",
         "cost": 850,
         "requiredTech": "Knightmare Gen.5",
         "uniques": [
@@ -1359,7 +1415,7 @@
         "range": 2,
         "requiredResource": "Sakuradait",
         "uniqueTo": "Chinese Federation",
-        "replaces": "Panzerhummel",
+        "replaces": "Estrella",
         "cost": 700,
         "requiredTech": "Knightmare Gen.5",
         "uniques": [
