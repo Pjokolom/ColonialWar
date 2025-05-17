@@ -47,6 +47,24 @@
 		"uniques": ["Indicates the capital city",
 		"Provides [2] [Metall]"]
 	},
+        {
+		"name": "Celtic City Core",
+		"isNationalWonder": true,
+		"production": 2,
+		"science": 1,
+		"uniqueTo": "East Republic",
+        "replaces": "City Core",
+		"gold": 2,
+		"culture": 1,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": [
+
+            "Indicates the capital city",
+		    "Provides [1] [Celtland Policy]"
+
+    ]
+	},
     {
 		"name": "Chinese Palace",
 		"isNationalWonder": true,
@@ -70,7 +88,6 @@
 
             [
 
-            "Unbuildable <if [Resort Center] is constructed> [in this city]"
 
             ],
 
@@ -85,8 +102,6 @@
                 "uniques": 
         
             [
-
-            "Unbuildable <if [Resort Center] is constructed> [in this city]"
 
             ],
 		"requiredTech": "Tech Fabrics"

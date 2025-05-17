@@ -362,12 +362,15 @@
         "requiredTech": "Basic War Machines",
         "requiredResource": "Metall",
         "uniques": [
+
+            "Consumes [2] [Metall]",
             "Can move after attacking",
             "No defensive terrain bonus",
             "Only available <in cities with a [Weaponry Fabric]>",
             "Only available <in cities with a [Tech Fabric]>",
             "[+75]% Strength <vs [Land] units>",
             "Never appears as a Barbarian unit"
+
         ],
         "attackSound": "tankshot"
     },
@@ -384,6 +387,8 @@
         "requiredTech": "Basic War Machines",
         "requiredResource": "Metall",
         "uniques": [
+
+            "Consumes [2] [Metall]",
             "Can move after attacking",
             "No defensive terrain bonus",
             "Only available <in cities with a [Weaponry Fabric]>",
@@ -391,6 +396,7 @@
             "[+50]% Strength <vs [Land] units>",
             "Never appears as a Barbarian unit",
             "[1] additional attacks per turn"
+
         ],
         "attackSound": "tankshot"
     },
@@ -405,7 +411,7 @@
         "requiredResource": "Metall",
         "uniques": [
 
-            "Consumes [1] [Metall]",
+            "Consumes [3] [Metall]",
             "Can move after attacking",
             "No defensive terrain bonus",
             "Only available <in cities with a [Weaponry Fabric]>",
@@ -436,7 +442,7 @@
             "Cannot enter ocean tiles",
             "May travel on Water tiles without embarking",
             "[100]% chance to intercept air attacks",            
-            "Consumes [1] [Metall]",
+            "Consumes [4] [Metall]",
             "Can move after attacking",
             "Only available <in cities with a [Weaponry Fabric]>",
             "Only available <in cities with a [Tech Fabric]>",
@@ -518,6 +524,7 @@
         "rangedStrength": 80,
         "range": 8,
         "cost": 175,
+        "requiredResource": "Metall", 
         "requiredTech": "Drones",
         "uniques": [
             
@@ -540,6 +547,7 @@
         "strength": 70,
         "rangedStrength": 70,
         "range": 8,
+        "requiredResource": "Metall",
         "cost": 100,
         "requiredTech": "Drones",
         "uniques": [
@@ -563,9 +571,11 @@
         "rangedStrength": 60,
         "range": 5,
         "cost": 320,
+        "requiredResource": "Metall",
         "requiredTech": "Long Range Weapons",
         "uniques": [
 
+            "Consumes [1] [Metall]",
             "[+200]% Strength <vs cities> <when attacking>",
             "[+100]% Strength <vs [Armored] units> <when attacking>",
             "No defensive terrain bonus",
@@ -593,6 +603,7 @@
         "requiredTech": "Long Range Weapons",
         "uniques": [
 
+            "Consumes [1] [Metall]",
             "[+150]% Strength <vs cities> <when attacking>",
             "[+150]% Strength <vs [Armored] units> <when attacking>",
             "No defensive terrain bonus",
@@ -626,8 +637,11 @@
         "strength": 35,
         "rangedStrength": 65,
         "cost": 360,
+        "requiredResource": "Oil",
         "requiredTech": "War Ships",
         "uniques": [
+
+            "Consumes [1] [Metall]",
             "[+75]% Strength <when attacking>",
             "Can only attack [Water] tiles",
             "Never appears as a Barbarian unit"
@@ -643,8 +657,10 @@
         "movement": 6,
         "strength": 42,
         "cost": 360,
+        "requiredResource": "Oil",
         "requiredTech": "War Ships",
         "uniques": [
+            "Consumes [1] [Metall]",
             "[+75]% Strength <when attacking>",
             "Can only attack [Water] tiles",
             "Never appears as a Barbarian unit"
@@ -658,8 +674,10 @@
         "strength": 50,
         "interceptRange": 2,
         "cost": 300,
+        "requiredResource": "Oil",
         "requiredTech": "War Ships",
         "uniques": [
+            "Consumes [1] [Metall]",
             "Can see invisible [Submarine] units",
             "[100]% chance to intercept air attacks",
             "Can move after attacking",
@@ -679,6 +697,7 @@
         "cost": 400,
         "requiredTech": "War Ships",
         "uniques": [
+            "Consumes [2] [Metall]",
             "Can see invisible [Submarine] units",
             "[60]% chance to intercept air attacks",
             "Withdraws before melee combat <with [80]% chance>",
@@ -701,6 +720,7 @@
         "requiredResource": "Oil",
         "requiredTech": "Battleships",
         "uniques": [
+            "Consumes [4] [Metall]",
             "Never appears as a Barbarian unit",
             "Only available <in cities with a [Seaport]>"
         ],
@@ -716,6 +736,7 @@
         "cost": 680,
         "requiredTech": "Battleships",
         "uniques": [
+            "Consumes [4] [Metall]",
             "Cannot attack",
             "Can carry [3] [Aircraft] units",
             "[+2] Sight"
@@ -734,6 +755,7 @@
         "requiredTech": "Battleships",
         "uniques": [
 
+            "Consumes [4] [Metall]",
             "Never appears as a Barbarian unit", 
             "Only available <in cities with a [Seaport]>",
             "Limited to [1] per Civilization"
@@ -754,7 +776,8 @@
         "requiredResource": "Oil",
         "requiredTech": "Battleships",
         "uniques": [
-
+            
+            "Consumes [4] [Metall]",
             "Never appears as a Barbarian unit", 
             "Only available <in cities with a [Seaport]>",
             "Limited to [1] per Civilization"
@@ -770,10 +793,13 @@
         "strength": 75,
         "rangedStrength": 75,
         "range": 10,
+        "requiredResource": "Oil",
         "interceptRange": 10,
         "cost": 540,
         "requiredTech": "Planes",
         "uniques": [
+
+            
             "[100]% chance to intercept air attacks",
             "[+150]% Strength <vs [Bomber] units>",
             "[+150]% Strength <vs [Helicopter] units>",
@@ -861,9 +887,11 @@
         "range": 5,
         "interceptRange": 1,
         "cost": 335,
+        "requiredResource": "Metall",
         "requiredTech": "Lazers",
         "uniques": [
 
+            "Consumes [1] [Metall]",
             "Limited to [1] per Civilization",
             "[+120]% Strength <vs [Armored] units> <when attacking>",
             "No defensive terrain bonus",
@@ -888,6 +916,7 @@
         "requiredTech": "Lazerguns",
         "requiredResource": "Metall",
         "uniques": [
+            "Consumes [1] [Metall]",
             "[80]% chance to intercept air attacks",
             "Can move after attacking",
             "No defensive terrain bonus",
@@ -912,6 +941,7 @@
         "requiredTech": "Sakura Engine",
         "uniques": [
 
+            "Consumes [1] [Metall]",
             "Limited to [1] per Civilization",
             "[+120]% Strength <vs [Armored] units> <when attacking>",
             "No defensive terrain bonus",
@@ -951,6 +981,7 @@
 		"cost": 120,
 		"uniques": [
 
+            "Consumes [1] [Metall]",
             "Unable to capture cities",
             "Never appears as a Barbarian unit"
         
@@ -969,6 +1000,7 @@
         "requiredTech": "Heavy Jet Machines",
         "requiredResource": "Metall",
         "uniques": [
+            "Consumes [1] [Metall]",
             "[+70]% Strength <vs [Armored] units>",
             "[-15]% Strength <vs [Water] units>",
             "No defensive terrain bonus",
@@ -1029,6 +1061,7 @@
         "cost": 780,
         "uniques": [
 
+            "Consumes [2] [Metall]",
             "[-50]% Strength <when attacking>",
             "Never appears as a Barbarian unit",
             "Can move after attacking",
@@ -1049,7 +1082,7 @@
         "requiredTech": "Sakura Engine",
         "cost": 750,
         "uniques": [
-
+            "Consumes [2] [Metall]",
             "[-50]% Strength <when attacking>",
             "Never appears as a Barbarian unit",
             "Can move after attacking",
@@ -1068,6 +1101,7 @@
         "strength": 125,
         "rangedStrength": 125,
         "range": 12,
+        "requiredResource": "Metall",
         "cost": 300,
         "requiredTech": "Rockets",
         "uniques": ["[-100]% maintenance costs"],

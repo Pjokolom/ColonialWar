@@ -56,6 +56,7 @@
         "innerColor": [255, 255, 0],
         "uniqueName": "Survivability",
         "uniques": [
+
             "Double quantity of [Stone] produced",
             "[+1 Food] from every [Forest]",
             "No damage penalty for wounded units <for [All] units>",
@@ -346,6 +347,38 @@
         ],
         "spyNames": [
             "Riye", "Saito", "Seiko", "Hikari", "Yamato", "Yuke", "Taidze", "Kavasato", "Tezuo", "Ishikava"
+        ]
+    },
+        {
+        "name": "Celtland",
+        "leaderName": "Owain Glyndwr",
+        "adjective": ["Celt"],
+        "startBias": ["Avoid [Coast]","Hill"],
+        "startIntroPart1": " ",
+        "startIntroPart2": " ",
+        "declaringWar": "Prepare for war!",
+        "attacked": "You shall regret this!",
+        "defeated": "The victory is yours.",
+        "introduction": "Welcome, mighty leader.",
+        "neutralHello": "Greetings.",
+        "hateHello": "What do you want?",
+        "tradeRequest": "Better hurry, I may change my mind.",
+        "outerColor": [20,0,160],
+        "innerColor": [247,197,5],
+        "uniqueName": "Hafod a Hendref",
+        "uniques": [
+            "[+1 Food, +1 Gold] from every [Sheep]",
+            "[+10]% Strength <in [Hill] tiles>",
+            "Starts with [Basic Water Machines]"
+        ],
+        "cities": [
+
+            "Cardiff","Swansea","Casnewydd","Wrecsam","Y Barri","Cwmbran","Pen-y-bont ar Ogwr","Lianelli","Penrhyndeudraeth","Caerffili",
+            "Llanfairpwllgwyngyll","Ynysybwl","Pont-y-pwl","Bro Morgannwg","Cefn-Mawr","Coed Duon","Bwcle","Ystrad Mynach","Maesteg","Glyn Ebwy",
+            "Aberystwyth","Bangor","Senghenydd","Tumble","Ystradgynlais","Pontypridd","Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch"
+        ],
+        "spyNames": [
+            "Gwaelod","Ap Tudur","Ap Gruffudd","Fawr","Madog","Abberffraw","Hywel Dda","Mawr","Llewelyn","Bryn"
         ]
     },
 
