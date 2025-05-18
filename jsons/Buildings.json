@@ -414,7 +414,9 @@
                 "uniques": [
 
             "[+4 Food] from [Farm] tiles <in [Desert] tiles> [in this city]",
-            "[+1 Food] from [Farm] tiles <in [Plains] tiles> [in this city]"
+            "[+1 Food] from [Farm] tiles <in [Plains] tiles> [in this city]",
+            "[+3 Food] from [Houses] tiles <in [Tundra] tiles> [in this city]",
+            "[+3 Food] from [Houses] tiles <in [Snow] tiles> [in this city]"
 
             
                 ],
