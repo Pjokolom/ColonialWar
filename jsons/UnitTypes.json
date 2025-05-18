@@ -58,7 +58,10 @@
     },
     {
         "name": "Frame",
-        "movementType": "Land"
+        "movementType": "Land",
+        "uniques": [
+            "[+60]% Strength <vs cities> <when attacking>"
+        ]
     },
     {
         "name": "Siege",
