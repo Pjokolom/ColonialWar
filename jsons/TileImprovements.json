@@ -15,7 +15,7 @@
     },
     {
         "name": "Houses",
-        "terrainsCanBeBuiltOn": ["Plains","Grassland","Flood plains","Hill","Tundra","Snow"],
+        "terrainsCanBeBuiltOn": ["Plains","Grassland","Flood plains","Hill","Tundra","Snow","Floating Land"],
         "culture": 2,
         "gold": 1,
         "requiredTech": "Tech Fabrics",
@@ -30,7 +30,7 @@
     },
     {
         "name": "Muachidi Houses",
-        "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains","Hill"],
+        "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains","Hill","Floating Land"],
         "culture": 1,
         "gold": 2,
         "uniqueTo": "Muachidi",
@@ -93,7 +93,7 @@
     },
     {
         "name": "Shopping Mall",
-        "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains","Marsh"],
+        "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains","Marsh","Floating Land"],
         "gold": 2,
         "techRequired": "AI",
         "turnsToBuild": 15,
@@ -201,7 +201,7 @@
     {
         "name": "Railroad",
         "terrainsCanBeBuiltOn": ["Land"],
-        "turnsToBuild": 0,
+        "turnsToBuild": 1,
         "uniques": [
             "Can be built outside your borders",
             "Costs [1] [Gold] per turn"
@@ -268,6 +268,27 @@
             "Can be built outside your borders",
             "Excluded from map editor"
         ]
+    },
+        {
+        "name": "Built Floating Land",
+        "turnsToBuild": 10,
+        "techRequired": "Geological breakthrough",
+        "uniques": [
+            "Turn this tile into a [Floating Land] tile",
+            "Removes removable features when built",
+            "Excluded from map editor"
+        ],
+        "terrainsCanBeBuiltOn": ["Coast"]
+    },
+            {
+        "name": "Destroy Floating Land",
+        "turnsToBuild": 6,
+        "techRequired": "Geological breakthrough",
+        "uniques": [
+            "Turn this tile into a [Coast] tile",
+            "Excluded from map editor"
+        ],
+        "terrainsCanBeBuiltOn": ["Floating Land"]
     },
     {
         "name": "Remove Railroad",

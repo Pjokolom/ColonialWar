@@ -278,6 +278,17 @@
         "defenceBonus": -0.15
     },
     {
+        "name": "Floating Land",
+        "type": "Land",
+        "movementCost": 2,
+        "uniques": [
+            "Nullifies all other stats this tile provides",
+            "Doesn't generate naturally",
+            "Consumes [1] [Stone]"
+        ]
+    },
+    
+    {
         "name": "Oasis",
         "type": "TerrainFeature",
         "food": 3,
