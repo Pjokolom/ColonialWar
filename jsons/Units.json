@@ -798,7 +798,7 @@
         "unitType": "Fighter",
         "movement": 1,
         "strength": 75,
-        "rangedStrength": 75,
+        "rangedStrength": 70,
         "range": 10,
         "requiredResource": "Oil",
         "interceptRange": 10,
@@ -806,7 +806,7 @@
         "requiredTech": "Planes",
         "uniques": [
 
-            
+            "Cannot intercept [Missile] units",
             "[100]% chance to intercept air attacks",
             "[+150]% Strength <vs [Bomber] units>",
             "[+150]% Strength <vs [Helicopter] units>",
@@ -1035,6 +1035,7 @@
         "requiredResource": "Metall",
         "uniques": [
             "Consumes [1] [Metall]",
+            "[+110]% Strength <vs [Gunpowder] units>",
             "[+70]% Strength <vs [Armored] units>",
             "[-15]% Strength <vs [Water] units>",
             "No defensive terrain bonus",
@@ -1205,6 +1206,31 @@
         "attackSound": "metalhit"
     },
         {
+        "name": "Gloucester",
+        "unitType": "Frame",
+        "movement": 5,
+        "strength": 120,
+        "uniqueTo": "British Empire",
+        "cost": 800,
+        "requiredResource": "Sakuradait",
+        "requiredTech": "Knightmare Gen.5",
+        "uniques": [
+
+            "[+250]% Strength <vs [Armored] units> <when attacking>",
+            "[+100]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
+            "[+100]% Strength <vs [Gunpowder] units> <when attacking>",
+            "[-80]% Strength <vs [Helicopter] units> <when attacking>",
+            "[+300]% Strength <vs [Frame] units> <when attacking>",
+            "Can move after attacking",
+            "Only available <in cities with a [Weaponry Fabric]>",
+            "Only available <in cities with a [Tech Fabric]>",
+            "Withdraws before melee combat <with [60]% chance>",
+            "Never appears as a Barbarian unit"
+
+        ],
+        "attackSound": "metalhit"
+    },
+        {
         "name": "Estrella",
         "unitType": "Frame",
         "movement": 4,
@@ -1230,6 +1256,7 @@
         ],
         "attackSound": "metalhit"
     },
+            
     {
         "name": "Burai",
         "unitType": "Frame",
@@ -1308,6 +1335,90 @@
             "Only available <in cities with a [Weaponry Fabric]>",
             "Only available <in cities with a [Tech Fabric]>",
             "Withdraws before melee combat <with [50]% chance>",
+            "Never appears as a Barbarian unit"
+
+        ],
+        "attackSound": "metalhit"
+    },
+        {
+        "name": "Zetland",
+        "unitType": "Frame",
+        "movement": 5,
+        "strength": 130,
+        "rangedStrength": 90,
+        "range": 3,
+        "requiredResource": "Sakuradait",
+        "cost": 1000,
+        "requiredTech": "Knightmare Gen.6",
+        "uniques": [
+            
+            "Limited to [1] per Civilization",
+            "Only available <in cities with a [Zetland Blueprint]>",
+            "[+300]% Strength <vs [Armored] units> <when attacking>",
+            "[+300]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
+            "[+80]% Strength <vs [Gunpowder] units> <when attacking>",
+            "[+300]% Strength <vs [Helicopter] units> <when attacking>",
+            "[+80]% Strength <vs [Water] units> <when attacking>",
+            "Can move after attacking",
+            "Only available <in cities with a [Weaponry Fabric]>",
+            "Only available <in cities with a [Tech Fabric]>",
+            "Withdraws before melee combat <with [50]% chance>",
+            "Never appears as a Barbarian unit",
+            "Must set up to ranged attack"
+
+        ],
+        "attackSound": "metalhit"
+    },
+    {
+        "name": "Bradford",
+        "unitType": "Frame",
+        "movement": 5,
+        "strength": 120,
+        "rangedStrength": 90,
+        "range": 1,
+        "requiredResource": "Sakuradait",
+        "cost": 1000,
+        "requiredTech": "Knightmare Gen.6",
+        "uniques": [
+            
+            "Limited to [1] per Civilization",
+            "Only available <in cities with a [Bradford Blueprint]>",
+            "[+300]% Strength <vs [Armored] units> <when attacking>",
+            "[+300]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
+            "[+80]% Strength <vs [Gunpowder] units> <when attacking>",
+            "[+120]% Strength <vs [Helicopter] units> <when attacking>",
+            "[+100]% Strength <vs [Water] units> <when attacking>",
+            "Can move after attacking",
+            "Only available <in cities with a [Weaponry Fabric]>",
+            "Only available <in cities with a [Tech Fabric]>",
+            "Withdraws before melee combat <with [100]% chance>",
+            "Never appears as a Barbarian unit",
+            "May Paradrop up to [11] tiles from inside friendly territory"
+
+        ],
+        "attackSound": "metalhit"
+    },
+    {
+        "name": "Gawain",
+        "unitType": "Frame",
+        "movement": 6,
+        "strength": 130,
+        "cost": 1000,
+        "requiredResource": "Sakuradait",
+        "requiredTech": "Knightmare Gen.6",
+        "uniques": [
+            
+            "Limited to [1] per Civilization",
+            "Only available <in cities with a [Gawain]>",
+            "[+270]% Strength <vs [Armored] units> <when attacking>",
+            "[+120]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
+            "[+200]% Strength <vs [Gunpowder] units> <when attacking>",
+            "[-75]% Strength <vs [Helicopter] units> <when attacking>",
+            "[+200]% Strength <vs [Frame] units> <when attacking>",
+            "Can move after attacking",
+            "Only available <in cities with a [Weaponry Fabric]>",
+            "Only available <in cities with a [Tech Fabric]>",
+            "Withdraws before melee combat <with [85]% chance>",
             "Never appears as a Barbarian unit"
 
         ],

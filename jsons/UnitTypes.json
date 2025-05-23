@@ -106,7 +106,7 @@
     {
         "name": "Missile",
         "movementType": "Air",
-        "uniques": ["Self-destructs when attacking","Cannot be intercepted"]
+        "uniques": ["Self-destructs when attacking"]
     },
     {
         "name": "Drone-type",

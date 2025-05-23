@@ -295,6 +295,43 @@
         ],
         "requiredTech": "Robotechs"
     },
+        
+    {
+        "name": "Zetland Blueprint",
+        "cost": 1500,
+        "isWonder": true,
+        "maintenance": 2,
+        "requiredBuilding": "Secret Laboratory",
+        "hurryCostModifier": 25,
+        "uniques": [
+            "Will not be displayed in Civilopedia"
+        ],
+        "requiredTech": "Knightmare Gen.6"
+    },
+        {
+        "name": "Bradford Blueprint",
+        "cost": 1500,
+        "isWonder": true,
+        "maintenance": 2,
+        "requiredBuilding": "Secret Laboratory",
+        "hurryCostModifier": 25,
+        "uniques": [
+            "Will not be displayed in Civilopedia"
+        ],
+        "requiredTech": "Knightmare Gen.6"
+    },
+    {
+        "name": "Gawain Blueprint",
+        "cost": 1500,
+        "isWonder": true,
+        "maintenance": 2,
+        "requiredBuilding": "Secret Laboratory",
+        "hurryCostModifier": 25,
+        "uniques": [
+            "Will not be displayed in Civilopedia"
+        ],
+        "requiredTech": "Knightmare Gen.6"
+    },
     {
         "name": "Monster Spider Blueprint",
         "cost": 1200,

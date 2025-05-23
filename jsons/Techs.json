@@ -377,11 +377,17 @@
                 "prerequisites": ["Knightmare Gen.5"], 
                 "uniques": ["Comment [Unlocks [Energy Shield] promotion for [Frame]]"],
                 "quote": "'Uee uee' - Gucochelechee"
+            },
+            {
+                "name": "Knightmare Gen.6",
+                "row": 4,
+                "prerequisites": ["Knightmare Gen.5"], 
+                "quote": "'Pretty Empty Here' - Gucochelechee"
             }
         ]
     },
     {
-        "columnNumber": 12,
+        "columnNumber": 15,
         "era": "Frame era",
         "techCost": 8000,
         "buildingCost": 750,
