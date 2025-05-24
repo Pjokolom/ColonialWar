@@ -60,7 +60,9 @@
         "name": "Frame",
         "movementType": "Land",
         "uniques": [
-            "[+60]% Strength <vs cities> <when attacking>"
+            "[+60]% Strength <vs cities> <when attacking>",
+            "[+25]% Strength <when defending>",
+            "[+50]% Strength <when defending> <vs [Ranged] units> <with [30]% chance>"
         ]
     },
     {

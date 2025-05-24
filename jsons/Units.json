@@ -403,7 +403,7 @@
         "name": "Monster Tank",
         "unitType": "Armored",
         "movement": 4,
-        "strength": 120,
+        "strength": 190,
         "rangedStrength": 45,
         "range": 2,
         "cost": 800,
@@ -1069,7 +1069,7 @@
     },
     {
         "name": "Mobile SAM",
-        "unitType": "Armor",
+        "unitType": "Armored",
         "movement": 3,
         "interceptRange": 2,
         "strength": 65,
@@ -1164,7 +1164,7 @@
         "requiredTech": "Knightmare Revolution",
         "uniques": [
 
-            "[+300]% Strength <vs [Armored] units> <when attacking>",
+            "[+120]% Strength <vs [Armored] units> <when attacking>",
             "[+165]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+200]% Strength <vs [Gunpowder] units> <when attacking>",
             "[+165]% Strength <vs [Helicopter] units> <when attacking>",
@@ -1175,7 +1175,7 @@
             "Never appears as a Barbarian unit"
 
         ],
-        "attackSound": "metalhit"
+        "attackSound": "tankshot"
     },
     {
         "name": "Sutherland",
@@ -1191,7 +1191,7 @@
         "requiredTech": "Knightmare Gen.5",
         "uniques": [
 
-            "[+200]% Strength <vs [Armored] units> <when attacking>",
+            "[+175]% Strength <vs [Armored] units> <when attacking>",
             "[+120]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+200]% Strength <vs [Gunpowder] units> <when attacking>",
             "[+200]% Strength <vs [Helicopter] units> <when attacking>",
@@ -1203,7 +1203,7 @@
             "Never appears as a Barbarian unit"
 
         ],
-        "attackSound": "metalhit"
+        "attackSound": "tankshot"
     },
         {
         "name": "Gloucester",
@@ -1216,7 +1216,7 @@
         "requiredTech": "Knightmare Gen.5",
         "uniques": [
 
-            "[+250]% Strength <vs [Armored] units> <when attacking>",
+            "[+195]% Strength <vs [Armored] units> <when attacking>",
             "[+100]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+100]% Strength <vs [Gunpowder] units> <when attacking>",
             "[-80]% Strength <vs [Helicopter] units> <when attacking>",
@@ -1242,7 +1242,7 @@
         "requiredTech": "Knightmare Gen.5",
         "uniques": [
 
-            "[+270]% Strength <vs [Armored] units> <when attacking>",
+            "[+200]% Strength <vs [Armored] units> <when attacking>",
             "[+120]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+200]% Strength <vs [Gunpowder] units> <when attacking>",
             "[+200]% Strength <vs [Helicopter] units> <when attacking>",
@@ -1250,11 +1250,11 @@
             "Can move after attacking",
             "Only available <in cities with a [Weaponry Fabric]>",
             "Only available <in cities with a [Tech Fabric]>",
-            "Withdraws before melee combat <with [50]% chance>",
+            "Withdraws before melee combat <with [50]% chance> <vs [Ranged] units>",
             "Never appears as a Barbarian unit"
 
         ],
-        "attackSound": "metalhit"
+        "attackSound": "tankshot"
     },
             
     {
@@ -1269,7 +1269,7 @@
         "requiredTech": "Knightmare Revolution",
         "uniques": [
 
-            "[+300]% Strength <vs [Armored] units> <when attacking>",
+            "[+120]% Strength <vs [Armored] units> <when attacking>",
             "[+165]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+200]% Strength <vs [Gunpowder] units> <when attacking>",
             "[+165]% Strength <vs [Helicopter] units> <when attacking>",
@@ -1280,7 +1280,7 @@
             "Never appears as a Barbarian unit"
 
         ],
-        "attackSound": "metalhit"
+        "attackSound": "tankshot"
     },
         {
         "name": "Portman",
@@ -1294,7 +1294,7 @@
         "requiredTech": "Portman I",
         "uniques": [
 
-            "[+150]% Strength <vs [Armored] units> <when attacking>",
+            "[+130]% Strength <vs [Armored] units> <when attacking>",
             "[+150]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+150]% Strength <vs [Gunpowder] units> <when attacking>",
             "[+120]% Strength <vs [Helicopter] units> <when attacking>",
@@ -1310,7 +1310,7 @@
             "May travel on Water tiles without embarking"
 
         ],
-        "attackSound": "metalhit"
+        "attackSound": "tankshot"
     },
     {
         "name": "Panzerhummel",
@@ -1326,7 +1326,7 @@
         "requiredTech": "Knightmare Revolution",
         "uniques": [
 
-            "[+300]% Strength <vs [Armored] units> <when attacking>",
+            "[+195]% Strength <vs [Armored] units> <when attacking>",
             "[+165]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+300]% Strength <vs [Gunpowder] units> <when attacking>",
             "[+165]% Strength <vs [Helicopter] units> <when attacking>",
@@ -1338,7 +1338,7 @@
             "Never appears as a Barbarian unit"
 
         ],
-        "attackSound": "metalhit"
+        "attackSound": "artillery"
     },
         {
         "name": "Zetland",
@@ -1354,7 +1354,7 @@
             
             "Limited to [1] per Civilization",
             "Only available <in cities with a [Zetland Blueprint]>",
-            "[+300]% Strength <vs [Armored] units> <when attacking>",
+            "[+200]% Strength <vs [Armored] units> <when attacking>",
             "[+300]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+80]% Strength <vs [Gunpowder] units> <when attacking>",
             "[+300]% Strength <vs [Helicopter] units> <when attacking>",
@@ -1367,7 +1367,7 @@
             "Must set up to ranged attack"
 
         ],
-        "attackSound": "metalhit"
+        "attackSound": "artillery"
     },
     {
         "name": "Bradford",
@@ -1383,7 +1383,7 @@
             
             "Limited to [1] per Civilization",
             "Only available <in cities with a [Bradford Blueprint]>",
-            "[+300]% Strength <vs [Armored] units> <when attacking>",
+            "[+200]% Strength <vs [Armored] units> <when attacking>",
             "[+300]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+80]% Strength <vs [Gunpowder] units> <when attacking>",
             "[+120]% Strength <vs [Helicopter] units> <when attacking>",
@@ -1410,7 +1410,7 @@
             
             "Limited to [1] per Civilization",
             "Only available <in cities with a [Gawain]>",
-            "[+270]% Strength <vs [Armored] units> <when attacking>",
+            "[+200]% Strength <vs [Armored] units> <when attacking>",
             "[+120]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+200]% Strength <vs [Gunpowder] units> <when attacking>",
             "[-75]% Strength <vs [Helicopter] units> <when attacking>",
@@ -1422,7 +1422,7 @@
             "Never appears as a Barbarian unit"
 
         ],
-        "attackSound": "metalhit"
+        "attackSound": "artillery"
     },
         {
         "name": "Gardmare",
@@ -1437,7 +1437,7 @@
         "requiredTech": "Knightmare Revolution",
         "uniques": [
 
-            "[+300]% Strength <vs [Armored] units> <when attacking>",
+            "[+120]% Strength <vs [Armored] units> <when attacking>",
             "[+165]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+80]% Strength <vs [Frame] units> <when attacking>",
             "[+165]% Strength <vs [Helicopter] units> <when attacking>",
@@ -1448,7 +1448,7 @@
             "Never appears as a Barbarian unit"
 
         ],
-        "attackSound": "metalhit"
+        "attackSound": "artillery"
     },
     {
         "name": "Burai Kai",
@@ -1463,7 +1463,7 @@
         "requiredTech": "Knightmare Gen.5",
         "uniques": [
 
-            "[+200]% Strength <vs [Armored] units> <when attacking>",
+            "[+175]% Strength <vs [Armored] units> <when attacking>",
             "[+200]% Strength <vs [Frame] units> <when attacking>",
             "[+165]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+200]% Strength <vs [Gunpowder] units> <when attacking>",
@@ -1475,7 +1475,7 @@
             "Limited to [5] per Civilization"
 
         ],
-        "attackSound": "metalhit"
+        "attackSound": "artillery"
     },
     {
         "name": "Otila",
@@ -1491,7 +1491,7 @@
         "requiredTech": "Knightmare Gen.5",
         "uniques": [
 
-            "[+300]% Strength <vs [Armored] units> <when attacking>",
+            "[+175]% Strength <vs [Armored] units> <when attacking>",
             "[+140]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+140]% Strength <vs [Gunpowder] units> <when attacking>",
             "[+300]% Strength <vs [Helicopter] units> <when attacking>",
@@ -1502,7 +1502,41 @@
             "Never appears as a Barbarian unit"
 
         ],
-        "attackSound": "metalhit"
+        "attackSound": "artillery"
+    },
+        {
+        "name": "Raiko",
+        "unitType": "Frame",
+        "movement": 1,
+        "strength": 60,
+        "rangedStrength": 100,
+        "range": 3,
+        "uniqueTo": "Japan",
+        "requiredResource": "Sakuradait",
+        "cost": 1000,
+        "civilopediaText": [
+
+			{"text": "A completely radical type of weapon made by combining multiple Knightmare Frames. Equiped with Super Electromagnetic Shrapnel Cannon."}
+		],
+        "requiredTech": "Knightmare Gen.5",
+        "uniques": [
+            
+            "Limited to [1] per Civilization",
+            "Consumes [1] [Sakuradait]",
+            "[+200]% Strength <vs [Armored] units> <when attacking>",
+            "[+80]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
+            "[+80]% Strength <vs [Gunpowder] units> <when attacking>",
+            "[+200]% Strength <vs [Helicopter] units> <when attacking>",
+            "[+200]% Strength <vs [Frame] units> <when attacking>",
+            "Only available <in cities with a [Weaponry Fabric]>",
+            "Only available <in cities with a [Tech Fabric]>",
+            "Withdraws before melee combat <with [50]% chance>",
+            "Never appears as a Barbarian unit",
+            "Must set up to ranged attack",
+            "Destroys tile improvements when attacking"
+
+        ],
+        "attackSound": "artillery"
     },
     {
         "name": "Tanecznik",
@@ -1530,7 +1564,7 @@
             "Never appears as a Barbarian unit"
 
         ],
-        "attackSound": "metalhit"
+        "attackSound": "artillery"
     },
     {
         "name": "Bamid",
@@ -1546,7 +1580,7 @@
         "requiredTech": "Knightmare Gen.5",
         "uniques": [
 
-            "[+300]% Strength <vs [Armored] units> <when attacking>",
+            "[+210]% Strength <vs [Armored] units> <when attacking>",
             "[+140]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+140]% Strength <vs [Gunpowder] units> <when attacking>",
             "[+300]% Strength <vs [Helicopter] units> <when attacking>",
@@ -1558,7 +1592,7 @@
             "[+150]% Strength <vs cities> <when attacking>"
 
         ],
-        "attackSound": "metalhit"
+        "attackSound": "artillery"
     },
     {
         "name": "Gun-Ru",
@@ -1574,7 +1608,7 @@
         "requiredTech": "Knightmare Gen.5",
         "uniques": [
 
-            "[+280]% Strength <vs [Armored] units> <when attacking>",
+            "[+210]% Strength <vs [Armored] units> <when attacking>",
             "[+160]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+140]% Strength <vs [Gunpowder] units> <when attacking>",
             "[+280]% Strength <vs [Helicopter] units> <when attacking>",
@@ -1587,7 +1621,7 @@
             "[+120]% Strength <vs cities> <when attacking>"
 
         ],
-        "attackSound": "metalhit"
+        "attackSound": "artillery"
     }
 
 ]
