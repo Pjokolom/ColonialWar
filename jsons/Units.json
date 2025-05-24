@@ -699,6 +699,7 @@
         "strength": 70,
         "interceptRange": 2,
         "cost": 400,
+        "requiredResource": "Oil",
         "requiredTech": "War Ships",
         "uniques": [
             "Consumes [2] [Metall]",
