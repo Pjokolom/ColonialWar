@@ -21,6 +21,16 @@
         
         ]
     },
+        {
+        "name": "Swarm-Type",
+        "movementType": "Land",
+        "uniques":[
+
+            "[+15]% Strength <when attacking> <after discovering [Improved Ammunition]>",
+            "[+15]% Strength <after discovering [Improved Ammunition]>"
+        
+        ]
+    },
     {
         "name": "Paratrooping",
         "movementType": "Land",

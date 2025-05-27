@@ -41,7 +41,7 @@
         "requiredResource": "Metall",
         "uniques": [
             "Can build [All] improvements on tiles",
-            "Can build [all] improvements at a [+55]% rate",
+            "Can build [All] improvements at a [+55]% rate",
             "Can build [Land] improvements on tiles",
             "Automation is a primary action",
             "Never appears as a Barbarian unit",
@@ -159,7 +159,8 @@
             "Never appears as a Barbarian unit",
             "[-75]% Strength <vs [Armored] units> <when attacking>",
             "Never appears as a Barbarian unit",
-            "[+75]% Strength <vs [Gunpowder] units> <when attacking>"
+            "[+75]% Strength <vs [Gunpowder] units> <when attacking>",
+            
             
 
         ],
@@ -178,7 +179,9 @@
             
             "Only available <in cities with a [Weaponry Fabric]>",
             "Never appears as a Barbarian unit",
-            "[-70]% Strength <vs [Armored] units> <when attacking>"
+            "[-70]% Strength <vs [Armored] units> <when attacking>",
+            "[+30]% Strength <vs [Swarm-Type] units> <when attacking>"
+            
         
         ],
         "attackSound": "machinegun"
@@ -231,7 +234,8 @@
             
             "[-70]% Strength <vs [Armored] units> <when attacking>",
             "[-100]% Strength <vs [Helicopter] units> <when attacking>",
-            "[-3] Movement <in [Water] tiles>"
+            "[-3] Movement <in [Water] tiles>",
+            "Cannot embark"
         
         ],
         "attackSound": "nonmetalhit"
@@ -248,7 +252,8 @@
             "[-70]% Strength <vs [Armored] units> <when attacking>",
             "[-100]% Strength <vs [Helicopter] units> <when attacking>",
             "Can pass through impassable tiles",
-            "[-3] Movement <in [Water] tiles>"
+            "[-3] Movement <in [Water] tiles>",
+            "Cannot embark"
         
         ],
         "attackSound": "nonmetalhit"
@@ -265,7 +270,8 @@
             "[-70]% Strength <vs [Armored] units> <when attacking>",
             "Limited to [1] per Civilization",
             "Will not be displayed in Civilopedia",
-            "[-3] Movement <in [Water] tiles>"
+            "[-3] Movement <in [Water] tiles>",
+            "Cannot embark"
         
         ],
         "attackSound": "nonmetalhit"
@@ -287,7 +293,8 @@
             "No defensive terrain bonus",
             "[2] additional attacks per turn",
             "[-3] Movement <in [Water] tiles>",
-            "Will not be displayed in Civilopedia"
+            "Will not be displayed in Civilopedia",
+            "Cannot embark"
         ],
         "attackSound": "shot"
     },
@@ -635,7 +642,7 @@
     {
         "name": "Submarine",
         "unitType": "Submarine",
-        "movement": 5,
+        "movement": 4,
         "strength": 35,
         "rangedStrength": 65,
         "cost": 360,
@@ -645,6 +652,25 @@
 
             "Consumes [1] [Metall]",
             "[+75]% Strength <when attacking>",
+            "Can only attack [Water] tiles",
+            "Never appears as a Barbarian unit",
+            "Only available <in cities with a [Seaport]>"
+        ],
+        "attackSound": "torpedo"
+    },
+        {
+        "name": "DWR",
+        "unitType": "Submarine",
+        "movement": 6,
+        "strength": 20,
+        "uniqueTo": "Celtland",
+        "rangedStrength": 30,
+        "cost": 360,
+        "requiredResource": "Metall",
+        "requiredTech": "War Ships",
+        "uniques": [
+            "[+1] Sight",
+            "[+60]% Strength <when attacking>",
             "Can only attack [Water] tiles",
             "Never appears as a Barbarian unit",
             "Only available <in cities with a [Seaport]>"
@@ -862,7 +888,7 @@
     },
     {
         "name": "Swarm",
-        "unitType": "Gunpowder",
+        "unitType": "Swarm-Type",
         "movement": 4,
         "strength": 65,
         "rangedStrength": 30,
@@ -887,7 +913,7 @@
     },
         {
         "name": "Shanque I",
-        "unitType": "Gunpowder",
+        "unitType": "Swarm-Type",
         "movement": 4,
         "strength": 65,
         "rangedStrength": 30,
@@ -967,12 +993,10 @@
         "name": "Ganymede",
         "unitType": "Frame",
         "movement": 1,
-        "strength": 85,
+        "strength": 45,
         "uniqueTo": "British Empire",
-        "rangedStrength": 75,
-        "range": 1,
         "cost": 700,
-        "requiredTech": "Sakura Engine",
+        "requiredTech": "Eureka",
         "uniques": [
 
             "Consumes [1] [Metall]",
@@ -983,9 +1007,34 @@
             "Never appears as a Barbarian unit",
             "Only available <in cities with a [Weaponry Fabric]>",
             "Only available <in cities with a [Tech Fabric]>",
-            "[+800]% Strength <when adjacent to a [Ganymede battery] unit> <when attacking>",
+            "[+300]% Strength <when adjacent to a [Ganymede battery] unit>",
             "Withdraws before melee combat <with [50]% chance>",
-            "[+7] Movement <when adjacent to a [Ganymede battery] unit>"
+            "[+3] Movement <when adjacent to a [Ganymede battery] unit>"
+
+        ],
+        "attackSound": "artillery"
+    },
+        {
+        "name": "Art Worker Machine",
+        "unitType": "Frame",
+        "movement": 3,
+        "strength": 90,
+        "uniqueTo": "Celtland",
+        "cost": 700,
+        "requiredResource": "Sakuradait",
+        "requiredTech": "Sakura Engine",
+        "uniques": [
+
+            "Can build [All] improvements on tiles",
+            "Can build [All] improvements at a [+55]% rate",
+            "Limited to [1] per Civilization",
+            "[+70]% Strength <vs [Armored] units> <when attacking>",
+            "No defensive terrain bonus",
+            "Can move after attacking",
+            "Never appears as a Barbarian unit",
+            "Only available <in cities with a [Weaponry Fabric]>",
+            "Only available <in cities with a [Tech Fabric]>",
+            "Withdraws before melee combat <with [50]% chance>"
 
         ],
         "attackSound": "artillery"
@@ -1024,11 +1073,29 @@
         "promotions": ["Ignore terrain cost"],
 		"hurryCostModifier": 20
 	},
+        {
+        "name": "Quadcopter",
+        "unitType": "Helicopter",
+        "movement": 5,
+        "strength": 15,
+        "cost": 510,
+        "requiredTech": "Planes",
+        "requiredResource": "Metall",
+        "uniques": [
+            "Consumes [1] [Metall]",
+            "Cannot attack",
+            "No defensive terrain bonus",
+            "Only available <in cities with a [Tech Fabric]>",
+            "Unable to capture cities",
+            "Never appears as a Barbarian unit",
+            "Unable to pillage tiles"
+        ],
+    },
     {
         "name": "Helicopter Drone",
         "unitType": "Helicopter",
         "movement": 8,
-        "strength": 70,
+        "strength": 80,
         "range": 1,
         "rangedStrength": 75,
         "cost": 510,
@@ -1149,6 +1216,7 @@
         ],
         "attackSound": "missile"
     },
+
 //FRAMEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEES
 
     {

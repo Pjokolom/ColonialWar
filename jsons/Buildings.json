@@ -354,6 +354,16 @@
 		"requiredTech": "Xenology",
         "uniques": ["Destroyed when the city is captured"]
     },
+    	{
+        "name": "Build Citadel",
+        "cityStrength": 15,
+        "cityHealth": 135,
+        "hurryCostModifier": 25,
+		"requiredTech": "Xenology",
+        "uniques": [
+            "Creates a [Citadel] improvement on a specific tile"
+        ]
+    },
 	{
         "name": "Great Archive",
         "cost": 125,

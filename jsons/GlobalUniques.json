@@ -10,25 +10,9 @@
         "[-1] Sight <for [Embarked] units>",
         "Enables Open Borders agreements",
         "Enables Defensive Pacts",
-        "Enables Research agreements"
-
-        // TODO: Implement the uniques below
-        // "[+20]% [Culture] [in all cities] <during a golden age>",
-        // "[+20]% [Production] [in all cities] <during a golden age>",
-
-        // "[+10]% growth [in all cities] <during We Love The King Day>",
-
-        // "Nullifies All Yield <while is in resistance>",
-
-        // "[-25]% [Science] [in pupetted cities]" -- Imo cityFilters should ideally become conditionals anyway
-        // "[-25]% [Culture] [in pupetted cities]"
-
+        "Enables Research agreements",
+        "[-20]% [Happiness] [in annexed cities]  <in cities with at least [6] [Population]>",
         "[+150]% [Gold] [in cities connected via railroad]",
-
-        // something something unit supply
-
-        // Temporary "Needs actual support" uniques
-
         "[-1 Gold] from every [Shopping Mall] <with [1] to [6] neighboring [Shopping Mall] tiles>",
         "[-2 Gold] from every [Shopping Mall] <with [2] to [6] neighboring [Shopping Mall] tiles>",
         "[+1 Culture] from every [Houses] <with [1] to [6] neighboring [Houses] tiles>",

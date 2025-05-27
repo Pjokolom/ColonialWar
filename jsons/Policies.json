@@ -696,7 +696,7 @@
             {
                 "name": "Creative Expression",
                 "uniques": [
-                    "[+2 Culture] from every [Monument]",
+                    "[+4 Culture] from every [Monument]",
                     "Provides [1] [Level 1 Ideology]",
                     "Provides [1] [Policies]"
                 ],
@@ -706,7 +706,7 @@
             {
                 "name": "Civil Society",
                 "uniques": [
-                    "[-75]% Food consumption by specialists [in all cities]",
+                    "[-80]% Food consumption by specialists [in all cities]",
                     "Provides [1] [Level 1 Ideology]",
                     "Provides [1] [Policies]"
                 ],
@@ -728,7 +728,7 @@
             {
                 "name": "Covert Action",
                 "uniques": [
-                    "[+100]% spy effectiveness [City-States]",
+                    "[+50]% spy effectiveness [in all cities]",
                     "Gain an extra spy",
                     "Provides [1] [Level 1 Ideology]",
                     "Provides [1] [Policies]"
@@ -740,6 +740,7 @@
                 "name": "Capitalism",
                 "uniques": [
                     "[+3 Happiness] from every [Bank]",
+                    "[+3 Gold] from every [Bank]",
                     "Provides [1] [Level 1 Ideology]",
                     "Provides [1] [Policies]"
                 ],
@@ -785,7 +786,7 @@
                 "name": "Universal Suffrage",
                 "uniques": [
                     "[-50]% Unhappiness from [Specialists] [in all cities]",
-                    "[+50]% Golden Age length",
+                    "[+80]% Golden Age length",
                     "Provides [-1] [Level 1 Ideology]",
                     "Provides [1] [Level 2 Ideology]",
                     "Only available <when above [1] [Level 1 Ideology]>",
@@ -828,6 +829,7 @@
                 "uniques": [
                     "[+100]% Production when constructing [Medical Lab] buildings [in all cities]",
                     "[+3 Science] from every [Medical Lab]",
+                    "[+2 Food] from every [Medical Lab]",
                     "[+5 Food] [in capital]",
                     "Provides [-1] [Level 1 Ideology]",
                     "Provides [1] [Level 2 Ideology]",
@@ -851,7 +853,7 @@
             {
                 "name": "Treaty Organization",
                 "uniques": [
-                    "[+1 Production, +1 Gold] from every specialist [in all cities]",
+                    "[+2 Production, +1 Gold] from every specialist [in all cities]",
                     "Provides [-1] [Level 2 Ideology]",
                     "Only available <when above [1] [Level 2 Ideology]>",
                     "Provides [1] [Policies]"
