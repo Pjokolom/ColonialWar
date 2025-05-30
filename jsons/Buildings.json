@@ -342,7 +342,7 @@
         "requiredBuilding": "Secret Laboratory",
         "hurryCostModifier": 25,
         "uniques": [
-            "Will not be displayed in Civilopedia",
+            "Will not be displayed in Civilopedia"
         ],
         "requiredTech": "Robotechs"
     },

@@ -387,6 +387,36 @@
         ]
     },
     {
+        "columnNumber": 12,
+        "era": "Frame era",
+        "techCost": 10500,
+        "buildingCost": 500,
+        "wonderCost": 1250,
+        "techs": [
+            {
+                "name": "Knightmare Gen.7 Experemental models",
+                "row": 3,
+                "prerequisites": ["Knightmare Gen.6"], 
+                "quote": "'Pretty Empty Here' - Gucochelechee"
+            }
+        ]
+    },
+    {
+        "columnNumber": 13,
+        "era": "Frame era",
+        "techCost": 11500,
+        "buildingCost": 500,
+        "wonderCost": 1250,
+        "techs": [
+            {
+                "name": "Knightmare Gen.7",
+                "row": 3,
+                "prerequisites": ["Knightmare Gen.7 Experemental models"], 
+                "quote": "'Pretty Empty Here' - Gucochelechee"
+            }
+        ]
+    },
+    {
         "columnNumber": 15,
         "era": "Frame era",
         "techCost": 8000,
@@ -396,7 +426,7 @@
             {
                 "name": "Armagedon",
                 "row": 5,
-                "prerequisites": ["Energy Shields","Lazerguns"],
+                "prerequisites": ["Knightmare Gen.7"],
                 "uniques": ["Comment [Who knows what the future holds?]","Can be continually researched"],
                 "quote": "'I think we agree, the past is over.' - George W. Bush"
             }
