@@ -5,6 +5,8 @@
         "unitType": "Civilian",
         "movement": 2,
         "uniques": [
+
+            "Consumes [1] [Human Resourses]",
             "Can build [All] improvements on tiles",
             "Can build [Land] improvements on tiles",
             "Automation is a primary action"
@@ -40,6 +42,7 @@
         "requiredTech": "Tech Fabrics",
         "requiredResource": "Metall",
         "uniques": [
+            "Consumes [1] [Human Resourses]",
             "Can build [All] improvements on tiles",
             "Can build [All] improvements at a [+55]% rate",
             "Can build [Land] improvements on tiles",
@@ -74,7 +77,7 @@
         "obsoleteTech": "Robotechs",
         "upgradesTo": "Townbuilder",
 		"cost": 106,
-		"uniques": ["Founds a new city", "Excess Food converted to Production when under construction",
+		"uniques": ["Consumes [1] [Human Resourses]", "Founds a new city", "Excess Food converted to Production when under construction",
 			"Requires at least [2] population"],
 		"hurryCostModifier": 20
 	},
@@ -107,7 +110,7 @@
         "obsoleteTech": "Robotechs",
         "upgradesTo": "Townbuilder",
 		"cost": 106,
-		"uniques": ["Founds a new city", "Never appears as a Barbarian unit", "Excess Food converted to Production when under construction",
+		"uniques": ["Consumes [1] [Human Resourses]", "Founds a new city", "Never appears as a Barbarian unit", "Excess Food converted to Production when under construction",
 			"Requires at least [2] population"],
 		"hurryCostModifier": 20
 	},
@@ -154,6 +157,7 @@
         "cost": 300,
         "uniques": [
             
+            "Consumes [1] [Human Resourses]",
             "Only available <in cities with a [Weaponry Fabric]>", 
             "[-100]% Strength <vs cities> <when attacking>",
             "Never appears as a Barbarian unit",
@@ -177,6 +181,7 @@
         "requiredTech": "Weaponry Fabrics",
         "uniques": [
             
+            "Consumes [3] [Human Resourses]",
             "Only available <in cities with a [Weaponry Fabric]>",
             "Never appears as a Barbarian unit",
             "[-70]% Strength <vs [Armored] units> <when attacking>",
@@ -214,6 +219,7 @@
         "requiredTech": "Weaponry Fabrics",
         "uniques": [
             
+            "Consumes [3] [Human Resourses]",
             "Only available <in cities with a [Weaponry Fabric]>",
             "Never appears as a Barbarian unit",
             "[+15]% Strength <in [Desert] tiles>",
@@ -308,6 +314,8 @@
         "requiredTech": "Basic War Machines",
         "uniques": [
             
+            "Consumes [3] [Human Resourses]",
+            "Consumes [1] [Metall]",
             "Never appears as a Barbarian unit",
             "Only available <in cities with a [Weaponry Fabric]>",
             "Only available <in cities with a [Tech Fabric]>",
@@ -329,6 +337,8 @@
         "requiredTech": "Basic War Machines",
         "uniques": [
             
+            "Consumes [3] [Human Resourses]",
+            "Consumes [1] [Metall]",
             "Never appears as a Barbarian unit",
             "Only available <in cities with a [Weaponry Fabric]>",
             "Only available <in cities with a [Tech Fabric]>",
@@ -349,6 +359,7 @@
         "cost": 450,
         "upgradesTo": "Modern Armor",
         "uniques": [
+
             "Can move after attacking",
             "No defensive terrain bonus",
             "[+50]% Strength <vs [Land] units>",
@@ -369,7 +380,8 @@
         "requiredResource": "Metall",
         "uniques": [
 
-            "Consumes [1] [Metall]",
+            "Consumes [3] [Human Resourses]",
+            "Consumes [3] [Metall]",
             "Can move after attacking",
             "No defensive terrain bonus",
             "Only available <in cities with a [Weaponry Fabric]>",
@@ -394,7 +406,8 @@
         "requiredResource": "Metall",
         "uniques": [
 
-            "Consumes [1] [Metall]",
+            "Consumes [3] [Human Resourses]",
+            "Consumes [3] [Metall]",
             "Can move after attacking",
             "No defensive terrain bonus",
             "Only available <in cities with a [Weaponry Fabric]>",
@@ -417,7 +430,8 @@
         "requiredResource": "Metall",
         "uniques": [
 
-            "Consumes [3] [Metall]",
+            "Consumes [5] [Human Resourses]",
+            "Consumes [6] [Metall]",
             "Can move after attacking",
             "No defensive terrain bonus",
             "Only available <in cities with a [Weaponry Fabric]>",
@@ -437,7 +451,7 @@
         "unitType": "Armored",
         "movement": 3,
         "interceptRange": 2,
-        "strength": 140,
+        "strength": 400,
         "rangedStrength": 75,
         "range": 2,
         "cost": 1100,
@@ -445,10 +459,11 @@
         "requiredResource": "Metall",
         "uniques": [
             
+            "Consumes [6] [Human Resourses]",
             "Cannot enter ocean tiles",
             "May travel on Water tiles without embarking",
             "[100]% chance to intercept air attacks",            
-            "Consumes [4] [Metall]",
+            "Consumes [7] [Metall]",
             "Can move after attacking",
             "Only available <in cities with a [Weaponry Fabric]>",
             "Only available <in cities with a [Tech Fabric]>",
@@ -472,6 +487,7 @@
         "cost": 330,
         "uniques": [
             
+            "Consumes [2] [Human Resourses]",
             "Only available <in cities with a [Weaponry Fabric]>",
             "[+300]% Strength <vs [Armored] units> <when attacking>",
             "Never appears as a Barbarian unit",
@@ -495,6 +511,7 @@
         "cost": 330,
         "uniques": [
             
+            "Consumes [2] [Human Resourses]",
             "Only available <in cities with a [Weaponry Fabric]>",
             "[+400]% Strength <vs [Armored] units> <when attacking>",
             "[+200]% Strength <vs [Frame] units> <when attacking>",
@@ -515,6 +532,8 @@
         "requiredTech": "Drones II",
         "uniques": [
             
+            "Consumes [1] [Human Resourses]",
+            "Consumes [1] [Metall]",
             "Never appears as a Barbarian unit",
             "Only available <in cities with a [Weaponry Fabric]>",
             "Only available <in cities with a [Tech Fabric]>",
@@ -583,7 +602,8 @@
         "requiredTech": "Long Range Weapons",
         "uniques": [
 
-            "Consumes [1] [Metall]",
+            "Consumes [2] [Human Resourses]",
+            "Consumes [2] [Metall]",
             "[+200]% Strength <vs cities> <when attacking>",
             "[+100]% Strength <vs [Armored] units> <when attacking>",
             "No defensive terrain bonus",
@@ -599,6 +619,52 @@
         "attackSound": "artillery"
     },
     {
+        "name": "Combined artillery",
+        "unitType": "Armor",
+        "movement": 3,
+        "uniqueTo": "Chinese Federation",
+        "strength": 30,
+        "rangedStrength": 70,
+        "range": 5,
+        "cost": 320,
+        "requiredResource": "Metall",
+        "requiredTech": "Long Range Weapons",
+        "uniques": [
+
+            "Consumes [2] [Human Resourses]",
+            "Can carry [4] [Small Rocket] units",
+            "Consumes [2] [Metall]",
+            "[+150]% Strength <vs cities> <when attacking>",
+            "[+150]% Strength <vs [Armored] units> <when attacking>",
+            "No defensive terrain bonus",
+            "Must set up to ranged attack",
+            "[-1] Sight",
+            "Never appears as a Barbarian unit",
+            "Only available <in cities with a [Weaponry Fabric]>",
+            "Only available <in cities with a [Tech Fabric]>"
+            
+
+        ],
+        "promotions": ["Indirect Fire"],
+        "attackSound": "artillery"
+    },
+    {
+        "name": "Small Rocket",
+        "unitType": "Missile",
+        "movement": 1,
+        "uniqueTo": "Chinese Federation",
+        "strength": 125,
+        "rangedStrength": 60,
+        "range": 8,
+        "requiredResource": "Metall",
+        "cost": 110,
+        "requiredTech": "Rockets",
+        "uniques": [
+            "[-100]% maintenance costs"
+        ],
+        "attackSound": "missile"
+    },
+    {
         "name": "Charles Mk.4",
         "unitType": "Armor",
         "movement": 3,
@@ -612,7 +678,8 @@
         "requiredTech": "Long Range Weapons",
         "uniques": [
 
-            "Consumes [1] [Metall]",
+            "Consumes [2] [Human Resourses]",
+            "Consumes [2] [Metall]",
             "[+150]% Strength <vs cities> <when attacking>",
             "[+150]% Strength <vs [Armored] units> <when attacking>",
             "No defensive terrain bonus",
@@ -650,7 +717,8 @@
         "requiredTech": "War Ships",
         "uniques": [
 
-            "Consumes [1] [Metall]",
+            "Consumes [4] [Human Resourses]",
+            "Consumes [2] [Metall]",
             "[+75]% Strength <when attacking>",
             "Can only attack [Water] tiles",
             "Never appears as a Barbarian unit",
@@ -669,6 +737,8 @@
         "requiredResource": "Metall",
         "requiredTech": "War Ships",
         "uniques": [
+
+            "Consumes [1] [Human Resourses]",
             "[+1] Sight",
             "[+60]% Strength <when attacking>",
             "Can only attack [Water] tiles",
@@ -689,7 +759,8 @@
         "requiredResource": "Oil",
         "requiredTech": "War Ships",
         "uniques": [
-            "Consumes [1] [Metall]",
+            "Consumes [1] [Human Resourses]",
+            "Consumes [2] [Metall]",
             "[+75]% Strength <when attacking>",
             "Can only attack [Water] tiles",
             "Never appears as a Barbarian unit",
@@ -707,7 +778,8 @@
         "requiredResource": "Oil",
         "requiredTech": "War Ships",
         "uniques": [
-            "Consumes [1] [Metall]",
+            "Consumes [8] [Human Resourses]",
+            "Consumes [4] [Metall]",
             "Can see invisible [Submarine] units",
             "[100]% chance to intercept air attacks",
             "Can move after attacking",
@@ -728,7 +800,8 @@
         "requiredResource": "Oil",
         "requiredTech": "War Ships",
         "uniques": [
-            "Consumes [2] [Metall]",
+            "Consumes [8] [Human Resourses]",
+            "Consumes [5] [Metall]",
             "Can see invisible [Submarine] units",
             "[60]% chance to intercept air attacks",
             "Withdraws before melee combat <with [80]% chance>",
@@ -751,7 +824,8 @@
         "requiredResource": "Oil",
         "requiredTech": "Battleships",
         "uniques": [
-            "Consumes [4] [Metall]",
+            "Consumes [8] [Human Resourses]",
+            "Consumes [8] [Metall]",
             "Never appears as a Barbarian unit",
             "Only available <in cities with a [Seaport]>",
             "Only available <in cities with a [Seaport]>"
@@ -768,7 +842,8 @@
         "cost": 680,
         "requiredTech": "Battleships",
         "uniques": [
-            "Consumes [4] [Metall]",
+            "Consumes [8] [Human Resourses]",
+            "Consumes [9] [Metall]",
             "Cannot attack",
             "Can carry [3] [Aircraft] units",
             "[+2] Sight",
@@ -787,8 +862,8 @@
         "requiredResource": "Oil",
         "requiredTech": "Battleships",
         "uniques": [
-
-            "Consumes [4] [Metall]",
+            "Consumes [8] [Human Resourses]",
+            "Consumes [9] [Metall]",
             "Never appears as a Barbarian unit", 
             "Only available <in cities with a [Seaport]>",
             "Limited to [1] per Civilization",
@@ -811,7 +886,8 @@
         "requiredTech": "Battleships",
         "uniques": [
             
-            "Consumes [4] [Metall]",
+            "Consumes [8] [Human Resourses]",
+            "Consumes [9] [Metall]",
             "Never appears as a Barbarian unit", 
             "Only available <in cities with a [Seaport]>",
             "Limited to [1] per Civilization"
@@ -833,6 +909,7 @@
         "requiredTech": "Planes",
         "uniques": [
 
+            "Consumes [2] [Human Resourses]",
             "Cannot intercept [Missile] units",
             "[100]% chance to intercept air attacks",
             "[+150]% Strength <vs [Bomber] units>",
@@ -855,6 +932,7 @@
         "requiredTech": "Planes",
         "requiredResource": "Oil",
         "uniques": [
+            "Consumes [2] [Human Resourses]",
             "[+150]% Strength <vs [Water] units>",
             "[+2] Sight",
             "Can see over obstacles",
@@ -877,6 +955,7 @@
         "requiredTech": "Planes",
         "requiredResource": "Oil",
         "uniques": [
+            "Consumes [2] [Human Resourses]",
             "[+250]% Strength <vs [Water] units>",
             "[+2] Sight",
             "Can see over obstacles",
@@ -951,7 +1030,8 @@
         "requiredTech": "Lazers",
         "uniques": [
 
-            "Consumes [1] [Metall]",
+            "Consumes [3] [Human Resourses]",
+            "Consumes [3] [Metall]",
             "Limited to [1] per Civilization",
             "[+120]% Strength <vs [Armored] units> <when attacking>",
             "No defensive terrain bonus",
@@ -976,7 +1056,8 @@
         "requiredTech": "Lazerguns",
         "requiredResource": "Metall",
         "uniques": [
-            "Consumes [1] [Metall]",
+            "Consumes [3] [Human Resourses]",
+            "Consumes [3] [Metall]",
             "[80]% chance to intercept air attacks",
             "Can move after attacking",
             "No defensive terrain bonus",
@@ -998,7 +1079,7 @@
         "cost": 700,
         "requiredTech": "Eureka",
         "uniques": [
-
+            "Consumes [1] [Human Resourses]",
             "Consumes [1] [Metall]",
             "Limited to [1] per Civilization",
             "[+120]% Strength <vs [Armored] units> <when attacking>",
@@ -1025,6 +1106,7 @@
         "requiredTech": "Sakura Engine",
         "uniques": [
 
+            "Consumes [1] [Human Resourses]",
             "Can build [All] improvements on tiles",
             "Can build [All] improvements at a [+55]% rate",
             "Limited to [1] per Civilization",
@@ -1064,7 +1146,7 @@
 		"cost": 120,
 		"uniques": [
 
-            "Consumes [1] [Metall]",
+            "Consumes [2] [Metall]",
             "Unable to capture cities",
             "Never appears as a Barbarian unit",
             "Only available <in cities with a [Tech Fabric]>"
@@ -1102,7 +1184,9 @@
         "requiredTech": "Heavy Jet Machines",
         "requiredResource": "Metall",
         "uniques": [
-            "Consumes [1] [Metall]",
+
+            "Consumes [2] [Human Resourses]",
+            "Consumes [2] [Metall]",
             "[+110]% Strength <vs [Gunpowder] units>",
             "[+70]% Strength <vs [Armored] units>",
             "[-15]% Strength <vs [Water] units>",
@@ -1125,6 +1209,7 @@
         "requiredTech": "Support Vechicles",
         "uniques": [
             
+            "Consumes [1] [Human Resourses]",
             "Never appears as a Barbarian unit",
             "Only available <in cities with a [Tech Fabric]>",
             "Can move after attacking",
@@ -1145,6 +1230,9 @@
         "cost": 510,
         "requiredTech": "Support Vechicles",
         "uniques": [
+
+            "Consumes [1] [Human Resourses]",
+            "Consumes [1] [Metall]",
             "[100]% chance to intercept air attacks",
             "[+150]% Strength <vs [Air] units>",
             "[-70]% Strength <vs [Armored] units>",
@@ -1167,7 +1255,8 @@
         "cost": 780,
         "uniques": [
 
-            "Consumes [2] [Metall]",
+            "Consumes [3] [Human Resourses]",
+            "Consumes [4] [Metall]",
             "[-50]% Strength <when attacking>",
             "Never appears as a Barbarian unit",
             "Can move after attacking",
@@ -1188,7 +1277,9 @@
         "requiredTech": "Sakura Engine",
         "cost": 750,
         "uniques": [
-            "Consumes [2] [Metall]",
+
+            "Consumes [3] [Human Resourses]",
+            "Consumes [4] [Metall]",
             "[-50]% Strength <when attacking>",
             "Never appears as a Barbarian unit",
             "Can move after attacking",
@@ -1232,7 +1323,9 @@
         "cost": 700,
         "requiredTech": "Knightmare Revolution",
         "uniques": [
-
+            
+            "Consumes [1] [Human Resourses]",
+            "Consumes [2] [Metall]",
             "[+120]% Strength <vs [Armored] units> <when attacking>",
             "[+165]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+200]% Strength <vs [Gunpowder] units> <when attacking>",
@@ -1260,6 +1353,38 @@
         "requiredTech": "Knightmare Gen.5",
         "uniques": [
 
+            "Consumes [1] [Human Resourses]",
+            "Consumes [2] [Metall]",
+            "[+175]% Strength <vs [Armored] units> <when attacking>",
+            "[+120]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
+            "[+200]% Strength <vs [Gunpowder] units> <when attacking>",
+            "[+200]% Strength <vs [Helicopter] units> <when attacking>",
+            "[+120]% Strength <vs [Frame] units> <when attacking>",
+            "Can move after attacking",
+            "Only available <in cities with a [Weaponry Fabric]>",
+            "Only available <in cities with a [Tech Fabric]>",
+            "Withdraws before melee combat <with [50]% chance>",
+            "Never appears as a Barbarian unit"
+
+        ],
+        "attackSound": "tankshot"
+    },
+    {
+        "name": "Adam",
+        "unitType": "Frame",
+        "movement": 5,
+        "replaces": "Estrella",
+        "strength": 100,
+        "uniqueTo": "Israel",
+        "rangedStrength": 75,
+        "range": 1,
+        "cost": 800,
+        "requiredResource": "Sakuradait",
+        "requiredTech": "Knightmare Gen.5",
+        "uniques": [
+
+            "Consumes [1] [Human Resourses]",
+            "Consumes [2] [Metall]",
             "[+175]% Strength <vs [Armored] units> <when attacking>",
             "[+120]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+200]% Strength <vs [Gunpowder] units> <when attacking>",
@@ -1285,6 +1410,8 @@
         "requiredTech": "Knightmare Gen.5",
         "uniques": [
 
+            "Consumes [1] [Human Resourses]",
+            "Consumes [3] [Metall]",
             "[+195]% Strength <vs [Armored] units> <when attacking>",
             "[+100]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+100]% Strength <vs [Gunpowder] units> <when attacking>",
@@ -1311,6 +1438,9 @@
         "requiredTech": "Knightmare Gen.7 Experemental models",
         "uniques": [
             
+            "Consumes [1] [Human Resourses]",
+            "Consumes [1] [Sakuradait]",
+            "Consumes [2] [Metall]",
             "Limited to [1] per Civilization",
             "[+60]% Strength <when attacking>",
             "[+200]% Strength <vs [Armored] units> <when attacking>",
@@ -1340,6 +1470,9 @@
         "requiredTech": "Knightmare Gen.7 Experemental models",
         "uniques": [
             
+            "Consumes [1] [Human Resourses]",
+            "Consumes [1] [Sakuradait]",
+            "Consumes [2] [Metall]",
             "Limited to [1] per Civilization",
             "[+60]% Strength <when attacking>",
             "[+200]% Strength <vs [Armored] units> <when attacking>",
@@ -1371,6 +1504,9 @@
         "requiredTech": "Knightmare Gen.7 Experemental models",
         "uniques": [
             
+            "Consumes [1] [Human Resourses]",
+            "Consumes [1] [Sakuradait]",
+            "Consumes [2] [Metall]",
             "Limited to [1] per Civilization",
             "[+200]% Strength <vs [Armored] units> <when attacking>",
             "[+200]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
@@ -1391,12 +1527,15 @@
         "name": "Alexander Liberte",
         "unitType": "Frame",
         "movement": 6,
-        "strength": 100,
+        "strength": 110,
         "cost": 800,
         "requiredResource": "Sakuradait",
         "requiredTech": "Knightmare Gen.7 Experemental models",
         "uniques": [
             
+            "Consumes [1] [Human Resourses]",
+            "Consumes [1] [Sakuradait]",
+            "Consumes [1] [Metall]",
             "Limited to [1] per Civilization",
             "[+50]% Strength <when attacking>",
             "[+200]% Strength <vs [Armored] units> <when attacking>",
@@ -1418,7 +1557,7 @@
         "name": "Alexander ▎  ▎",
         "unitType": "Frame",
         "movement": 7,
-        "uniqueTo": "East Republic",
+        "uniqueTo": "United States of America",
         "replaces": "Alexander Liberte",
         "strength": 115,
         "cost": 800,
@@ -1426,6 +1565,8 @@
         "requiredTech": "Knightmare Gen.7",
         "uniques": [
             
+            "Consumes [1] [Human Resourses]",
+            "Unbuildable",
             "Limited to [1] per Civilization",
             "[+50]% Strength <when attacking>",
             "[+200]% Strength <vs [Armored] units> <when attacking>",
@@ -1457,6 +1598,9 @@
         "requiredTech": "Knightmare Gen.7 Experemental models",
         "uniques": [
             
+            "Consumes [1] [Human Resourses]",
+            "Consumes [1] [Sakuradait]",
+            "Consumes [3] [Metall]",
             "Limited to [1] per Civilization",
             "[+200]% Strength <vs [Armored] units> <when attacking>",
             "[+200]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
@@ -1484,6 +1628,7 @@
         "requiredTech": "Knightmare Gen.7",
         "uniques": [
             
+            "Consumes [1] [Human Resourses]",
             "[+200]% Strength <vs [Armored] units> <when attacking>",
             "[+200]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+250]% Strength <vs [Gunpowder] units> <when attacking>",
@@ -1510,7 +1655,9 @@
         "requiredResource": "Sakuradait",
         "requiredTech": "Knightmare Gen.5",
         "uniques": [
-
+            
+            "Consumes [1] [Human Resourses]",
+            "Consumes [2] [Metall]",
             "[+200]% Strength <vs [Armored] units> <when attacking>",
             "[+120]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+200]% Strength <vs [Gunpowder] units> <when attacking>",
@@ -1538,6 +1685,8 @@
         "requiredTech": "Knightmare Revolution",
         "uniques": [
 
+            "Consumes [1] [Human Resourses]",
+            "Consumes [1] [Metall]",
             "[+120]% Strength <vs [Armored] units> <when attacking>",
             "[+165]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+200]% Strength <vs [Gunpowder] units> <when attacking>",
@@ -1563,6 +1712,8 @@
         "requiredTech": "Portman I",
         "uniques": [
 
+            "Consumes [1] [Human Resourses]",
+            "Consumes [2] [Metall]",
             "[+130]% Strength <vs [Armored] units> <when attacking>",
             "[+150]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+150]% Strength <vs [Gunpowder] units> <when attacking>",
@@ -1595,6 +1746,8 @@
         "requiredTech": "Knightmare Revolution",
         "uniques": [
 
+            "Consumes [1] [Human Resourses]",
+            "Consumes [3] [Metall]",
             "[+195]% Strength <vs [Armored] units> <when attacking>",
             "[+165]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+300]% Strength <vs [Gunpowder] units> <when attacking>",
@@ -1622,6 +1775,9 @@
         "requiredTech": "Knightmare Gen.6",
         "uniques": [
             
+            "Consumes [1] [Human Resourses]",
+            "Consumes [2] [Metall]",
+            "Consumes [1] [Sakuradait]",
             "Limited to [1] per Civilization",
             "Only available <in cities with a [Zetland Blueprint]>",
             "[+200]% Strength <vs [Armored] units> <when attacking>",
@@ -1650,7 +1806,10 @@
         "cost": 1000,
         "requiredTech": "Knightmare Gen.6",
         "uniques": [
-            
+
+            "Consumes [1] [Human Resourses]",
+            "Consumes [2] [Metall]",
+            "Consumes [1] [Sakuradait]",
             "Limited to [1] per Civilization",
             "Only available <in cities with a [Bradford Blueprint]>",
             "[+200]% Strength <vs [Armored] units> <when attacking>",
@@ -1678,6 +1837,9 @@
         "requiredTech": "Knightmare Gen.6",
         "uniques": [
             
+            "Consumes [2] [Human Resourses]",
+            "Consumes [3] [Metall]",
+            "Consumes [1] [Sakuradait]",
             "Limited to [1] per Civilization",
             "Only available <in cities with a [Gawain Blueprint]>",
             "[+200]% Strength <vs [Armored] units> <when attacking>",
@@ -1707,6 +1869,8 @@
         "requiredTech": "Knightmare Revolution",
         "uniques": [
 
+            "Consumes [1] [Human Resourses]",
+            "Consumes [1] [Metall]",
             "[+120]% Strength <vs [Armored] units> <when attacking>",
             "[+165]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+80]% Strength <vs [Frame] units> <when attacking>",
@@ -1733,6 +1897,8 @@
         "requiredTech": "Knightmare Gen.5",
         "uniques": [
 
+            "Consumes [1] [Human Resourses]",
+            "Consumes [2] [Metall]",
             "[+175]% Strength <vs [Armored] units> <when attacking>",
             "[+200]% Strength <vs [Frame] units> <when attacking>",
             "[+165]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
@@ -1761,6 +1927,8 @@
         "requiredTech": "Knightmare Gen.5",
         "uniques": [
 
+            "Consumes [1] [Human Resourses]",
+            "Consumes [3] [Metall]",
             "[+175]% Strength <vs [Armored] units> <when attacking>",
             "[+140]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+140]% Strength <vs [Gunpowder] units> <when attacking>",
@@ -1791,6 +1959,9 @@
         "requiredTech": "Knightmare Gen.5",
         "uniques": [
             
+            "Consumes [3] [Human Resourses]",
+            "Consumes [3] [Metall]",
+            "Consumes [1] [Sakuradait]",
             "Limited to [1] per Civilization",
             "Consumes [1] [Sakuradait]",
             "[+200]% Strength <vs [Armored] units> <when attacking>",
@@ -1822,6 +1993,8 @@
         "requiredTech": "Knightmare Gen.5",
         "uniques": [
 
+            "Consumes [1] [Human Resourses]",
+            "Consumes [1] [Metall]",
             "[+200]% Strength <vs [Armored] units> <when attacking>",
             "[+200]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+200]% Strength <vs [Gunpowder] units> <when attacking>",
@@ -1850,6 +2023,8 @@
         "requiredTech": "Knightmare Gen.5",
         "uniques": [
 
+            "Consumes [4] [Human Resourses]",
+            "Consumes [3] [Metall]",
             "[+210]% Strength <vs [Armored] units> <when attacking>",
             "[+140]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+140]% Strength <vs [Gunpowder] units> <when attacking>",
@@ -1878,6 +2053,8 @@
         "requiredTech": "Knightmare Gen.5",
         "uniques": [
 
+            "Consumes [1] [Human Resourses]",
+            "Consumes [2] [Metall]",
             "[+210]% Strength <vs [Armored] units> <when attacking>",
             "[+160]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+140]% Strength <vs [Gunpowder] units> <when attacking>",

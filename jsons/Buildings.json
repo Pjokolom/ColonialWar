@@ -9,7 +9,11 @@
 		"culture": 1,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Indicates the capital city"]
+		"uniques": [
+            "Indicates the capital city",
+            "Provides [10] [Human Resourses]"
+        
+        ]
 	},
 	{
         "name": "Cathedral",
@@ -47,7 +51,8 @@
 		"cityStrength": 2,
 		"cost": 1,
 		"uniques": ["Indicates the capital city",
-		"Provides [2] [Metall]"]
+		"Provides [2] [Metall]",
+        "Provides [8] [Human Resourses]"]
 	},
     {
 		"name": "Chinese Palace",
@@ -61,7 +66,8 @@
 		"culture": 3,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Indicates the capital city", "[-25]% [Food] [in this city]"]
+		"uniques": ["Indicates the capital city", "[-25]% [Food] [in this city]",
+        "Provides [12] [Human Resourses]"]
 	},
 	{
 		"name": "Weaponry Fabric",
@@ -94,11 +100,11 @@
 	{
 		"name": "Network tower",
 		"maintenance": 3,
-        "happiness": 3,
+        "happiness": 2,
 		"hurryCostModifier": 25,
 		"uniques": [
 
-			"[+2 Happiness] <after discovering [Xenoecology]>"
+			"[+1 Happiness] <after discovering [Xenoecology]>"
 
 		],
 		"requiredTech": "PC Fabrics"
@@ -177,7 +183,7 @@
 		"hurryCostModifier": 25,
         "uniqueTo": "Russia",
         "replaces": "Brewery",
-        "happiness": 6,
+        "happiness": 3,
 	"culture": 5,
         "requiredNearbyImprovedResources": [
                 "Cibus",
@@ -199,7 +205,7 @@
 		"hurryCostModifier": 25,
         "uniqueTo": "United States of America",
         "replaces": "Brewery",
-        "happiness": 6,
+        "happiness": 2,
         "requiredNearbyImprovedResources": [
                 "Cibus",
                 "Biarka"
@@ -281,7 +287,8 @@
             "Unbuildable",
             "Unsellable",
             "[+50]% Production when constructing [Gunpowder] units [in this city]",
-            "[+50]% Production when constructing [Ranged Gunpowder] units [in this city]"
+            "[+50]% Production when constructing [Ranged Gunpowder] units [in this city]",
+            "Provides [3] [Human Resourses]"
 
 
         ],
@@ -381,7 +388,7 @@
 	{
         "name": "TV company",
         "cost": 450,
-        "percentStatBonus": {"happiness": 30},
+        "percentStatBonus": {"happiness": 25},
         "gold": 15,
         "isNationalWonder": true,
         "uniques": [
@@ -397,9 +404,9 @@
         "uniques": [
 
                 "Must be next to [Coast]",
-                "[+2 Gold, +1 Happiness] from [Coast] tiles [in this city]",
-                "[+1 Happiness] from [Mountain] tiles [in this city]",
-                "[+1 Gold, +1 Happiness] from [Lake] tiles [in this city]",
+                "[+1 Happiness, -2 Production] from [Coast] tiles [in this city]",
+                "[+1 Happiness] from [Mountain] tiles [in this city]"
+                
                 
 
         ],
@@ -416,7 +423,8 @@
         "isNationalWonder": true,
         "uniques": [
             "Only available <if [Network tower] is constructed in all [non-[Puppeted]] cities>",
-            "Cost increases by [30] per owned city"
+            "Cost increases by [30] per owned city",
+            "Provides [4] [Human Resourses]"
         ],
         "requiredTech": "Satellite communications"
     },
@@ -427,14 +435,27 @@
         "maintenance": 3,
         "uniques": [
             "New [Military] units start with [15] XP [in this city]",
-            "Destroyed when the city is captured"
+            "Destroyed when the city is captured",
+            "Provides [7] [Human Resourses]"
         ],
         "requiredTech": "Drones"
     },
     {
+        "name": "Building Materials Factory",
+        "hurryCostModifier": 0,
+        "cost": 300,
+        "maintenance": 3,
+        "uniques": [
+            "Destroyed when the city is captured",
+            "Provides [7] [Stone]",
+            "Instantly consumes [4] [Metal]"
+        ],
+        "requiredTech": "Xenology"
+    },
+    {
         "name": "Statue of Liberty",
         "culture": 1,
-        "happiness": 6,
+        "happiness": 5,
         "isWonder": true,
         "uniques": [
             "[+6] population [in this city]",
@@ -463,10 +484,10 @@
         "hurryCostModifier": 15,
                 "uniques": [
 
-            "[+4 Food] from [Farm] tiles <in [Desert] tiles> [in this city]",
-            "[+1 Food] from [Farm] tiles <in [Plains] tiles> [in this city]",
-            "[+3 Food] from [Houses] tiles <in [Tundra] tiles> [in this city]",
-            "[+3 Food] from [Houses] tiles <in [Snow] tiles> [in this city]"
+            "[+2 Food] from [Desert] tiles [in this city]",
+            "[+1 Food] from [Farm] tiles [in this city]",
+            "[+1 Food] from [Houses] tiles [in this city]",
+            "[+2 Food] from [Snow] tiles [in this city]"
 
             
                 ],

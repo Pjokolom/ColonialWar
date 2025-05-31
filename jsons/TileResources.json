@@ -142,6 +142,10 @@
         "minorDepositAmount": {"sparse": 2, "default": 5, "abundant": 10}
     },
     {
+        "name": "Human Resourses",
+        "resourceType": "Strategic"
+    },
+    {
         "name": "Sakuradait",
         "resourceType": "Strategic",
         "terrainsCanBeFoundOn": ["Marsh","Jungle","Forest","Tundra","Snow","Grassland","Plains","Desert"],
@@ -158,7 +162,7 @@
             "Minor deposits generated with weight [10] <in [{Featureless} {Tundra}] tiles>",
             "Minor deposits generated with weight [10] <in [{Featureless} {Snow}] tiles>"
         ],
-        "majorDepositAmount": {"sparse": 3, "default": 4, "abundant": 10},
+        "majorDepositAmount": {"sparse": 5, "default": 7, "abundant": 10},
         "minorDepositAmount": {"sparse": 1, "default": 2, "abundant": 3}
     },
     

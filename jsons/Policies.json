@@ -54,7 +54,7 @@
             {
                 "name": "Monarchy",
                 "uniques": [
-                    "[+1 Gold, +1 Happiness] per [1] population [in capital]",
+                    "[+1 Gold, +1 Happiness] per [2] population [in capital]",
                     "Provides [1] [Policies]"
                 ],
                 "requires": ["Legalism"],
@@ -176,7 +176,7 @@
                     "Units in cities cost no Maintenance",
                     "[+1 Happiness, +2 Culture] [in all cities with a garrison]",
                     "Provides [1] [Policies]",
-                    "[+2 Happiness] from every [Courthouse]"
+                    "[+1 Happiness] from every [Courthouse]"
                 ],
                 "requires": ["Warrior Code"],
                 "row": 2,
@@ -492,7 +492,7 @@
             {
                 "name": "Socialist Realism",
                 "uniques": [
-                    "[+2 Happiness] from every [Monument]",
+                    "[+1 Happiness] from every [Monument]",
                     "[+100]% Production when constructing [Monument] buildings [in all cities]",
                     "Provides [1] [Level 1 Ideology]",
                     "Provides [1] [Policies]"
@@ -910,9 +910,9 @@
                 "name": "Mobilization",
                 "uniques": [
                     "[Gold] cost of purchasing [All] units [-25]%",
-                    "[-25]% maintenance costs <for [All] units>",
                     "Provides [1] [Level 1 Ideology]",
-                    "Provides [1] [Policies]"
+                    "Provides [1] [Policies]",
+                    "[-10]% [Food] [in all cities]"
                 ],
                 "row": 1,
                 "column": 3

@@ -133,6 +133,7 @@
         "defeated": "See you in hell.",
         "introduction": "Salamaleikum brother.",
         "neutralHello": "Salam.",
+        "favoredReligion": "Islam",
         "hateHello": "You again?",
         "tradeRequest": "We need to talk.",
         "outerColor": [40, 120, 90],
@@ -165,6 +166,7 @@
         "defeated": "You have triumphed over us. The day is yours.",
         "introduction": "We are pleased to meet you.",
         "neutralHello": "Hello, again.",
+        "favoredReligion": "Church of Brittany",
         "hateHello": "Oh, it's you!",
         "tradeRequest": "Would you be interested in a trade agreement with England?",
         "outerColor": [114, 0, 0],
@@ -180,6 +182,7 @@
             "[-35]% [Happiness] [in annexed cities]  <in cities with at least [6] [Population]>"
         ],
         "cities": [
+            "Pendragon",
             "Bastol",
             "Briton",
             "Camstol",
@@ -319,11 +322,12 @@
         "neutralHello": "Greetings.",
         "hateHello": "What do you want?",
         "tradeRequest": "We need to talk some things.",
-        "outerColor": [6, 118, 98],
-        "innerColor": [255, 255, 255],
+        "outerColor": [255, 255, 0],
+        "innerColor": [170, 30, 30],
         "uniqueName": "Fast Workers",
         "uniques": [
 
+            "[-20]% construction time for [All] improvements",
             "Can build [Houses] improvements at a [+50]% rate",
             "Earn [20]% of killed [Xenos] unit's [Cost] as [Science] <hidden from users>"
 
@@ -368,13 +372,49 @@
         "uniques": [
             "[+1 Food, +1 Gold] from every [Sheep]",
             "[+10]% Strength <in [Hill] tiles>",
-            "Starts with [Basic Water Machines]"
+            "Starts with [Basic Water Machines]",
+            "Earn [20]% of killed [Xenos] unit's [Cost] as [Science] <hidden from users>"
         ],
         "cities": [
 
             "Cardiff","Swansea","Casnewydd","Wrecsam","Y Barri","Cwmbran","Pen-y-bont ar Ogwr","Lianelli","Penrhyndeudraeth","Caerffili",
             "Llanfairpwllgwyngyll","Ynysybwl","Pont-y-pwl","Bro Morgannwg","Cefn-Mawr","Coed Duon","Bwcle","Ystrad Mynach","Maesteg","Glyn Ebwy",
             "Aberystwyth","Bangor","Senghenydd","Tumble","Ystradgynlais","Pontypridd","Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch"
+        ],
+        "spyNames": [
+            "Gwaelod","Ap Tudur","Ap Gruffudd","Fawr","Madog","Abberffraw","Hywel Dda","Mawr","Llewelyn","Bryn"
+        ]
+    },
+    {
+        "name": "Israel",
+        "leaderName": "Albe Reti",
+        "adjective": ["Israeli"],
+        "startBias": ["Hill"],
+        "startIntroPart1": " ",
+        "startIntroPart2": " ",
+        "declaringWar": "God has spoken to me, and has told me that war between us has become inevitable!",
+        "attacked": "I have the power of God at my side, so I have no reason to fear you.",
+        "defeated": "My Lord has punished my people, but we shall return to the light.",
+        "introduction": "My blessings to thou, stranger. I am King David, and I guide the people of Israel.",
+        "neutralHello": "Greetings.",
+        "hateHello": "What do you want?",
+        "favoredReligion": "Judaism",
+        "tradeRequest": "Better hurry, I may change my mind.",
+        "outerColor": [240, 240, 245],
+        "innerColor": [40, 40, 70],
+        "uniqueName": "The Promised Land",
+        "uniques": [
+            
+            "Retain [20]% of the happiness from a luxury after the last copy has been traded away",
+            "[+3 Culture] from every [Pasture]",
+            "[1] free [Quadcopter] units appear",
+            "Earn [20]% of killed [Xenos] unit's [Cost] as [Science] <hidden from users>"
+            
+        ],
+        "cities": [
+            
+            "Hebron","Jericho","Sidon","Bethlehem","Tyre","Nazareth","Kadesh","Zeboim","Admah",
+            "Gaza","Megiddo","Nineveh","Gomorrah","Avaris"
         ],
         "spyNames": [
             "Gwaelod","Ap Tudur","Ap Gruffudd","Fawr","Madog","Abberffraw","Hywel Dda","Mawr","Llewelyn","Bryn"
