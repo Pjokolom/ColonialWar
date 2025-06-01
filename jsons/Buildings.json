@@ -448,7 +448,7 @@
         "uniques": [
             "Destroyed when the city is captured",
             "Provides [7] [Stone]",
-            "Instantly consumes [4] [Metal]"
+            "Сonsumes [4] [Metall]"
         ],
         "requiredTech": "Xenology"
     },

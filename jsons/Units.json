@@ -393,6 +393,66 @@
         "attackSound": "tankshot"
     },
     {
+        "name": "Merkava Mk7",
+        "unitType": "Armored",
+        "movement": 5,
+        "uniqueTo": "Israel",
+        "replaces": "Modern Armor",
+        "strength": 75,
+        "rangedStrength": 47,
+        "range": 1,
+        "cost": 400,
+        "obsoleteTech": "Lazerguns",
+        "requiredTech": "Basic War Machines",
+        "requiredResource": "Metall",
+        "uniques": [
+
+
+            "Consumes [3] [Human Resourses]",
+            "Consumes [3] [Metall]",
+            "[+1] Movement <in [Desert] tiles>",
+            "Can move after attacking",
+            "No defensive terrain bonus",
+            "Only available <in cities with a [Weaponry Fabric]>",
+            "Only available <in cities with a [Tech Fabric]>",
+            "[+75]% Strength <vs [Land] units>",
+            "[+20]% Strength <vs [Armored] units> <when attacking>",
+            "Never appears as a Barbarian unit"
+
+        ],
+        "attackSound": "tankshot"
+    },
+    {
+        "name": "Edmund Mk1",
+        "unitType": "Armored",
+        "movement": 4,
+        "uniqueTo": "British Empire",
+        "replaces": "Modern Armor",
+        "strength": 75,
+        "rangedStrength": 47,
+        "range": 1,
+        "cost": 400,
+        "obsoleteTech": "Lazerguns",
+        "requiredTech": "Basic War Machines",
+        "requiredResource": "Metall",
+        "uniques": [
+
+
+            "Consumes [3] [Human Resourses]",
+            "Consumes [3] [Metall]",
+            "[+2] Movement <in [Open terrain] tiles>",
+            "Can move after attacking",
+            "No defensive terrain bonus",
+            "Only available <in cities with a [Weaponry Fabric]>",
+            "Only available <in cities with a [Tech Fabric]>",
+            "[+75]% Strength <vs [Land] units>",
+            "[+20]% Strength <vs [Armored] units> <when attacking>",
+            "Never appears as a Barbarian unit"
+
+        ],
+        "attackSound": "tankshot"
+    },
+    {
         "name": "Alkhazar",
         "unitType": "Armored",
         "movement": 4,
@@ -1301,8 +1361,9 @@
         "requiredResource": "Metall",
         "cost": 300,
         "requiredTech": "Rockets",
-        "uniques": [
+        "uniques": [   
 
+            "Consumes [1] [Metall]",
             "[-100]% maintenance costs"
         ],
         "attackSound": "missile"
