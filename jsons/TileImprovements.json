@@ -99,6 +99,7 @@
         "techRequired": "AI",
         "turnsToBuild": 15,
         "uniques": [
+            "Consumes [1] [Stone]",
             "Pillaging this improvement yields approximately [+60 Gold]",
             "[+3 Gold] <after discovering [Satellite communications]>",
             "[-2 Food] <after discovering [Satellite communications]>",
@@ -291,7 +292,9 @@
         "uniques": [
             "Turn this tile into a [Floating Land] tile",
             "Removes removable features when built",
-            "Excluded from map editor"
+            "Excluded from map editor",
+            "Instantly consumes [1] [Stone]"
+            "Consumes [1] [Stone]"
         ],
         "terrainsCanBeBuiltOn": ["Coast"]
     },

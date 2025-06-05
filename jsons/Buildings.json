@@ -428,6 +428,17 @@
         ],
         "requiredTech": "Satellite communications"
     },
+    	{
+        "name": "Military registration and enlistment office",
+        "hurryCostModifier": 0,
+        "cost": 200,
+        "maintenance": 2,
+        "uniques": [
+            "Destroyed when the city is captured",
+            "Provides [2] [Human Resourses]"
+        ],
+        "requiredTech": "Weaponry Fabrics"
+    },
 	{
         "name": "Military Base",
         "hurryCostModifier": 0,

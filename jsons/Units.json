@@ -1494,6 +1494,8 @@
         "replaces": "Alexander Liberte",
         "uniqueTo": "Japan",
         "strength": 160,
+        "obsoleteTech": "Knightmare Gen.7",
+        "upgradesTo": "Guren MK-2",
         "cost": 800,
         "requiredResource": "Sakuradait",
         "requiredTech": "Knightmare Gen.7 Experemental models",
@@ -1514,6 +1516,67 @@
             "Only available <in cities with a [Weaponry Fabric]>",
             "Only available <in cities with a [Tech Fabric]>",
             "Withdraws before melee combat <with [60]% chance>",
+            "Never appears as a Barbarian unit"
+
+        ],
+        "attackSound": "metalhit"
+    },
+    {
+        "name": "Guren MK-2",
+        "unitType": "Frame",
+        "movement": 6,
+        "uniqueTo": "Japan",
+        "strength": 160,
+        "cost": 800,
+        "requiredResource": "Sakuradait",
+        "requiredTech": "Knightmare Gen.7",
+        "uniques": [
+            
+            "Consumes [1] [Human Resourses]",
+            "Consumes [1] [Sakuradait]",
+            "Consumes [2] [Metall]",
+            "Limited to [1] per Civilization",
+            "[+60]% Strength <when attacking>",
+            "[+200]% Strength <vs [Armored] units> <when attacking>",
+            "[+200]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
+            "[+250]% Strength <vs [Gunpowder] units> <when attacking>",
+            "[-90]% Strength <vs [Helicopter] units> <when attacking>",
+            "[+300]% Strength <vs [Frame] units> <when attacking>",
+            "[+60]% Strength <vs cities> <when attacking>",
+            "Only available <in cities with a [Weaponry Fabric]>",
+            "Only available <in cities with a [Tech Fabric]>",
+            "Withdraws before melee combat <with [50]% chance>",
+            "Never appears as a Barbarian unit"
+
+        ],
+        "attackSound": "metalhit"
+    },
+    {
+        "name": "Akatsuki MPM",
+        "unitType": "Frame",
+        "movement": 6,
+        "uniqueTo": "Japan",
+        "strength": 160,
+        "cost": 800,
+        "rangedStrength": 120,
+        "range": 1,
+        "requiredResource": "Sakuradait",
+        "requiredTech": "Knightmare Gen.7",
+        "uniques": [
+            
+            "Consumes [1] [Human Resourses]",
+            "Consumes [1] [Sakuradait]",
+            "Consumes [2] [Metall]",
+            "[+200]% Strength <vs [Armored] units> <when attacking>",
+            "[+200]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
+            "[+250]% Strength <vs [Gunpowder] units> <when attacking>",
+            "[+100]% Strength <vs [Helicopter] units> <when attacking>",
+            "[+100]% Strength <vs [Frame] units> <when attacking>",
+            "[+30]% Strength <vs cities> <when attacking>",
+            "Can move after attacking",
+            "Only available <in cities with a [Weaponry Fabric]>",
+            "Only available <in cities with a [Tech Fabric]>",
+            "Withdraws before melee combat <with [50]% chance>",
             "Never appears as a Barbarian unit"
 
         ],
@@ -1600,8 +1663,8 @@
             "Limited to [1] per Civilization",
             "[+50]% Strength <when attacking>",
             "[+200]% Strength <vs [Armored] units> <when attacking>",
-            "[+200]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
-            "[+250]% Strength <vs [Gunpowder] units> <when attacking>",
+            "[+300]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
+            "[+300]% Strength <vs [Gunpowder] units> <when attacking>",
             "[-75]% Strength <vs [Helicopter] units> <when attacking>",
             "[+200]% Strength <vs [Frame] units> <when attacking>",
             "[+60]% Strength <vs cities> <when attacking>",
@@ -1614,6 +1677,7 @@
         ],
         "attackSound": "metalhit"
     },
+    
     {
         "name": "Alexander ▎  ▎",
         "unitType": "Frame",
@@ -1648,17 +1712,19 @@
     {
         "name": "ShM-01",
         "unitType": "Frame",
-        "movement": 4,
-        "strength": 130,
+        "movement": 3,
+        "strength": 90,
         "cost": 800,
         "uniqueTo": "East Republic",
         "replaces": "Alexander Liberte",
-        "rangedStrength": 100,
-        "range": 1,
+        "rangedStrength": 150,
+        "range": 2,
         "requiredResource": "Sakuradait",
         "requiredTech": "Knightmare Gen.7 Experemental models",
         "uniques": [
             
+
+            "Must set up to ranged attack",
             "Consumes [1] [Human Resourses]",
             "Consumes [1] [Sakuradait]",
             "Consumes [3] [Metall]",
@@ -1666,8 +1732,37 @@
             "[+200]% Strength <vs [Armored] units> <when attacking>",
             "[+200]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+250]% Strength <vs [Gunpowder] units> <when attacking>",
-            "[-75]% Strength <vs [Helicopter] units> <when attacking>",
+            "[+175]% Strength <vs [Helicopter] units> <when attacking>",
             "[+170]% Strength <vs [Frame] units> <when attacking>",
+            "[+60]% Strength <vs cities> <when attacking>",
+            "Only available <in cities with a [Weaponry Fabric]>",
+            "Only available <in cities with a [Tech Fabric]>",
+            "Withdraws before melee combat <with [60]% chance>",
+            "Never appears as a Barbarian unit"
+
+        ],
+        "attackSound": "artillery"
+    },
+    {
+        "name": "ShM-02",
+        "unitType": "Frame",
+        "movement": 4,
+        "strength": 160,
+        "cost": 800,
+        "rangedStrength": 100,
+        "range": 1,
+        "uniqueTo": "East Republic",
+        "requiredResource": "Sakuradait",
+        "requiredTech": "Knightmare Gen.7",
+        "uniques": [
+            
+            "Consumes [2] [Metall]",
+            "Consumes [1] [Human Resourses]",
+            "[+200]% Strength <vs [Armored] units> <when attacking>",
+            "[+200]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
+            "[+250]% Strength <vs [Gunpowder] units> <when attacking>",
+            "[+250]% Strength <vs [Helicopter] units> <when attacking>",
+            "[+80]% Strength <vs [Frame] units> <when attacking>",
             "[+60]% Strength <vs cities> <when attacking>",
             "Can move after attacking",
             "Only available <in cities with a [Weaponry Fabric]>",
@@ -1681,7 +1776,7 @@
     {
         "name": "ShM-02 Shield bearer",
         "unitType": "Frame",
-        "movement": 4,
+        "movement": 5,
         "strength": 160,
         "cost": 800,
         "uniqueTo": "East Republic",
@@ -1689,6 +1784,7 @@
         "requiredTech": "Knightmare Gen.7",
         "uniques": [
             
+            "Consumes [2] [Metall]",
             "Consumes [1] [Human Resourses]",
             "[+200]% Strength <vs [Armored] units> <when attacking>",
             "[+200]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
