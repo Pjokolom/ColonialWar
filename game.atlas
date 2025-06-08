@@ -368,6 +368,13 @@ UnitIcons/Albierta
   orig: 200, 200
   offset: 0, 0
   index: -1
+UnitIcons/Allert
+  rotate: false
+  xy: 268, 1100
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 UnitIcons/Alexander Liberte
   rotate: false
   xy: 4, 1044
@@ -3922,6 +3929,13 @@ TileSets/HexaRealm/Units/Akatsuki MPM
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Albierta
+  rotate: false
+  xy: 1466, 482
+  size: 76, 65
+  orig: 76, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Allert
   rotate: false
   xy: 1466, 482
   size: 76, 65
