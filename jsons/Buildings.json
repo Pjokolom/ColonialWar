@@ -447,7 +447,7 @@
         "uniques": [
             "New [Military] units start with [15] XP [in this city]",
             "Destroyed when the city is captured",
-            "Provides [7] [Human Resourses]"
+            "Provides [5] [Human Resourses]"
         ],
         "requiredTech": "Drones"
     },

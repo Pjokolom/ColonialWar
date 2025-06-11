@@ -1983,7 +1983,7 @@
             "Must set up to ranged attack"
 
         ],
-        "attackSound": "artillery"
+        "attackSound": "metalhit"
     },
     {
         "name": "Bradford",
@@ -2041,6 +2041,38 @@
             "Only available <in cities with a [Weaponry Fabric]>",
             "Only available <in cities with a [Tech Fabric]>",
             "Withdraws before melee combat <with [85]% chance>",
+            "Never appears as a Barbarian unit"
+
+        ],
+        "attackSound": "artillery"
+    },
+    {
+        "name": "Gareth",
+        "unitType": "Frame",
+        "movement": 6,
+        "strength": 125,
+        "cost": 1000,
+        "uniqueTo": "British Empire",
+        "requiredResource": "Sakuradait",
+        "requiredTech": "Knightmare Gen.7",
+        "uniques": [
+            
+            "Consumes [1] [Human Resourses]",
+            "Consumes [3] [Metall]",
+            "Consumes [1] [Sakuradait]",
+            "Limited to [1] per Civilization",
+            "[+200]% Strength <vs [Armored] units> <when attacking>",
+            "[+120]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
+            "[+200]% Strength <vs [Gunpowder] units> <when attacking>",
+            "[-75]% Strength <vs [Helicopter] units> <when attacking>",
+            "[+200]% Strength <vs [Frame] units> <when attacking>",
+            "Can move after attacking",
+            "Only available <in cities with a [Weaponry Fabric]>",
+            "Only available <in cities with a [Tech Fabric]>",
+            "Withdraws before melee combat <with [90]% chance>",
+            "May travel on Water tiles without embarking",
+            "All tiles cost 1 movement",
+            "Can pass through impassable tiles",
             "Never appears as a Barbarian unit"
 
         ],

@@ -9,7 +9,13 @@
     },
     {
         "name": "Xenos",
-        "movementType": "Land"
+        "movementType": "Land",
+        "uniques":[
+
+            "[This Unit] takes [100] damage <in [Coast] tiles>",
+            "Cannot embark"
+        
+        ]
     },
     {
         "name": "Gunpowder",
