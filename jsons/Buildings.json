@@ -84,6 +84,18 @@
 
 		"requiredTech": "Weaponry Fabrics"
 	},
+    {
+        "name": "Forge",
+        "maintenance": 1,
+        "hurryCostModifier": 25,
+        "requiredNearbyImprovedResources": ["Metall"],
+        "requiredTech": "Tech Fabrics",
+        "uniques": [
+
+            "Provides [3] [Metall]",
+            "[+1 Production] from [Metall] tiles [in this city]"
+        ]
+    },
 	{
 		"name": "Tech Fabric",
 		"maintenance": 5,
@@ -288,7 +300,7 @@
             "Unsellable",
             "[+50]% Production when constructing [Gunpowder] units [in this city]",
             "[+50]% Production when constructing [Ranged Gunpowder] units [in this city]",
-            "Provides [3] [Human Resourses]"
+            "Provides [1] [Human Resourses]"
 
 
         ],
@@ -447,7 +459,7 @@
         "uniques": [
             "New [Military] units start with [15] XP [in this city]",
             "Destroyed when the city is captured",
-            "Provides [5] [Human Resourses]"
+            "Provides [4] [Human Resourses]"
         ],
         "requiredTech": "Drones"
     },

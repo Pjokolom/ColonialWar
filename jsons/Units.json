@@ -157,7 +157,7 @@
         "cost": 300,
         "uniques": [
             
-            "Consumes [1] [Human Resourses]",
+            "Consumes [3] [Human Resourses]",
             "Only available <in cities with a [Weaponry Fabric]>", 
             "[-100]% Strength <vs cities> <when attacking>",
             "Never appears as a Barbarian unit",
@@ -181,7 +181,7 @@
         "requiredTech": "Weaponry Fabrics",
         "uniques": [
             
-            "Consumes [3] [Human Resourses]",
+            "Consumes [5] [Human Resourses]",
             "Only available <in cities with a [Weaponry Fabric]>",
             "Never appears as a Barbarian unit",
             "[-70]% Strength <vs [Armored] units> <when attacking>",
@@ -314,7 +314,7 @@
         "requiredTech": "Basic War Machines",
         "uniques": [
             
-            "Consumes [3] [Human Resourses]",
+            "Consumes [5] [Human Resourses]",
             "Consumes [1] [Metall]",
             "Never appears as a Barbarian unit",
             "Only available <in cities with a [Weaponry Fabric]>",
@@ -337,7 +337,7 @@
         "requiredTech": "Basic War Machines",
         "uniques": [
             
-            "Consumes [3] [Human Resourses]",
+            "Consumes [4] [Human Resourses]",
             "Consumes [1] [Metall]",
             "Never appears as a Barbarian unit",
             "Only available <in cities with a [Weaponry Fabric]>",
@@ -547,7 +547,7 @@
         "cost": 330,
         "uniques": [
             
-            "Consumes [2] [Human Resourses]",
+            "Consumes [4] [Human Resourses]",
             "Only available <in cities with a [Weaponry Fabric]>",
             "[+300]% Strength <vs [Armored] units> <when attacking>",
             "Never appears as a Barbarian unit",
@@ -571,7 +571,7 @@
         "cost": 330,
         "uniques": [
             
-            "Consumes [2] [Human Resourses]",
+            "Consumes [4] [Human Resourses]",
             "Only available <in cities with a [Weaponry Fabric]>",
             "[+400]% Strength <vs [Armored] units> <when attacking>",
             "[+200]% Strength <vs [Frame] units> <when attacking>",
@@ -1691,13 +1691,40 @@
         "uniques": [
             
             "Consumes [1] [Human Resourses]",
-            "Unbuildable",
-            "Limited to [1] per Civilization",
             "[+50]% Strength <when attacking>",
             "[+200]% Strength <vs [Armored] units> <when attacking>",
             "[+200]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+250]% Strength <vs [Gunpowder] units> <when attacking>",
-            "[-75]% Strength <vs [Helicopter] units> <when attacking>",
+            "[+200]% Strength <vs [Frame] units> <when attacking>",
+            "[+60]% Strength <vs cities> <when attacking>",
+            "Can move after attacking",
+            "Only available <in cities with a [Weaponry Fabric]>",
+            "Only available <in cities with a [Tech Fabric]>",
+            "Withdraws before melee combat <with [60]% chance>",
+            "Never appears as a Barbarian unit"
+
+        ],
+        "attackSound": "metalhit"
+    },
+    {
+        "name": "Alexander",
+        "unitType": "Frame",
+        "movement": 5,
+        "uniqueTo": "Swiss Union",
+        "replaces": "Alexander Liberte",
+        "strength": 115,
+        "cost": 800,
+        "requiredResource": "Sakuradait",
+        "requiredTech": "Knightmare Gen.7",
+        "uniques": [
+            
+            "Consumes [1] [Human Resourses]",
+            "[+3] Movement <in [Houses] tiles>",
+            "[+3] Movement <in [Mine] tiles>",
+            "[+50]% Strength <when attacking>",
+            "[+200]% Strength <vs [Armored] units> <when attacking>",
+            "[+200]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
+            "[+250]% Strength <vs [Gunpowder] units> <when attacking>",
             "[+200]% Strength <vs [Frame] units> <when attacking>",
             "[+60]% Strength <vs cities> <when attacking>",
             "Can move after attacking",
@@ -1903,8 +1930,40 @@
         "requiredTech": "Knightmare Revolution",
         "uniques": [
 
-            "Consumes [1] [Human Resourses]",
+            "Consumes [2] [Human Resourses]",
             "Consumes [3] [Metall]",
+            "[+195]% Strength <vs [Armored] units> <when attacking>",
+            "[+165]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
+            "[+300]% Strength <vs [Gunpowder] units> <when attacking>",
+            "[+165]% Strength <vs [Helicopter] units> <when attacking>",
+            "[+80]% Strength <vs [Water] units> <when attacking>",
+            "[+45]% Strength <vs [Frame] units> <when attacking>",
+            "Can move after attacking",
+            "Only available <in cities with a [Weaponry Fabric]>",
+            "Only available <in cities with a [Tech Fabric]>",
+            "Withdraws before melee combat <with [50]% chance>",
+            "Never appears as a Barbarian unit"
+
+        ],
+        "attackSound": "artillery"
+    },
+    {
+        "name": "Panzer-Wespe",
+        "unitType": "Frame",
+        "movement": 3,
+        "strength": 120,
+        "rangedStrength": 90,
+        "range": 2,
+        "requiredResource": "Sakuradait",
+        "cost": 670,
+        "uniqueTo": "Muachidi",
+        "requiredTech": "Knightmare Gen.5",
+        "uniques": [
+
+            "Consumes [2] [Human Resourses]",
+            "Consumes [3] [Metall]",
+            "[+2] Movement <in [Desert] tiles>",
+            "[-1] Movement <in [Houses] tiles>",
             "[+195]% Strength <vs [Armored] units> <when attacking>",
             "[+165]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+300]% Strength <vs [Gunpowder] units> <when attacking>",
@@ -2234,7 +2293,7 @@
     {
         "name": "Bamid",
         "unitType": "Frame",
-        "movement": 1,
+        "movement": 2,
         "strength": 130,
         "rangedStrength": 90,
         "range": 4,
@@ -2247,6 +2306,8 @@
 
             "Consumes [4] [Human Resourses]",
             "Consumes [3] [Metall]",
+            "[+1] Movement <in [Desert] tiles>",
+            "[-1] Movement <in [Houses] tiles>",
             "[+210]% Strength <vs [Armored] units> <when attacking>",
             "[+140]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+140]% Strength <vs [Gunpowder] units> <when attacking>",
