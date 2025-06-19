@@ -11,7 +11,7 @@
 		"cost": 1,
 		"uniques": [
             "Indicates the capital city",
-            "Provides [10] [Human Resourses]"
+            "Provides [20] [Human Resourses]"
         
         ]
 	},
@@ -52,7 +52,7 @@
 		"cost": 1,
 		"uniques": ["Indicates the capital city",
 		"Provides [2] [Metall]",
-        "Provides [8] [Human Resourses]"]
+        "Provides [18] [Human Resourses]"]
 	},
     {
 		"name": "Chinese Palace",
@@ -67,7 +67,7 @@
 		"cityStrength": 2,
 		"cost": 1,
 		"uniques": ["Indicates the capital city", "[-25]% [Food] [in this city]",
-        "Provides [12] [Human Resourses]"]
+        "Provides [22] [Human Resourses]"]
 	},
 	{
 		"name": "Weaponry Fabric",
