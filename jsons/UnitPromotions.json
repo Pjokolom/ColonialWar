@@ -980,5 +980,17 @@
             "[+10]% Strength <when attacking>",
             "[+1] Movement"
     ]
+	},
+    {
+		"name": "Air Glide System", 
+        "unitTypes": ["Gen.7"],
+        "prerequisites": [],
+		"uniques": [
+            
+            "May travel on Water tiles without embarking",
+            "All tiles cost 1 movement",
+            "Can pass through impassable tiles"
+    ]
 	}
+               
 ]

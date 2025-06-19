@@ -1528,6 +1528,7 @@
         "uniqueTo": "Japan",
         "strength": 160,
         "cost": 800,
+        "promotions": ["Air Glide System"],
         "requiredResource": "Sakuradait",
         "requiredTech": "Knightmare Gen.7",
         "uniques": [
@@ -1536,6 +1537,7 @@
             "Consumes [1] [Sakuradait]",
             "Consumes [2] [Metall]",
             "Limited to [1] per Civilization",
+            "Gen.7",
             "[+60]% Strength <when attacking>",
             "[+200]% Strength <vs [Armored] units> <when attacking>",
             "[+200]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
@@ -1560,6 +1562,7 @@
         "cost": 800,
         "rangedStrength": 120,
         "range": 1,
+        "promotions": ["Air Glide System"],
         "requiredResource": "Sakuradait",
         "requiredTech": "Knightmare Gen.7",
         "uniques": [
@@ -1577,7 +1580,8 @@
             "Only available <in cities with a [Weaponry Fabric]>",
             "Only available <in cities with a [Tech Fabric]>",
             "Withdraws before melee combat <with [50]% chance>",
-            "Never appears as a Barbarian unit"
+            "Never appears as a Barbarian unit",
+            "Gen.7"
 
         ],
         "attackSound": "metalhit"
@@ -1609,6 +1613,37 @@
             "Only available <in cities with a [Weaponry Fabric]>",
             "Only available <in cities with a [Tech Fabric]>",
             "Withdraws before melee combat <with [60]% chance>",
+            "Never appears as a Barbarian unit"
+
+        ],
+        "attackSound": "metalhit"
+    },
+        {
+        "name": "Armatur",
+        "unitType": "Frame",
+        "movement": 5,
+        "uniqueTo": "Swiss Union",
+        "strength": 160,
+        "cost": 800,
+        "requiredResource": "Sakuradait",
+        "promotions": ["Air Glide System"],
+        "requiredTech": "Knightmare Gen.7",
+        "uniques": [
+            
+            "Consumes [1] [Human Resourses]",
+            "Consumes [1] [Sakuradait]",
+            "Consumes [3] [Metall]",
+            "[+60]% Strength <when attacking>",
+            "[+200]% Strength <vs [Armored] units> <when attacking>",
+            "[+200]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
+            "[+250]% Strength <vs [Gunpowder] units> <when attacking>",
+            "[+120]% Strength <vs [Frame] units> <when attacking>",
+            "[+30]% Strength <vs cities> <when attacking>",
+            "Can move after attacking",
+            "Only available <in cities with a [Weaponry Fabric]>",
+            "Only available <in cities with a [Tech Fabric]>",
+            "Withdraws before melee combat <with [60]% chance>",
+            "Gen.7",
             "Never appears as a Barbarian unit"
 
         ],
@@ -1677,41 +1712,11 @@
         ],
         "attackSound": "metalhit"
     },
-    
-    {
-        "name": "Alexander ▎  ▎",
-        "unitType": "Frame",
-        "movement": 7,
-        "uniqueTo": "United States of America",
-        "replaces": "Alexander Liberte",
-        "strength": 115,
-        "cost": 800,
-        "requiredResource": "Sakuradait",
-        "requiredTech": "Knightmare Gen.7",
-        "uniques": [
-            
-            "Consumes [1] [Human Resourses]",
-            "[+50]% Strength <when attacking>",
-            "[+200]% Strength <vs [Armored] units> <when attacking>",
-            "[+200]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
-            "[+250]% Strength <vs [Gunpowder] units> <when attacking>",
-            "[+200]% Strength <vs [Frame] units> <when attacking>",
-            "[+60]% Strength <vs cities> <when attacking>",
-            "Can move after attacking",
-            "Only available <in cities with a [Weaponry Fabric]>",
-            "Only available <in cities with a [Tech Fabric]>",
-            "Withdraws before melee combat <with [60]% chance>",
-            "Never appears as a Barbarian unit"
-
-        ],
-        "attackSound": "metalhit"
-    },
     {
         "name": "Alexander",
         "unitType": "Frame",
         "movement": 5,
-        "uniqueTo": "Swiss Union",
-        "replaces": "Alexander Liberte",
+        "uniqueTo": "Russia",
         "strength": 115,
         "cost": 800,
         "requiredResource": "Sakuradait",

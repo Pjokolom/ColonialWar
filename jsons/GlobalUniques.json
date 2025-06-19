@@ -28,12 +28,6 @@
         "[+2 Culture] from every [Muachidi Houses] <with [2] to [6] neighboring [Muachidi Houses] tiles>",
         "[-3 Gold] from every [Shopping Mall] <with [3] to [6] neighboring [Shopping Mall] tiles>",
         "[-4 Gold] from every [Shopping Mall] <with [4] to [6] neighboring [Shopping Mall] tiles>",
-        "[+1 Faith] from every [Quarry] <with [1] to [6] neighboring [Rock-hewn church] tiles>",
-        "[+1 Faith] from every [Quarry] <with [2] to [6] neighboring [Rock-hewn church] tiles>",
-        "[+1 Faith] from every [Quarry] <with [3] to [6] neighboring [Rock-hewn church] tiles>",
-        "[+1 Faith] from every [Quarry] <with [4] to [6] neighboring [Rock-hewn church] tiles>",
-        "[+1 Faith] from every [Quarry] <with [5] to [6] neighboring [Rock-hewn church] tiles>",
-        "[+1 Faith] from every [Quarry] <with [6] to [6] neighboring [Rock-hewn church] tiles>",
 
         // Difficulty settings missing
         "[+60]% Strength <for [{Major} {AI player}] units> <vs [Barbarian] units>",
