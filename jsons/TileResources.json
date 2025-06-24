@@ -848,9 +848,34 @@
         "resourceType": "Strategic",
         "uniques": ["Not shown on world screen","Cannot be traded"]
     },
-        {
-        "name": "Celtland Policy", 
+    {
+        "name": "Monster Tank Blueprint R", 
         "resourceType": "Strategic",
-        "uniques": ["Not shown on world screen","Cannot be traded"]
+        "uniques": ["Not shown on world screen"]
+    },
+        {
+        "name": "Zetland Blueprint R", 
+        "resourceType": "Strategic",
+        "uniques": ["Not shown on world screen"]
+    },
+    {
+        "name": "Bradford Blueprint R", 
+        "resourceType": "Strategic",
+        "uniques": ["Not shown on world screen"]
+    },
+    {
+        "name": "Gawain Blueprint R", 
+        "resourceType": "Strategic",
+        "uniques": ["Not shown on world screen"]
+    },
+    {
+        "name": "Monster Spider Blueprint R", 
+        "resourceType": "Strategic",
+        "uniques": ["Not shown on world screen"]
+    },
+    {
+        "name": "Dreadnought-class Carrier-Battleship Blueprint R", 
+        "resourceType": "Strategic",
+        "uniques": ["Not shown on world screen"]
     }
 ]

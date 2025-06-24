@@ -496,7 +496,7 @@
             "No defensive terrain bonus",
             "Only available <in cities with a [Weaponry Fabric]>",
             "Only available <in cities with a [Tech Fabric]>",
-            "Only available <in cities with a [Monster Tank Blueprint]>",
+            "Only available <with [Monster Tank Blueprint R]>",
             "[+50]% Strength <vs [Land] units>",
             "[+50]% Strength <vs [Land] units> <when defending>",
             "Never appears as a Barbarian unit",
@@ -527,7 +527,7 @@
             "Can move after attacking",
             "Only available <in cities with a [Weaponry Fabric]>",
             "Only available <in cities with a [Tech Fabric]>",
-            "Only available <in cities with a [Monster Spider Blueprint]>",
+            "Only available <with [Monster Spider Blueprint R]>",
             "[+45]% Strength <vs [Land] units>",
             "[+65]% Strength <vs [Land] units> <when defending>",
             "Never appears as a Barbarian unit",
@@ -839,7 +839,7 @@
         "requiredTech": "War Ships",
         "uniques": [
             "Consumes [8] [Human Resourses]",
-            "Consumes [4] [Metall]",
+            "Consumes [3] [Metall]",
             "Can see invisible [Submarine] units",
             "[100]% chance to intercept air attacks",
             "Can move after attacking",
@@ -861,7 +861,7 @@
         "requiredTech": "War Ships",
         "uniques": [
             "Consumes [8] [Human Resourses]",
-            "Consumes [5] [Metall]",
+            "Consumes [4] [Metall]",
             "Can see invisible [Submarine] units",
             "[60]% chance to intercept air attacks",
             "Withdraws before melee combat <with [80]% chance>",
@@ -885,9 +885,31 @@
         "requiredTech": "Battleships",
         "uniques": [
             "Consumes [8] [Human Resourses]",
-            "Consumes [8] [Metall]",
+            "Consumes [7] [Metall]",
             "Never appears as a Barbarian unit",
-            "Only available <in cities with a [Seaport]>",
+            "Only available <in cities with a [Seaport]>"
+        ],
+        "promotions": ["Indirect Fire"],
+        "attackSound": "shipguns"
+    },
+    {
+        "name": "Dreadnought-class Carrier-Battleship",
+        "unitType": "Ranged Water",
+        "movement": 4,
+        "strength": 230,
+        "rangedStrength": 110,
+        "range": 3,
+        "cost": 1200,
+        "requiredResource": "Oil",
+        "requiredTech": "Battleships",
+        "uniques": [
+            "Will not be displayed in Civilopedia",
+            "Limited to [1] per Civilization",
+            "Only available <with [Dreadnought-class Carrier-Battleship Blueprint R]>",
+            "Consumes [8] [Human Resourses]",
+            "Consumes [8] [Metall]",
+            "Can carry [6] [Aircraft] units",
+            "Never appears as a Barbarian unit",
             "Only available <in cities with a [Seaport]>"
         ],
         "promotions": ["Indirect Fire"],
@@ -903,7 +925,7 @@
         "requiredTech": "Battleships",
         "uniques": [
             "Consumes [8] [Human Resourses]",
-            "Consumes [9] [Metall]",
+            "Consumes [7] [Metall]",
             "Cannot attack",
             "Can carry [3] [Aircraft] units",
             "[+2] Sight",
@@ -925,7 +947,6 @@
             "Consumes [8] [Human Resourses]",
             "Consumes [9] [Metall]",
             "Never appears as a Barbarian unit", 
-            "Only available <in cities with a [Seaport]>",
             "Limited to [1] per Civilization",
             "Only available <in cities with a [Seaport]>"
         
@@ -1191,6 +1212,7 @@
         "requiredTech": "Sakura Engine",
         "uniques": [
 
+            "Limited to [1] per Civilization",
             "[-100]% Strength <when attacking>",
             "Only available <in cities with a [Tech Fabric]>"
 
@@ -2000,7 +2022,7 @@
             "Consumes [2] [Metall]",
             "Consumes [1] [Sakuradait]",
             "Limited to [1] per Civilization",
-            "Only available <in cities with a [Zetland Blueprint]>",
+            "Only available <with [Zetland Blueprint R]>",
             "[+200]% Strength <vs [Armored] units> <when attacking>",
             "[+300]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+80]% Strength <vs [Gunpowder] units> <when attacking>",
@@ -2065,7 +2087,7 @@
             "Consumes [2] [Metall]",
             "Consumes [1] [Sakuradait]",
             "Limited to [1] per Civilization",
-            "Only available <in cities with a [Bradford Blueprint]>",
+            "Only available <with [Bradford Blueprint R]>",
             "[+200]% Strength <vs [Armored] units> <when attacking>",
             "[+300]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+80]% Strength <vs [Gunpowder] units> <when attacking>",
@@ -2095,7 +2117,7 @@
             "Consumes [3] [Metall]",
             "Consumes [1] [Sakuradait]",
             "Limited to [1] per Civilization",
-            "Only available <in cities with a [Gawain Blueprint]>",
+            "Only available <with [Gawain Blueprint R]>",
             "[+200]% Strength <vs [Armored] units> <when attacking>",
             "[+120]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+200]% Strength <vs [Gunpowder] units> <when attacking>",

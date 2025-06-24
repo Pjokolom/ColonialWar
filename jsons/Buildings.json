@@ -313,7 +313,8 @@
         "requiredBuilding": "Secret Laboratory",
         "hurryCostModifier": 25,
         "uniques": [
-            "Will not be displayed in Civilopedia"
+            "Will not be displayed in Civilopedia",
+            "Provides [3] [Monster Tank Blueprint R]"
         ],
         "requiredTech": "Robotechs"
     },
@@ -326,7 +327,8 @@
         "requiredBuilding": "Secret Laboratory",
         "hurryCostModifier": 25,
         "uniques": [
-            "Will not be displayed in Civilopedia"
+            "Will not be displayed in Civilopedia",
+            "Provides [3] [Zetland Blueprint R]"
         ],
         "requiredTech": "Knightmare Gen.6"
     },
@@ -338,7 +340,8 @@
         "requiredBuilding": "Secret Laboratory",
         "hurryCostModifier": 25,
         "uniques": [
-            "Will not be displayed in Civilopedia"
+            "Will not be displayed in Civilopedia",
+            "Provides [3] [Bradford Blueprint R]"
         ],
         "requiredTech": "Knightmare Gen.6"
     },
@@ -350,7 +353,8 @@
         "requiredBuilding": "Secret Laboratory",
         "hurryCostModifier": 25,
         "uniques": [
-            "Will not be displayed in Civilopedia"
+            "Will not be displayed in Civilopedia",
+            "Provides [3] [Gawain Blueprint R]"
         ],
         "requiredTech": "Knightmare Gen.6"
     },
@@ -361,7 +365,21 @@
         "requiredBuilding": "Secret Laboratory",
         "hurryCostModifier": 25,
         "uniques": [
-            "Will not be displayed in Civilopedia"
+            "Will not be displayed in Civilopedia",
+            "Provides [3] [Monster Spider Blueprint R]"
+        ],
+        "requiredTech": "Robotechs"
+    },
+        {
+        "name": "Dreadnought-class Carrier-Battleship Blueprint",
+        "cost": 1200,
+        "isWonder": true,
+        "maintenance": 2,
+        "requiredBuilding": "Secret Laboratory",
+        "hurryCostModifier": 25,
+        "uniques": [
+            "Will not be displayed in Civilopedia",
+            "Provides [3] [Dreadnought-class Carrier-Battleship Blueprint R]"
         ],
         "requiredTech": "Robotechs"
     },
