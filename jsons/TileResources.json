@@ -873,6 +873,11 @@
         "resourceType": "Strategic",
         "uniques": ["Not shown on world screen"]
     },
+        {
+        "name": "Trebuchet Blueprint R", 
+        "resourceType": "Strategic",
+        "uniques": ["Not shown on world screen"]
+    },
     {
         "name": "Dreadnought-class Carrier-Battleship Blueprint R", 
         "resourceType": "Strategic",

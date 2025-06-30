@@ -111,6 +111,15 @@
         "movementType": "Land"
     },
     {
+		"name": "Satellite",
+		"movementType": "Air",
+		"uniques": [
+			"[+8] Sight",
+			"Can see over obstacles",
+			"Cannot be carried by [Carrier] units"
+		]
+	},
+    {
         "name": "Fighter",
         "movementType": "Air",
         "uniques": ["Aircraft", "Can perform Air Sweep"]

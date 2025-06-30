@@ -285,6 +285,15 @@
             "Removes removable features when built"
         ]
     },
+    {
+        "name": "SecLaboratory",
+        "terrainsCanBeBuiltOn": ["Land"],
+        "uniques": [
+            "Great Improvement",
+            "Gives a defensive bonus of [-10]%",
+            "Removes removable features when built"
+        ]
+    },
         {
         "name": "Built Floating Land",
         "turnsToBuild": 10,

@@ -276,7 +276,8 @@
         "hurryCostModifier": 25,
         "uniques": [
 
-			"[+5]% Production when constructing [Armored] units [in this city]"
+			"[+5]% Production when constructing [Armored] units [in this city]",
+            "Creates a [SecLaboratory] improvement on a specific tile"
 
         ],
         "requiredTech": "Robotechs"
@@ -367,6 +368,18 @@
         "uniques": [
             "Will not be displayed in Civilopedia",
             "Provides [3] [Monster Spider Blueprint R]"
+        ],
+        "requiredTech": "Robotechs"
+    },
+        {
+        "name": "Trebuchet Blueprint",
+        "cost": 200,
+        "maintenance": 2,
+        "requiredBuilding": "Secret Laboratory",
+        "hurryCostModifier": 25,
+        "uniques": [
+            "Will not be displayed in Civilopedia",
+            "Provides [3] [Trebuchet Blueprint R]"
         ],
         "requiredTech": "Robotechs"
     },

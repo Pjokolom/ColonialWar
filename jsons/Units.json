@@ -916,6 +916,25 @@
         "attackSound": "shipguns"
     },
     {
+        "name": "Trebuchet",
+        "unitType": "Siege",
+        "movement": 2,
+        "strength": 12,
+        "rangedStrength": 14,
+        "cost": 120,
+        "promotions": ["Indirect Fire"],
+        "uniques": [
+            "Will not be displayed in Civilopedia",
+            "[+200]% Strength <vs cities> <when attacking>",
+            "Only available <with [Trebuchet Blueprint R]>",
+            "No defensive terrain bonus",
+            "Must set up to ranged attack",
+            "[-1] Sight",
+            "Never appears as a Barbarian unit"
+        ],
+        "attackSound": "throw"
+    },
+    {
         "name": "Carrier",
         "unitType": "Aircraft Carrier",
         "movement": 5,
@@ -932,6 +951,20 @@
             "Only available <in cities with a [Seaport]>"
         ]
     },
+    {
+		"name": "Survey Satellite",
+		"unitType": "Satellite",
+		"movement": 0,
+		"strength": 1,
+        "requiredResource": "Metall",
+		"cost": 1200,
+		"requiredTech": "Satellite communications",
+		"uniques": [
+			"Cannot attack",
+			"Can only be built <in cities with a [Tech Fabric]>",
+			"Never appears as a Barbarian unit"
+		]
+	},
     {
         "name": "Loja",
         "unitType": "Ranged Water",
@@ -1437,7 +1470,7 @@
         "uniques": [
 
             "Consumes [1] [Human Resourses]",
-            "Consumes [2] [Metall]",
+            "Consumes [3] [Metall]",
             "[+175]% Strength <vs [Armored] units> <when attacking>",
             "[+120]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+200]% Strength <vs [Gunpowder] units> <when attacking>",
@@ -1467,7 +1500,7 @@
         "uniques": [
 
             "Consumes [1] [Human Resourses]",
-            "Consumes [2] [Metall]",
+            "Consumes [3] [Metall]",
             "[+175]% Strength <vs [Armored] units> <when attacking>",
             "[+120]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+200]% Strength <vs [Gunpowder] units> <when attacking>",
@@ -1494,7 +1527,7 @@
         "uniques": [
 
             "Consumes [1] [Human Resourses]",
-            "Consumes [3] [Metall]",
+            "Consumes [4] [Metall]",
             "[+195]% Strength <vs [Armored] units> <when attacking>",
             "[+100]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+100]% Strength <vs [Gunpowder] units> <when attacking>",
@@ -1525,7 +1558,7 @@
             
             "Consumes [1] [Human Resourses]",
             "Consumes [1] [Sakuradait]",
-            "Consumes [2] [Metall]",
+            "Consumes [5] [Metall]",
             "Limited to [1] per Civilization",
             "[+60]% Strength <when attacking>",
             "[+200]% Strength <vs [Armored] units> <when attacking>",
@@ -1557,7 +1590,7 @@
             
             "Consumes [1] [Human Resourses]",
             "Consumes [1] [Sakuradait]",
-            "Consumes [2] [Metall]",
+            "Consumes [5] [Metall]",
             "Limited to [1] per Civilization",
             "Gen.7",
             "[+60]% Strength <when attacking>",
@@ -1591,7 +1624,7 @@
             
             "Consumes [1] [Human Resourses]",
             "Consumes [1] [Sakuradait]",
-            "Consumes [2] [Metall]",
+            "Consumes [5] [Metall]",
             "[+200]% Strength <vs [Armored] units> <when attacking>",
             "[+200]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+250]% Strength <vs [Gunpowder] units> <when attacking>",
@@ -1621,8 +1654,8 @@
         "uniques": [
             
             "Consumes [1] [Human Resourses]",
-            "Consumes [1] [Sakuradait]",
-            "Consumes [2] [Metall]",
+            "Consumes [2] [Sakuradait]",
+            "Consumes [5] [Metall]",
             "Limited to [1] per Civilization",
             "[+60]% Strength <when attacking>",
             "[+200]% Strength <vs [Armored] units> <when attacking>",
@@ -1635,7 +1668,10 @@
             "Only available <in cities with a [Weaponry Fabric]>",
             "Only available <in cities with a [Tech Fabric]>",
             "Withdraws before melee combat <with [60]% chance>",
-            "Never appears as a Barbarian unit"
+            "Never appears as a Barbarian unit",
+            "May travel on Water tiles without embarking <after discovering [Knightmare Gen.7]>",
+            "All tiles cost 1 movement <after discovering [Knightmare Gen.7]>",
+            "Can pass through impassable tiles <after discovering [Knightmare Gen.7]>"
 
         ],
         "attackSound": "metalhit"
@@ -1654,7 +1690,7 @@
             
             "Consumes [1] [Human Resourses]",
             "Consumes [1] [Sakuradait]",
-            "Consumes [3] [Metall]",
+            "Consumes [5] [Metall]",
             "[+60]% Strength <when attacking>",
             "[+200]% Strength <vs [Armored] units> <when attacking>",
             "[+200]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
@@ -1687,7 +1723,7 @@
             
             "Consumes [1] [Human Resourses]",
             "Consumes [1] [Sakuradait]",
-            "Consumes [2] [Metall]",
+            "Consumes [5] [Metall]",
             "Limited to [1] per Civilization",
             "[+200]% Strength <vs [Armored] units> <when attacking>",
             "[+200]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
@@ -1716,7 +1752,7 @@
             
             "Consumes [1] [Human Resourses]",
             "Consumes [1] [Sakuradait]",
-            "Consumes [1] [Metall]",
+            "Consumes [2] [Metall]",
             "Limited to [1] per Civilization",
             "[+50]% Strength <when attacking>",
             "[+200]% Strength <vs [Armored] units> <when attacking>",
@@ -1746,6 +1782,7 @@
         "uniques": [
             
             "Consumes [1] [Human Resourses]",
+            "Consumes [3] [Metall]",
             "[+3] Movement <in [Houses] tiles>",
             "[+3] Movement <in [Mine] tiles>",
             "[+50]% Strength <when attacking>",
@@ -1781,7 +1818,7 @@
             "Must set up to ranged attack",
             "Consumes [1] [Human Resourses]",
             "Consumes [1] [Sakuradait]",
-            "Consumes [3] [Metall]",
+            "Consumes [4] [Metall]",
             "Limited to [1] per Civilization",
             "[+200]% Strength <vs [Armored] units> <when attacking>",
             "[+200]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
@@ -1810,7 +1847,7 @@
         "requiredTech": "Knightmare Gen.7",
         "uniques": [
             
-            "Consumes [2] [Metall]",
+            "Consumes [4] [Metall]",
             "Consumes [1] [Human Resourses]",
             "[+200]% Strength <vs [Armored] units> <when attacking>",
             "[+200]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
@@ -1838,7 +1875,7 @@
         "requiredTech": "Knightmare Gen.7",
         "uniques": [
             
-            "Consumes [2] [Metall]",
+            "Consumes [4] [Metall]",
             "Consumes [1] [Human Resourses]",
             "[+200]% Strength <vs [Armored] units> <when attacking>",
             "[+200]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
@@ -1868,7 +1905,7 @@
         "uniques": [
             
             "Consumes [1] [Human Resourses]",
-            "Consumes [2] [Metall]",
+            "Consumes [3] [Metall]",
             "[+200]% Strength <vs [Armored] units> <when attacking>",
             "[+120]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+200]% Strength <vs [Gunpowder] units> <when attacking>",
@@ -1897,7 +1934,7 @@
         "uniques": [
 
             "Consumes [1] [Human Resourses]",
-            "Consumes [1] [Metall]",
+            "Consumes [2] [Metall]",
             "[+120]% Strength <vs [Armored] units> <when attacking>",
             "[+165]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+200]% Strength <vs [Gunpowder] units> <when attacking>",
@@ -1924,7 +1961,7 @@
         "uniques": [
 
             "Consumes [1] [Human Resourses]",
-            "Consumes [2] [Metall]",
+            "Consumes [3] [Metall]",
             "[+130]% Strength <vs [Armored] units> <when attacking>",
             "[+150]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+150]% Strength <vs [Gunpowder] units> <when attacking>",
@@ -1958,7 +1995,7 @@
         "uniques": [
 
             "Consumes [2] [Human Resourses]",
-            "Consumes [3] [Metall]",
+            "Consumes [4] [Metall]",
             "[+195]% Strength <vs [Armored] units> <when attacking>",
             "[+165]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+300]% Strength <vs [Gunpowder] units> <when attacking>",
@@ -1988,7 +2025,7 @@
         "uniques": [
 
             "Consumes [2] [Human Resourses]",
-            "Consumes [3] [Metall]",
+            "Consumes [4] [Metall]",
             "[+2] Movement <in [Desert] tiles>",
             "[-1] Movement <in [Houses] tiles>",
             "[+195]% Strength <vs [Armored] units> <when attacking>",
@@ -2019,7 +2056,7 @@
         "uniques": [
             
             "Consumes [1] [Human Resourses]",
-            "Consumes [2] [Metall]",
+            "Consumes [5] [Metall]",
             "Consumes [1] [Sakuradait]",
             "Limited to [1] per Civilization",
             "Only available <with [Zetland Blueprint R]>",
@@ -2052,7 +2089,7 @@
         "uniques": [
             
             "Consumes [1] [Human Resourses]",
-            "Consumes [2] [Metall]",
+            "Consumes [4] [Metall]",
             "Consumes [1] [Sakuradait]",
             "Limited to [1] per Civilization",
             "[+100]% Strength <vs [Armored] units> <when attacking>",
@@ -2084,7 +2121,7 @@
         "uniques": [
 
             "Consumes [1] [Human Resourses]",
-            "Consumes [2] [Metall]",
+            "Consumes [5] [Metall]",
             "Consumes [1] [Sakuradait]",
             "Limited to [1] per Civilization",
             "Only available <with [Bradford Blueprint R]>",
@@ -2114,7 +2151,7 @@
         "uniques": [
             
             "Consumes [2] [Human Resourses]",
-            "Consumes [3] [Metall]",
+            "Consumes [5] [Metall]",
             "Consumes [1] [Sakuradait]",
             "Limited to [1] per Civilization",
             "Only available <with [Gawain Blueprint R]>",
@@ -2144,9 +2181,8 @@
         "uniques": [
             
             "Consumes [1] [Human Resourses]",
-            "Consumes [3] [Metall]",
+            "Consumes [5] [Metall]",
             "Consumes [1] [Sakuradait]",
-            "Limited to [1] per Civilization",
             "[+200]% Strength <vs [Armored] units> <when attacking>",
             "[+120]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+200]% Strength <vs [Gunpowder] units> <when attacking>",
@@ -2178,7 +2214,7 @@
         "uniques": [
 
             "Consumes [1] [Human Resourses]",
-            "Consumes [1] [Metall]",
+            "Consumes [2] [Metall]",
             "[+120]% Strength <vs [Armored] units> <when attacking>",
             "[+165]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+80]% Strength <vs [Frame] units> <when attacking>",
@@ -2236,7 +2272,7 @@
         "uniques": [
 
             "Consumes [1] [Human Resourses]",
-            "Consumes [3] [Metall]",
+            "Consumes [4] [Metall]",
             "[+175]% Strength <vs [Armored] units> <when attacking>",
             "[+140]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+140]% Strength <vs [Gunpowder] units> <when attacking>",
@@ -2268,7 +2304,7 @@
         "uniques": [
             
             "Consumes [3] [Human Resourses]",
-            "Consumes [3] [Metall]",
+            "Consumes [5] [Metall]",
             "Consumes [1] [Sakuradait]",
             "Limited to [1] per Civilization",
             "Consumes [1] [Sakuradait]",
@@ -2302,7 +2338,7 @@
         "uniques": [
 
             "Consumes [1] [Human Resourses]",
-            "Consumes [1] [Metall]",
+            "Consumes [3] [Metall]",
             "[+200]% Strength <vs [Armored] units> <when attacking>",
             "[+200]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+200]% Strength <vs [Gunpowder] units> <when attacking>",
@@ -2332,7 +2368,7 @@
         "uniques": [
 
             "Consumes [4] [Human Resourses]",
-            "Consumes [3] [Metall]",
+            "Consumes [4] [Metall]",
             "[+1] Movement <in [Desert] tiles>",
             "[-1] Movement <in [Houses] tiles>",
             "[+210]% Strength <vs [Armored] units> <when attacking>",
@@ -2364,7 +2400,7 @@
         "uniques": [
 
             "Consumes [1] [Human Resourses]",
-            "Consumes [2] [Metall]",
+            "Consumes [3] [Metall]",
             "[+210]% Strength <vs [Armored] units> <when attacking>",
             "[+160]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+140]% Strength <vs [Gunpowder] units> <when attacking>",
