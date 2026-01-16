@@ -233,6 +233,7 @@
         "uniqueName": "Old Empire",
         "uniques": [
 
+            "Starts with [Basic Water Machines]",
             "[+15]% Strength <for [{Military} {Air}] units>",
             "[+15]% Strength <for [Armored] units>  <when defending> <in [Houses] tiles>",
             "Earn [20]% of killed [Xenos] unit's [Cost] as [Science] <hidden from users>"
