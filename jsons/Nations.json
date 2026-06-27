@@ -57,7 +57,7 @@
         "uniqueName": "Survivability",
         "uniques": [
 
-            "Double quantity of [Stone] produced",
+            "[+100]% [Stone] resource production",
             "[+1 Food] from every [Forest]",
             "No damage penalty for wounded units <for [All] units>",
             "Earn [20]% of killed [Xenos] unit's [Cost] as [Science] <hidden from users>"
@@ -140,7 +140,7 @@
         "innerColor": [255, 190, 70],
         "uniqueName": "Faith",
         "uniques": [
-            "Double quantity of [Oil] produced",
+            "[+100]% [Oil] resource production",
             "[+3 Gold] from every [Oil]",
             "[+2 Faith] from every [Desert]",
             "Earn [12]% of killed [Xenos] unit's [Cost] as [Science] <hidden from users>"
