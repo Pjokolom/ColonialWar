@@ -140,9 +140,23 @@
         "uniques": ["Self-destructs when attacking"]
     },
     {
+        "name": "FLEJA-rocket",
+        "movementType": "Air",
+        "uniques": ["Self-destructs when attacking"]
+    },
+    {
         "name": "Drone-type",
         "movementType": "Air",
         "uniques": ["Self-destructs when attacking"]
+    },
+    {
+        "name": "Armageddon Fortress",
+        "movementType": "Land",
+        "uniques": [
+            "May travel on Water tiles without embarking",
+            "All tiles cost 1 movement",
+            "Can pass through impassable tiles"
+        ]
     },
     {
         "name": "Helicopter",

@@ -377,7 +377,7 @@
                 "name": "Entrepreneurship",
                 "uniques": [
                     "[-25]% maintenance on road & railroads",
-                    "[-25]% maintenance cost for buildings [in all cities]",
+                    "[-25]% maintenance cost for [all] buildings [in all cities]",
                     "Provides [1] [Policies]"
                 ],
                 "requires": ["Silk Road"],
@@ -706,7 +706,7 @@
             {
                 "name": "Civil Society",
                 "uniques": [
-                    "[-80]% Food consumption by specialists [in all cities]",
+                    "[-80]% Food consumption by [Specialists] [in all cities]",
                     "Provides [1] [Level 1 Ideology]",
                     "Provides [1] [Policies]"
                 ],
@@ -1011,7 +1011,7 @@
             {
                 "name": "Third Alternative",
                 "uniques": [
-                    "Double quantity of [Metall] produced",
+                    "[+100]% [Metall] resource production",
                     "[+5 Science, +5 Food] [in capital]",
                     "Provides [-1] [Level 1 Ideology]",
                     "Provides [1] [Level 2 Ideology]",

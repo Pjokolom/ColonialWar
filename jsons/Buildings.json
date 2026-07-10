@@ -396,6 +396,19 @@
         ],
         "requiredTech": "Robotechs"
     },
+        {
+        "name": "Project Armaggedon",
+        "cost": 1000,
+        "isWonder": true,
+        "maintenance": 2,
+        "requiredBuilding": "Secret Laboratory",
+        "hurryCostModifier": 25,
+        "uniques": [
+            "Free [Damocles] appears"
+        ],
+        "requiredTech": "Robotechs",
+        "quote": "'SHOOT AT THE MAX DISTANCE OR YOU GONNA RUIN YOUR DAMOCLES.' - Lloyd"
+    },
 	{
         "name": "Fortification II",
         "cityStrength": 15,
@@ -594,7 +607,7 @@
 		"name": "Courthouse",
 		"maintenance": 4,
 		"hurryCostModifier": 50,
-		"uniques": ["Remove extra unhappiness from annexed cities",
+		"uniques": ["Removes extra unhappiness from annexed cities",
 			"Can only be built <in [in annexed cities] cities>"],
 		"requiredTech": "PC Fabrics"
 	},
@@ -608,4 +621,16 @@
         "requiredTech": "Armagedon",
         "quote": "New time is comming"
     },
+    {
+        "name": "Kremlin",
+        "culture": 1,
+        "isWonder": true,
+        "uniques": [
+            "[+25]% Production when constructing [Armored] units [in all cities]",
+            "Free Social Policy",
+            "Only available <after adopting [Order]>"
+        ],
+        "requiredTech": "Railroads",
+        "quote": "'The Law is a fortress on a hill that armies cannot take or floods wash away.' - The Prophet Muhammed"
+    }
 ]

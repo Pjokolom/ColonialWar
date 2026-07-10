@@ -931,7 +931,7 @@
 		"name": "Drop Pod", 
         "unitTypes": ["Gunpowder","Ranged Gunpowder"],
         "prerequisites": [],
-		"uniques": ["May Paradrop up to [8] tiles from inside friendly territory", "Only available <after discovering [Improved Jet Engine]>"]
+		"uniques": ["May Paradrop to [Land] tiles up to [8] tiles away <in [{Friendly} {Land}] tiles>", "Only available <after discovering [Improved Jet Engine]>"]
 	},
     {
 		"name": "Repair company", 

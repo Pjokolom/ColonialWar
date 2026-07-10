@@ -652,7 +652,7 @@
     },
     {
         "name": "Artillery",
-        "unitType": "Armor",
+        "unitType": "Armored",
         "movement": 2,
         "strength": 40,
         "rangedStrength": 60,
@@ -680,7 +680,7 @@
     },
     {
         "name": "Combined artillery",
-        "unitType": "Armor",
+        "unitType": "Armored",
         "movement": 3,
         "uniqueTo": "Chinese Federation",
         "strength": 30,
@@ -726,7 +726,7 @@
     },
     {
         "name": "Charles Mk.4",
-        "unitType": "Armor",
+        "unitType": "Armored",
         "movement": 3,
         "strength": 45,
         "uniqueTo": "British Empire",
@@ -1132,7 +1132,7 @@
     },
     {
         "name": "Raygun Exp.",
-        "unitType": "Armor",
+        "unitType": "Armored",
         "movement": 3,
         "strength": 45,
         "uniqueTo": "United States of America",
@@ -1401,6 +1401,30 @@
             "Can carry [3] [Missile] units",
             "Can carry [2] [Drone-type] units",
             "[+20]% Strength bonus for [Land] units within [3] tiles",
+            "Limited to [5] per Civilization"
+
+        ],
+        "attackSound": "shot"
+    },
+    {
+        "name": "MKC-1",
+        "unitType": "Armored",
+        "movement": 3,
+        "uniqueTo": "Russia",
+        "replaces": "Mobile head",
+        "requiredResource": "Sakuradait",
+        "strength": 115,
+        "requiredTech": "Sakura Engine",
+        "cost": 750,
+        "uniques": [
+
+            "Consumes [2] [Human Resourses]",
+            "Consumes [4] [Metall]",
+            "[-50]% Strength <when attacking>",
+            "Never appears as a Barbarian unit",
+            "Can move after attacking",
+            "Can carry [2] [Missile] units",
+            "[+27]% Strength bonus for [Land] units within [3] tiles",
             "Limited to [5] per Civilization"
 
         ],
@@ -2135,7 +2159,7 @@
             "Only available <in cities with a [Tech Fabric]>",
             "Withdraws before melee combat <with [100]% chance>",
             "Never appears as a Barbarian unit",
-            "May Paradrop up to [11] tiles from inside friendly territory"
+            "May Paradrop to [Land] tiles up to [11] tiles away <in [{Friendly} {Land}] tiles>"
 
         ],
         "attackSound": "metalhit"
@@ -2412,6 +2436,52 @@
             "Never appears as a Barbarian unit",
             "Can carry [2] [Missile] units",
             "[+120]% Strength <vs cities> <when attacking>"
+
+        ],
+        "attackSound": "artillery"
+    },
+    {
+        "name": "FLEJA",
+        "unitType": "FLEJA-rocket",
+        "movement": 1,
+        "strength": 1200,
+        "rangedStrength": 1200,
+        "range": 6,
+        "cost": 700,
+        "requiredTech": "Knightmare Gen.7",
+        "uniques": [
+
+            "Only available <in cities with a [Project Armaggedon]>",
+            "Will not be displayed in Civilopedia",
+            "Nuclear weapon of Strength [25]",
+            "Blast radius [4]",
+            "Consumes [1] [Sakuradait]",
+            "Cannot be purchased"
+        ],
+        "attackSound": "nuke"
+    },
+    {
+        "name": "Damocles",
+        "unitType": "Armageddon Fortress",
+        "movement": 6,
+        "strength": 1200,
+        "cost": 2000,
+        "requiredResource": "Sakuradait",
+        "requiredTech": "Knightmare Gen.7",
+        "uniques": [
+            
+            "Unbuildable",
+            "Will not be displayed in Civilopedia",
+            "Consumes [5] [Human Resourses]",
+            "Consumes [5] [Metall]",
+            "Consumes [3] [Sakuradait]",
+            "Cannot attack",
+            "Withdraws before melee combat <with [30]% chance>",
+            "Never appears as a Barbarian unit",
+            "Can carry [20] [FLEJA-rocket] units",
+            "May enter foreign tiles without open borders",
+            "[+8] Sight",
+            "Can see over obstacles"
 
         ],
         "attackSound": "artillery"
