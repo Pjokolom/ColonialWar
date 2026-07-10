@@ -406,7 +406,7 @@
         "uniques": [
             "Free [Damocles] appears"
         ],
-        "requiredTech": "Robotechs",
+        "requiredTech": "Knightmare Gen.7",
         "quote": "'SHOOT AT THE MAX DISTANCE OR YOU GONNA RUIN YOUR DAMOCLES.' - Lloyd"
     },
 	{
@@ -630,7 +630,7 @@
             "Free Social Policy",
             "Only available <after adopting [Order]>"
         ],
-        "requiredTech": "Railroads",
+        "requiredTech": "Resort Centers",
         "quote": "'The Law is a fortress on a hill that armies cannot take or floods wash away.' - The Prophet Muhammed"
     }
 ]
