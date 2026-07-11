@@ -924,6 +924,7 @@
         "cost": 120,
         "promotions": ["Indirect Fire"],
         "uniques": [
+            "Limited to [3] per Civilization",
             "Will not be displayed in Civilopedia",
             "[+200]% Strength <vs cities> <when attacking>",
             "Only available <with [Trebuchet Blueprint R]>",
