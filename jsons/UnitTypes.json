@@ -108,8 +108,11 @@
     },
         {
         "name": "Gen.7",
-        "movementType": "Land"
-    },
+        "movementType": "Land",
+        "uniques": [
+			"Frame"
+		]
+	},
     {
 		"name": "Satellite",
 		"movementType": "Air",

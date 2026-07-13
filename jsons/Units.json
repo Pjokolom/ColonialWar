@@ -350,6 +350,28 @@
         "attackSound": "tankshot"
     },
     {
+        "name": "IFV-28",
+        "unitType": "Armored",
+        "movement": 5,
+        "strength": 63,
+        "uniqueTo": "Swiss Union",
+        "requiredResource": "Metall",
+        "cost": 330,
+        "requiredTech": "Basic War Machines",
+        "uniques": [
+            
+            "Consumes [3] [Human Resourses]",
+            "Consumes [1] [Metall]",
+            "Never appears as a Barbarian unit",
+            "Only available <in cities with a [Weaponry Fabric]>",
+            "Only available <in cities with a [Tech Fabric]>",
+            "Can move after attacking",
+            "[+50]% Strength <vs [Gunpowder] units> <when attacking>"
+
+        ],
+        "attackSound": "tankshot"
+    },
+    {
         "name": "Panzer",
         "unitType": "Armored",
         "uniqueTo": "Swiss Union",
@@ -1408,6 +1430,31 @@
         "attackSound": "shot"
     },
     {
+        "name": "Giant-class Land Battleship",
+        "unitType": "Armored",
+        "uniqueTo": "Swiss Union",
+        "replaces": "Mobile head",
+        "movement": 2,
+        "requiredResource": "Sakuradait",
+        "strength": 180,
+        "requiredTech": "Sakura Engine",
+        "cost": 750,
+        "uniques": [
+
+            "Consumes [7] [Human Resourses]",
+            "Consumes [7] [Metall]",
+            "[-10]% Strength <when attacking>",
+            "Never appears as a Barbarian unit",
+            "Can move after attacking",
+            "Can carry [6] [Missile] units",
+            "Can carry [6] [Drone-type] units",
+            "[+10]% Strength bonus for [Land] units within [3] tiles",
+            "Limited to [5] per Civilization"
+
+        ],
+        "attackSound": "shot"
+    },
+    {
         "name": "MKC-1",
         "unitType": "Armored",
         "movement": 3,
@@ -1603,7 +1650,7 @@
     },
     {
         "name": "Guren MK-2",
-        "unitType": "Frame",
+        "unitType": "Gen.7",
         "movement": 6,
         "uniqueTo": "Japan",
         "strength": 160,
@@ -1617,7 +1664,6 @@
             "Consumes [1] [Sakuradait]",
             "Consumes [5] [Metall]",
             "Limited to [1] per Civilization",
-            "Gen.7",
             "[+60]% Strength <when attacking>",
             "[+200]% Strength <vs [Armored] units> <when attacking>",
             "[+200]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
@@ -1635,7 +1681,7 @@
     },
     {
         "name": "Akatsuki MPM",
-        "unitType": "Frame",
+        "unitType": "Gen.7",
         "movement": 6,
         "uniqueTo": "Japan",
         "strength": 160,
@@ -1660,8 +1706,7 @@
             "Only available <in cities with a [Weaponry Fabric]>",
             "Only available <in cities with a [Tech Fabric]>",
             "Withdraws before melee combat <with [50]% chance>",
-            "Never appears as a Barbarian unit",
-            "Gen.7"
+            "Never appears as a Barbarian unit"
 
         ],
         "attackSound": "metalhit"
@@ -1703,7 +1748,7 @@
     },
         {
         "name": "Armatur",
-        "unitType": "Frame",
+        "unitType": "Gen.7",
         "movement": 5,
         "uniqueTo": "Swiss Union",
         "strength": 160,
@@ -1726,7 +1771,6 @@
             "Only available <in cities with a [Weaponry Fabric]>",
             "Only available <in cities with a [Tech Fabric]>",
             "Withdraws before melee combat <with [60]% chance>",
-            "Gen.7",
             "Never appears as a Barbarian unit"
 
         ],
@@ -1753,6 +1797,39 @@
             "[+200]% Strength <vs [Armored] units> <when attacking>",
             "[+200]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+250]% Strength <vs [Gunpowder] units> <when attacking>",
+            "[-75]% Strength <vs [Helicopter] units> <when attacking>",
+            "[+180]% Strength <vs [Frame] units> <when attacking>",
+            "[+60]% Strength <vs cities> <when attacking>",
+            "Can move after attacking",
+            "Only available <in cities with a [Weaponry Fabric]>",
+            "Only available <in cities with a [Tech Fabric]>",
+            "Withdraws before melee combat <with [60]% chance>",
+            "Never appears as a Barbarian unit"
+
+        ],
+        "attackSound": "metalhit"
+    },
+    {
+        "name": "Chuyen",
+        "unitType": "Gen.7",
+        "movement": 6,
+        "uniqueTo": "Chinese Federation",
+        "strength": 128,
+        "replaces": "Alexander Liberte",
+        "rangedStrength": 100,
+        "range": 1,
+        "cost": 800,
+        "requiredResource": "Sakuradait",
+        "requiredTech": "Knightmare Gen.7",
+        "uniques": [
+            
+            "Consumes [1] [Human Resourses]",
+            "Consumes [1] [Sakuradait]",
+            "Consumes [5] [Metall]",
+            "Limited to [1] per Civilization",
+            "[+100]% Strength <vs [Armored] units> <when attacking>",
+            "[+100]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
+            "[+170]% Strength <vs [Gunpowder] units> <when attacking>",
             "[-75]% Strength <vs [Helicopter] units> <when attacking>",
             "[+180]% Strength <vs [Frame] units> <when attacking>",
             "[+60]% Strength <vs cities> <when attacking>",
@@ -1797,7 +1874,7 @@
     },
     {
         "name": "Alexander",
-        "unitType": "Frame",
+        "unitType": "Gen.7",
         "movement": 5,
         "uniqueTo": "Russia",
         "strength": 115,
@@ -1861,7 +1938,7 @@
     },
     {
         "name": "ShM-02",
-        "unitType": "Frame",
+        "unitType": "Gen.7",
         "movement": 4,
         "strength": 160,
         "cost": 800,
@@ -1891,7 +1968,7 @@
     },
     {
         "name": "ShM-02 Shield bearer",
-        "unitType": "Frame",
+        "unitType": "Gen.7",
         "movement": 5,
         "strength": 160,
         "cost": 800,
@@ -2196,7 +2273,7 @@
     },
     {
         "name": "Gareth",
-        "unitType": "Frame",
+        "unitType": "Gen.7",
         "movement": 6,
         "strength": 125,
         "cost": 1000,
@@ -2228,7 +2305,7 @@
         {
         "name": "Gardmare",
         "unitType": "Frame",
-        "movement": 3,
+        "movement": 4,
         "uniqueTo": "United States of America",
         "strength": 70,
         "rangedStrength": 70,
@@ -2247,7 +2324,7 @@
             "Can move after attacking",
             "Only available <in cities with a [Weaponry Fabric]>",
             "Only available <in cities with a [Tech Fabric]>",
-            "Withdraws before melee combat <with [50]% chance>",
+            "Withdraws before melee combat <with [60]% chance>",
             "Never appears as a Barbarian unit"
 
         ],
