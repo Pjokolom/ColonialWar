@@ -15,8 +15,8 @@
 
         "uniques": [
 
-            "[+2 Food, +2 Faith] from every [Forest]",
-            "[+4 Food, +2 Faith] from every [Jungle]"
+            "[+2 Food, +1 Faith] from every [Forest]",
+            "[+3 Food, +1 Faith] from every [Jungle]"
 
         ]
     },
@@ -38,15 +38,15 @@
         "uniques": [
             "[+1 Culture, +2 Faith] from every [Deer]",
             "[+1 Culture, +1 Faith] from every [Sheep]",
-            "[+1 Culture, +2 Faith] from every [Cattle]",
+            "[+1 Culture, +1 Faith] from every [Cattle]",
         ]    
     },
        {
         "name": "Gifts of The Planet",
         "type": "Pantheon",
         "uniques": [
-            "[+1 Food, +2 Faith] from every [Biarka]",
-            "[+1 Food, +2 Faith] from every [Cibus]",
+            "[+1 Food, +1 Faith] from every [Biarka]",
+            "[+1 Culture, +1 Faith] from every [Cibus]",
             "[+1 Culture, +1 Faith] from every [Bananas]",
         ]    
     },
@@ -60,18 +60,24 @@
     {
         "name": "Cult of work",
         "type": "Founder",
-        "uniques": ["[+1 Production] from every [1] global followers [in cities following this religion]"]
+        "uniques": ["[+1 Production] from every [2] global followers [in cities following this religion]"]
     },
     {
         "name": "Meetings",
         "type": "Founder",
-        "uniques": [
-            
-            "[+3 Happiness, +4 Faith] <in cities with at least [6] [Population]>"
-
-    ]
+        "uniques": [    
+            "[+3 Happiness, +4 Faith] <in cities with at least [6] [Population]>"]
     },
-
+    {
+        "name": "Tribute to The Church",
+        "type": "Founder",
+        "uniques": ["[+3 Gold, +2 Faith] for each global city following this religion"]
+    },
+    {
+        "name": "World Church",
+        "type": "Founder",
+        "uniques": ["[+1 Culture] from every [6] global followers [in all cities]"]
+    },
     ///////////////////////////////////////// Follower beliefs /////////////////////////////////////////
     {
         "name": "Cathedrals",
@@ -81,7 +87,12 @@
     {
         "name": "Protestant Churches",
         "type": "Follower",
-        "uniques": ["May buy [Protestant Church] buildings for [500] [Faith] [in cities following this religion]"]
+        "uniques": ["May buy [Protestant Church] buildings for [800] [Faith] [in cities following this religion]"]
+    },
+    {
+        "name": "Xeno-Temples",
+        "type": "Follower",
+        "uniques": ["May buy [Xeno-Temples] buildings for [800] [Faith] [in cities following this religion]"]
     },
     {
         "name": "Wisdom",
@@ -135,7 +146,12 @@
         
         ]
 	},
-
+    {
+        "name": "Xeno Warriors",
+        "type": "Follower",
+        "uniques": ["May buy [Uuu] unit with [Faith] for [1000] [Faith] [in cities following this religion]"
+        "May buy [Ikoit] unit with [Faith] for [800] [Faith] [in cities following this religion]"]
+    },
  ////////////////////////////////////// Reformation beliefs ///////////////////////////////////////
   {
         "name": "Divine Protection",

@@ -636,8 +636,17 @@
     {
         "name": "Forgeshrine",
         "production": 5,
-        "science": 8,
+        "science": 6,
         "specialistSlots": {"Engineer": 1, "Scientist": 1},
+        "uniques": [
+            "Unbuildable","Unsellable"
+        ]
+    }
+     {
+        "name": "Xeno-Temples",
+        "culture": 5,
+        "science": 3,
+        "faith": 3,
         "uniques": [
             "Unbuildable","Unsellable"
         ]

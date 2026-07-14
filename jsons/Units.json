@@ -1503,7 +1503,7 @@
         "unitType": "Frame",
         "movement": 5,
         "replaces": "Burai",
-        "strength": 85,
+        "strength": 100,
         "uniqueTo": "British Empire",
         "rangedStrength": 75,
         "range": 1,
@@ -2027,11 +2027,11 @@
         "name": "Burai",
         "unitType": "Frame",
         "movement": 5,
-        "strength": 100,
+        "strength": 85,
         "rangedStrength": 75,
         "range": 1,
         "requiredResource": "Sakuradait",
-        "cost": 670,
+        "cost": 650,
         "requiredTech": "Knightmare Revolution",
         "uniques": [
 
@@ -2090,7 +2090,7 @@
         "rangedStrength": 90,
         "range": 2,
         "requiredResource": "Sakuradait",
-        "cost": 670,
+        "cost": 700,
         "replaces": "Burai",
         "uniqueTo": "Swiss Union",
         "requiredTech": "Knightmare Revolution",
@@ -2339,12 +2339,12 @@
         "replaces": "Estrella",
         "range": 1,
         "requiredResource": "Sakuradait",
-        "cost": 670,
+        "cost": 700,
         "requiredTech": "Knightmare Gen.5",
         "uniques": [
 
             "Consumes [1] [Human Resourses]",
-            "Consumes [2] [Metall]",
+            "Consumes [3] [Metall]",
             "[+175]% Strength <vs [Armored] units> <when attacking>",
             "[+200]% Strength <vs [Frame] units> <when attacking>",
             "[+165]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
@@ -2564,5 +2564,38 @@
         ],
         "attackSound": "artillery"
     }
+ {
+        "name": "Long Dan",
+        "unitType": "Armored",
+        "uniqueTo": "Chinese Federation",
+        "replaces": "Mobile head",
+        "movement": 1,
+        "requiredResource": "Sakuradait",
+        "strength": 180,
+        "rangedStrength": 85,
+        "range": 2,
+        "requiredTech": "Sakura Engine",
+        "cost": 800,
+        "uniques": [
 
+            "Consumes [8] [Human Resourses]",
+            "Consumes [7] [Metall]",
+            "Never appears as a Barbarian unit",
+            "[+100]% Strength <vs cities> <when attacking>",
+            "[+50]% Strength <vs [Armored] units> <when attacking>",
+            "[+50]% Strength <vs [Gunpowder] units> <when attacking>",
+            "[+15]% Strength <vs [Air] units>"
+            "No defensive terrain bonus",
+            "Can move after attacking",
+            "Can carry [4] [Drone-type] units",
+            "Limited to [4] per Civilization"
+            "May travel on Water tiles without embarking <after discovering [Knightmare Gen.7]>",
+            "All tiles cost 1 movement <after discovering [Knightmare Gen.7]>",
+            "Can pass through impassable tiles <after discovering [Knightmare Gen.7]>"
+            "[+1] Movement <after discovering [Knightmare Gen.7]>"
+
+        ],
+        "promotions": ["Indirect Fire"],
+        "attackSound": "artillery"
+    },
 ]
