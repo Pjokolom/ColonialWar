@@ -142,7 +142,7 @@
         "uniques": [
             "[+100]% [Oil] resource production",
             "[+3 Gold] from every [Oil]",
-            "[+2 Faith] from every [Desert]",
+            "[+1 Faith] from every [Desert]",
             "Earn [12]% of killed [Xenos] unit's [Cost] as [Science] <hidden from users>"
         ],
         "cities": [
@@ -321,7 +321,7 @@
         "defeated": "Agh!?",
         "introduction": "Greetings. Xingke Li. How can i help you?",
         "neutralHello": "Greetings.",
-        "hateHello": "What do you want?",
+        "hateHello": "Wa cao ni ma",
         "tradeRequest": "We need to talk some things.",
         "outerColor": [255, 255, 0],
         "innerColor": [170, 30, 30],

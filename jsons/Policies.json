@@ -225,7 +225,7 @@
                 "name": "Mandate Of Heaven",
                 "uniques": [
                     "[+4 Faith] [in capital]",
-                    "[Faith] cost of purchasing items in cities [-20]%",
+                    "[Faith] cost of purchasing items in cities [-10]%",
                     "Provides [1] [Policies]"
                 ],
                 "row": 1,

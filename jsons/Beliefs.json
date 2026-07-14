@@ -16,7 +16,7 @@
         "uniques": [
 
             "[+2 Food, +2 Faith] from every [Forest]",
-            "[+4 Food, +4 Faith] from every [Jungle]"
+            "[+4 Food, +2 Faith] from every [Jungle]"
 
         ]
     },
@@ -32,7 +32,24 @@
             "[+1 Culture, +1 Faith] from every [Atoll]"
         ]
     },
- 
+        {
+        "name": "In the Xenos We trust",
+        "type": "Pantheon",
+        "uniques": [
+            "[+1 Culture, +2 Faith] from every [Deer]",
+            "[+1 Culture, +1 Faith] from every [Sheep]",
+            "[+1 Culture, +2 Faith] from every [Cattle]",
+        ]    
+    },
+       {
+        "name": "Gifts of The Planet",
+        "type": "Pantheon",
+        "uniques": [
+            "[+1 Food, +2 Faith] from every [Biarka]",
+            "[+1 Food, +2 Faith] from every [Cibus]",
+            "[+1 Culture, +1 Faith] from every [Bananas]",
+        ]    
+    },
 
     ///////////////////////////////////////// Founder beliefs //////////////////////////////////////////
     {
@@ -50,7 +67,7 @@
         "type": "Founder",
         "uniques": [
             
-            "[+4 Happiness, +5 Faith] <in cities with at least [6] [Population]>"
+            "[+3 Happiness, +4 Faith] <in cities with at least [6] [Population]>"
 
     ]
     },
@@ -59,7 +76,7 @@
     {
         "name": "Cathedrals",
         "type": "Follower",
-        "uniques": ["May buy [Cathedral] buildings for [500] [Faith] [in cities following this religion]"]
+        "uniques": ["May buy [Cathedral] buildings for [1000] [Faith] [in cities following this religion]"]
     },
     {
         "name": "Protestant Churches",
@@ -69,7 +86,7 @@
     {
         "name": "Wisdom",
         "type": "Follower",
-        "uniques": ["[+2 Gold] from every [Hill]"]
+        "uniques": ["[+1 Gold] from every [Hill]"]
     },
         {
         "name": "Sacred Augmentations",
@@ -81,16 +98,20 @@
         "type": "Follower",
         "uniques": ["May buy [Cloning Machine] buildings for [500] [Faith] [in cities following this religion]"]
     },
-
-    ////////////////////////////////////// Enhancer beliefs ///////////////////////////////////////
-    {
-        "name": "Apostolic Palace",
-        "type": "Enhancer",
+       {
+        "name": "Divine Service is in Diligence",
+        "type": "Pantheon",
         "uniques": [
-            "[+5 Production, +2 Gold, +5 Food, +5 Science, +2 Culture, +5 Faith] from every [Fortification II]",
-            "Only available <after adopting [Reformation]>"
-        ]
+            "[+2 Production, +1 Science, +2 Faith] from every [Tech Fabric]",
+            "[+2 Production, +1 Science, +2 Faith] from every [Weaponry Fabric]",
+        ] 
     },
+    {
+        "name": "Forgeshrine",
+        "type": "Follower",
+        "uniques": ["May buy [Forgeshrine] buildings for [1000] [Faith] [in cities following this religion]"]
+    },
+    ////////////////////////////////////// Enhancer beliefs ///////////////////////////////////////
     {
         "name": "Concentration",
         "type": "Enhancer",
@@ -110,9 +131,34 @@
 		"type": "Enhancer",
 		"uniques": [
             
-            "Religion naturally spreads to cities [+3] tiles away",
-            "[+30]% Natural religion spread [in all cities]"
+            "[+20]% Natural religion spread [in all cities]"
         
         ]
-	}
+	},
+
+ ////////////////////////////////////// Reformation beliefs ///////////////////////////////////////
+  {
+        "name": "Divine Protection",
+        "type": "Follower",
+        "uniques": [
+            "[+5 Production, +2 Gold, +3 Food, +5 Science, +2 Culture, +5 Faith] from every [Fortification II]",
+        "Only available <after adopting [Reformation]>"
+        ]
+    },
+     {
+        "name": "Church Donations",
+        "type": "Follower",
+        "uniques": [
+            "[+1 Food, +1 Culture, +1 Production, +1 Gold, +1 Faith] [in cities following this religion]",
+      "Only available <after adopting [Reformation]>"
+      ]
+    },
+     {
+        "name": "Underground Laboratories",
+        "type": "Founder",
+        "uniques": [
+            "[+1 Science] from every [5] global followers [in all cities]",
+       "Only available <after adopting [Reformation]>"
+       ]
+    },
 ]

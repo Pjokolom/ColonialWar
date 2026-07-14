@@ -17,7 +17,7 @@
 	},
 	{
         "name": "Cathedral",
-        "culture": 10,
+        "culture": 8,
         "uniques": [
             "Unbuildable","Unsellable"
         ]
@@ -632,5 +632,14 @@
         ],
         "requiredTech": "Resort Centers",
         "quote": "'The Law is a fortress on a hill that armies cannot take or floods wash away.' - The Prophet Muhammed"
+    },
+    {
+        "name": "Forgeshrine",
+        "production": 5,
+        "science": 8,
+        "specialistSlots": {"Engineer": 1, "Scientist": 1},
+        "uniques": [
+            "Unbuildable","Unsellable"
+        ]
     }
 ]
