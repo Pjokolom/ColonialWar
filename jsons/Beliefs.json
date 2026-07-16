@@ -50,7 +50,14 @@
             "[+1 Culture, +1 Faith] from every [Bananas]"
         ]    
     },
-
+    {
+        "name": "Divine Service is in Diligence",
+        "type": "Pantheon",
+        "uniques": [
+            "[+2 Production, +1 Science, +2 Faith] from every [Tech Fabric]",
+            "[+2 Production, +1 Science, +2 Faith] from every [Weaponry Fabric]"
+        ] 
+    },
     ///////////////////////////////////////// Founder beliefs //////////////////////////////////////////
     {
         "name": "Thorough inspection",
@@ -77,6 +84,14 @@
         "name": "World Church",
         "type": "Founder",
         "uniques": ["[+1 Culture] from every [6] global followers [in all cities]"]
+    },
+    {
+        "name": "Inhuman Experiments",
+        "type": "Founder",
+        "uniques": [
+            "[-10]% [Food] [in cities following this religion]",
+            "[+1 Science] for every [8] followers [in cities following this religion]"
+          ]
     },
     ///////////////////////////////////////// Follower beliefs /////////////////////////////////////////
     {
@@ -109,20 +124,32 @@
         "type": "Follower",
         "uniques": ["May buy [Cloning Machine] buildings for [500] [Faith] [in cities following this religion]"]
     },
-       {
-        "name": "Divine Service is in Diligence",
-        "type": "Pantheon",
-        "uniques": [
-            "[+2 Production, +1 Science, +2 Faith] from every [Tech Fabric]",
-            "[+2 Production, +1 Science, +2 Faith] from every [Weaponry Fabric]"
-        ] 
-    },
     {
         "name": "Forgeshrine",
         "type": "Follower",
         "uniques": ["May buy [Forgeshrine] buildings for [1000] [Faith] [in cities following this religion]"]
     },
+    {
+        "name": "Alien Labour Camps",
+        "type": "Follower",
+        "uniques": ["May buy [Alien Labour Camp] buildings for [1000] [Faith] [in cities following this religion]"]
+    },
+    {
+        "name": "Religious Elite",
+        "type": "Follower",
+        "uniques": ["[+4 Production, +4 Food, +2 Gold, +1 Faith] [in cities following this religion] <in cities with at least [2] [Specialists]>"]
+    },
     ////////////////////////////////////// Enhancer beliefs ///////////////////////////////////////
+    {
+        "name": "Ease the exploitation of the Nova 1",
+        "type": "Enhancer",
+        "uniques": [
+            "[-1 Food] from [Deer] tiles [in cities following this religion]",
+            "[-1 Food] from [Sheep] tiles [in cities following this religion]",
+            "[-1 Food] from [Cattle] tiles [in cities following this religion]",
+            "[+2 Culture] for each global city following this religion"
+        ]
+    },
     {
         "name": "Concentration",
         "type": "Enhancer",
@@ -148,7 +175,7 @@
 	},
     {
         "name": "Xeno Warriors",
-        "type": "Follower",
+        "type": "Enhancer",
         "uniques": [
             "May buy [Ikoit] units for [1200] [Faith] [in all cities]",
             "May buy [Uuu] units for [1800] [Faith] [in all cities]"
@@ -156,7 +183,7 @@
     },
     {
         "name": "Drastic Methods",
-        "type": "Follower",
+        "type": "Enhancer",
         "uniques": [
            "May buy [Determined Monk] units for [800] [Faith] [in all cities]"
         ]
