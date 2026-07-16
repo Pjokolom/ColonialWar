@@ -90,7 +90,7 @@
         "type": "Founder",
         "uniques": [
             "[-10]% [Food] [in cities following this religion]",
-            "[+1 Science] for every [8] followers [in cities following this religion]"
+            "[+1 Science] from every [8] global followers [in all cities]"
           ]
     },
     ///////////////////////////////////////// Follower beliefs /////////////////////////////////////////
