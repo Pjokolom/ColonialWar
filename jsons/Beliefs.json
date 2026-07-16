@@ -38,7 +38,7 @@
         "uniques": [
             "[+1 Culture, +2 Faith] from every [Deer]",
             "[+1 Culture, +1 Faith] from every [Sheep]",
-            "[+1 Culture, +1 Faith] from every [Cattle]",
+            "[+1 Culture, +1 Faith] from every [Cattle]"
         ]    
     },
        {
@@ -47,7 +47,7 @@
         "uniques": [
             "[+1 Food, +1 Faith] from every [Biarka]",
             "[+1 Culture, +1 Faith] from every [Cibus]",
-            "[+1 Culture, +1 Faith] from every [Bananas]",
+            "[+1 Culture, +1 Faith] from every [Bananas]"
         ]    
     },
 
@@ -114,7 +114,7 @@
         "type": "Pantheon",
         "uniques": [
             "[+2 Production, +1 Science, +2 Faith] from every [Tech Fabric]",
-            "[+2 Production, +1 Science, +2 Faith] from every [Weaponry Fabric]",
+            "[+2 Production, +1 Science, +2 Faith] from every [Weaponry Fabric]"
         ] 
     },
     {
@@ -134,7 +134,7 @@
         "name": "Sacred Millitary",
         "type": "Enhancer",
         "uniques": [
-            "May buy [{Military} {Land} {non-[Mercenary]}] units with [Faith] for [2] times their normal Production cost <in this city>"
+            "May buy [{Gunpowder} {Land} {non-[Mercenary]}] units with [Faith] for [2] times their normal Production cost <in this city>"
         ]
     },
     	{
@@ -149,8 +149,17 @@
     {
         "name": "Xeno Warriors",
         "type": "Follower",
-        "uniques": ["May buy [Uuu] unit with [Faith] for [1000] [Faith] [in cities following this religion]"
-        "May buy [Ikoit] unit with [Faith] for [800] [Faith] [in cities following this religion]"]
+        "uniques": [
+            "May buy [Ikoit] units for [1200] [Faith] [in all cities]",
+            "May buy [Uuu] units for [1800] [Faith] [in all cities]"
+        ]
+    },
+    {
+        "name": "Drastic Methods",
+        "type": "Follower",
+        "uniques": [
+           "May buy [Determined Monk] units for [800] [Faith] [in all cities]"
+        ]
     },
  ////////////////////////////////////// Reformation beliefs ///////////////////////////////////////
   {

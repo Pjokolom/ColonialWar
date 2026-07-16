@@ -163,7 +163,7 @@
             "Never appears as a Barbarian unit",
             "[-75]% Strength <vs [Armored] units> <when attacking>",
             "Never appears as a Barbarian unit",
-            "[+75]% Strength <vs [Gunpowder] units> <when attacking>",
+            "[+75]% Strength <vs [Gunpowder] units> <when attacking>"
             
             
 
@@ -235,7 +235,7 @@
         "movement": 2,
         "uniqueTo": "Barbarians",
         "strength": 12,
-        "cost": 200,
+        "cost": 185,
         "uniques": [
             
             "[-70]% Strength <vs [Armored] units> <when attacking>",
@@ -290,7 +290,7 @@
         "strength": 65,
         "rangedStrength": 30,
         "range": 1,
-        "cost": 200,
+        "cost": 280,
         "promotions": ["Ignore terrain cost"],
         "uniques": [
             "Can move after attacking",
@@ -1309,7 +1309,7 @@
             "Unable to capture cities",
             "Never appears as a Barbarian unit",
             "Unable to pillage tiles"
-        ],
+        ]
     },
     {
         "name": "Helicopter Drone",
@@ -2563,9 +2563,9 @@
 
         ],
         "attackSound": "artillery"
-    }
+    },
  {
-        "name": "Long Dan",
+        "name": "Longdan",
         "unitType": "Armored",
         "uniqueTo": "Chinese Federation",
         "replaces": "Mobile head",
@@ -2584,18 +2584,37 @@
             "[+100]% Strength <vs cities> <when attacking>",
             "[+50]% Strength <vs [Armored] units> <when attacking>",
             "[+50]% Strength <vs [Gunpowder] units> <when attacking>",
-            "[+15]% Strength <vs [Air] units>"
+            "[+15]% Strength <vs [Air] units>",
             "No defensive terrain bonus",
             "Can move after attacking",
             "Can carry [4] [Drone-type] units",
-            "Limited to [4] per Civilization"
+            "Limited to [4] per Civilization",
             "May travel on Water tiles without embarking <after discovering [Knightmare Gen.7]>",
             "All tiles cost 1 movement <after discovering [Knightmare Gen.7]>",
-            "Can pass through impassable tiles <after discovering [Knightmare Gen.7]>"
+            "Can pass through impassable tiles <after discovering [Knightmare Gen.7]>",
             "[+1] Movement <after discovering [Knightmare Gen.7]>"
 
         ],
         "promotions": ["Indirect Fire"],
         "attackSound": "artillery"
     },
+    {
+        "name": "Determined Monk",
+        "unitType": "Civilian",
+        "cost": 800,
+        "uniques": [
+            "Prevents spreading of religion to the city it is next to",
+            "Can Spread Religion <for [8] movement> <after which this unit is consumed>",
+			"Removes other religions when spreading religion",
+            "May enter foreign tiles without open borders",
+            "Unbuildable",
+            "Uncapturable",
+            "Religious Unit",
+            "Only available <when religion is enabled>",
+            "[-1] Sight",
+            "Takes your religion over the one in their birth city"
+        ],
+        "movement": 4,
+        "religiousStrength": 1000
+    }
 ]

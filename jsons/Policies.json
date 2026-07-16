@@ -103,7 +103,7 @@
             {
                 "name": "Collective Rule",
                 "uniques": [
-                    "[+50]% Production when constructing [Coloniser] units [in capital]",
+                    "[+50]% Production when constructing [Colonizer] units [in capital]",
                     "Free [Colonizer] appears",
                     "Provides [1] [Policies]"
                 ],

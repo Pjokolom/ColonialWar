@@ -641,8 +641,8 @@
         "uniques": [
             "Unbuildable","Unsellable"
         ]
-    }
-     {
+    },
+    {
         "name": "Xeno-Temples",
         "culture": 5,
         "science": 3,
@@ -650,5 +650,28 @@
         "uniques": [
             "Unbuildable","Unsellable"
         ]
+    },
+    {
+        "name": "Alien Labour Camp",
+        "production": 10,
+        "culture": -1,
+        "faith": 2,
+        "happiness": -1,
+        "uniques": [
+            "Unbuildable","Unsellable"
+        ]
+    },
+    {
+        "name": "Knightmare Maintence Facility",
+        "cost": 800,
+        "maintenance": 10,
+        "production": 5,
+        "science": 5,
+        "specialistSlots": {"Engineer": 1, "Scientist": 1},
+        "uniques": [
+            "[+15]% Production when constructing [Frame] units [in this city]",
+            "[+15]% Production when constructing [Gen.7] units [in this city]"
+        ],
+        "requiredTech": "Energy Shields"
     }
 ]
