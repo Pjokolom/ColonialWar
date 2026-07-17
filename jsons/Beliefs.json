@@ -90,7 +90,8 @@
         "type": "Founder",
         "uniques": [
             "[-10]% [Food] [in cities following this religion]",
-            "[+1 Science] from every [8] global followers [in all cities]"
+            "[-10]% [Happiness] [in cities following this religion]",
+            "[+2 Science] from every [5] global followers [in all cities]"
           ]
     },
     ///////////////////////////////////////// Follower beliefs /////////////////////////////////////////
@@ -110,7 +111,7 @@
         "uniques": ["May buy [Xeno-Temples] buildings for [800] [Faith] [in cities following this religion]"]
     },
     {
-        "name": "Wisdom",
+        "name": "Hesychasm",
         "type": "Follower",
         "uniques": ["[+1 Gold] from every [Hill]"]
     },
@@ -138,6 +139,29 @@
         "name": "Religious Elite",
         "type": "Follower",
         "uniques": ["[+4 Production, +4 Food, +2 Gold, +1 Faith] [in cities following this religion] <in cities with at least [2] [Specialists]>"]
+    },
+    {
+        "name": "The Riches of the Nova 1",
+        "type": "Follower",
+        "uniques": [
+            "[+3 Culture, +1 Faith] from every [Gold Ore]",
+            "[+1 Gold, +1 Production, +2 Culture, +2 Faith] from every [Silver]",
+            "[+2 Production, +1 Culture, +1 Faith] from every [Copper]",
+            "[+1 Culture, +1 Faith] from every [Metall]"
+        ]
+    },
+    {
+        "name": "Shiny Veins",
+        "type": "Follower",
+        "uniques": [
+            "[+1 Gold, +2 Culture, +2 Faith] from every [Pearls]",
+            "[+1 Gold, +2 Culture, +2 Faith] from every [Ruby]",
+            "[+2 Culture, +2 Faith] from every [Jade]",
+            "[+3 Culture, +2 Faith] from every [Amber]",
+            "[+1 Gold, +2 Culture, +2 Faith] from every [Gems]",
+            "[+3 Culture, +1 Faith] from every [Obsidian]",
+            "[+1 Science, +3 Culture, +3 Faith] from every [Shining Leather]"
+        ]
     },
     ////////////////////////////////////// Enhancer beliefs ///////////////////////////////////////
     {
