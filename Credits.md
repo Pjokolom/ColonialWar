@@ -66,6 +66,11 @@ Contains stuff from mods:
 - [Dock](https://thenounproject.com/icon/dock-4489742/) by Flowicon for Dry Dock
 - [Factory](https://thenounproject.com/icon/factory-6833299/) by Hadi Mulyono for Cooperation
 
+## Religions
+ 
+ - [Voidist](https://github.com/carriontrooper/Alpha-Frontier) icon by carriontrooper 
+ - [Xenocult](https://github.com/carriontrooper/Alpha-Frontier) icon by carriontrooper 
+
 ## Resources
 
 - [Factory](https://thenounproject.com/icon/factory-1559700/) by iconsphere for Factories
