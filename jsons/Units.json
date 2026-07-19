@@ -1826,7 +1826,6 @@
             "Consumes [1] [Human Resourses]",
             "Consumes [1] [Sakuradait]",
             "Consumes [5] [Metall]",
-            "Limited to [1] per Civilization",
             "[+100]% Strength <vs [Armored] units> <when attacking>",
             "[+100]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
             "[+170]% Strength <vs [Gunpowder] units> <when attacking>",

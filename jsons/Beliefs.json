@@ -94,6 +94,15 @@
             "[+2 Science] from every [5] global followers [in all cities]"
           ]
     },
+    {
+        "name": "Missionary Mission",
+        "type": "Founder",
+        "uniques": [
+            "[Faith] cost of purchasing [Missionary] units [-50]%",
+            "[Faith] cost of purchasing [Inquisitor] units [-50]%",
+            "All newly-trained [Missionary] units [in this city] receive the [Missionary Zeal] promotion"
+        ]
+    },
     ///////////////////////////////////////// Follower beliefs /////////////////////////////////////////
     {
         "name": "Cathedrals",
