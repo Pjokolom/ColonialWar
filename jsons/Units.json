@@ -2613,7 +2613,7 @@
             "[-1] Sight",
             "Takes your religion over the one in their birth city"
         ],
-        "promotions" ["Burning"]
+        "promotions": ["Burning"],
         "movement": 4,
         "religiousStrength": 1000
     }
