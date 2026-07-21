@@ -991,6 +991,19 @@
             "All tiles cost 1 movement",
             "Can pass through impassable tiles"
     ]
-	}
-               
+	},
+   {
+        "name": "Burning",
+        "uniques": [
+            "[This Unit] takes [10] damage <upon turn end>"
+        ]
+        
+    
+    },
+    {
+        "name": "Burning II",
+        "uniques": [
+            "[This Unit] takes [25] damage <upon turn end>"
+        ]
+    }            
 ]
