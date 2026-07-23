@@ -22,7 +22,7 @@
         "tradeRequest": "We need to talk some things.",
         "outerColor": [255, 252, 243],
         "innerColor": [179, 139, 19],
-        "uniqueName": "Still Standing",
+        "uniqueName": "Shield of the East",
         "uniques": [
             "[+3 Happiness] [in all non-occupied cities]",
             "[+1 Culture] from every [Hill]",
@@ -87,7 +87,7 @@
         "tradeRequest": "We need to talk some things.",
         "outerColor": [40, 40, 70],
         "innerColor": [255, 255, 255],
-        "uniqueName": "Still Standing",
+        "uniqueName": "Manifest Destiny",
         "uniques": [
             "[+1] Sight <for [{Military} {Land}] units>", 
             "[-50]% Gold cost of acquiring tiles [in all cities]",
@@ -215,7 +215,7 @@
     }, 
     {
         "name": "Japan",
-        "leaderName": "Naoto Kouzuki",
+        "leaderName": "Kaname Ohgi",
         "adjective": ["Japan"],
         "startBias": ["[Coast]"],
         "preferredVictoryType": "Domination",
@@ -278,7 +278,7 @@
         "tradeRequest": "Would you be interested in a trade agreement with England?",
         "outerColor": [0, 0, 0],
         "innerColor": [255,191,0],
-        "uniqueName": "Sun Never Sets",
+        "uniqueName": "Armed Neutrality",
         "uniques": [
 
             "Earn [30]% of killed [Xenos] unit's [Cost] as [Science] <hidden from users>",
